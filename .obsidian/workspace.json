@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ac457265e4a7e3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f2ed2bbad5f0d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deb362fb5f1d8efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/part-10-supply-chain-wars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "part-10-supply-chain-wars"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e8e7b985d8c930b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7196c41c6ff2661b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b2fad362726053",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06c193669b3eaa71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "27bc5202463ecaf4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbb3f1d9dd4c3404",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e9ba3c3b5e7fb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6268f7724f6283",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book/part-10-supply-chain-wars.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for part-10-supply-chain-wars"
+            }
+          },
+          {
+            "id": "93da4f191a48a790",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book/part-10-supply-chain-wars.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from part-10-supply-chain-wars"
+            }
+          },
+          {
+            "id": "20b56d9a1275ba20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49a43f775b9a4adb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "006fd733b68a4084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "book/part-10-supply-chain-wars.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of part-10-supply-chain-wars"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "deb362fb5f1d8efa",
+  "lastOpenFiles": [
+    "book/part-09-global-apps-local-physics.md",
+    "book/part-08-education-stack.md",
+    "book/part-07-the-state-stack.md",
+    "book/part-06-merchant-rails.md",
+    "book/part-05-banks-become-platforms.md",
+    "book/part-04-messaging-and-social.md",
+    "book/part-03-money-as-a-network.md",
+    "book/part-02-connectivity.md",
+    "book/part-01-before-the-hype.md",
+    "book/appendix-rail-map.md",
+    "book/appendix-cast.md",
+    "book/part-17-creators-memes-misinformation.md",
+    "SUMMARY.md",
+    "structure.md",
+    "README.md",
+    "book/sources.md",
+    "book/research-methodology.md",
+    "book/prologue.md",
+    "book/part-11-credit-habit.md",
+    "The Kenya Stack_ Rails, Hustle, and the Republic of Builders — Research Brief & Drafting Bible.pdf",
+    "deep-research-report.md",
+    "Unconfirmed 973118.crdownload",
+    "deep-research-report (1).md"
+  ]
+}
