@@ -9,6 +9,7 @@
 
 Read and follow **`authoring/AGENT-CHAPTER-GUIDE.md`**. It links the normative meta docs under **`authoring/meta/`** and summarizes:
 
+- **Docu-novel rules:** scene-first **Lead**, **builder–user–referee**, named **rail**, mandatory **conflict**, motifs, turning-point companies, character hooks, energy, honest **shadows** (analysis not instructions)—full detail in the guide (mirrors [Structure](authoring/meta/structure.md#rules-for-writing-this-so-its-narrative-character-driven-energetic)).  
 - Topic section template and YAML front matter  
 - Acronym rule: **Full Name (ABBR)** on first use in each file  
 - Web citations: inline links + end-of-file URL registry + `SRC-XX` in **Sources**  
@@ -22,7 +23,7 @@ Read and follow **`authoring/AGENT-CHAPTER-GUIDE.md`**. It links the normative m
 | Section template + acronym rule | `authoring/meta/topic-article-schema.md` |
 | Expansion workflow | `authoring/meta/topic-deepening-workflow.md` |
 | Citation / link registry how-to | `authoring/meta/web-citations.md` |
-| Master outline | `authoring/meta/structure.md` |
+| Master outline + per-chapter beats + **writing rules** | `authoring/meta/structure.md` |
 | Source catalog (`SRC-XX`) | `book/appendices/sources.md` |
 | Scaffold (manuscript → topics) | `scripts/scaffold_topic_articles.py` |
 
