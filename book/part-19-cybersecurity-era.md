@@ -28,10 +28,7 @@ Bridge: future competitiveness hinges on balancing interoperability, security, a
 
 ## Deep-Dive Analysis
 
-This part should be read as infrastructure history, not startup chronology. The key interpretive method is to track behavior change after each rail appears: how users transact, coordinate, verify identity, and recover from failure. In editorial pass two, each chapter should add at least one field vignette (agent kiosk, classroom, boda stage, county office, support desk) and one referee decision (regulatory circular, compliance update, legal ruling, policy memo) so the narrative consistently shows the builder-user-referee triangle under pressure.
-
-> [!info] Source-Backed Note
-> This section is tied to verifiable public sources. Use the Source Catalog IDs below when adding sentence-level footnotes during copy edit.
+Editorial framework: see Appendix C methodology section, "Narrative Interpretation Rules."
 
 ## Timeline Anchors
 
