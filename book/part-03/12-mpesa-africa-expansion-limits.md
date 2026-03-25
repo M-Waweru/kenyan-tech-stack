@@ -15,70 +15,111 @@ tags:
 
 ## Lead
 
-Observers often framed mobile money portability as a technology export problem. In reality, it was a systems alignment problem. Kenya's trajectory relied on agent density, dominant distribution, regulatory latitude, and acute consumer demand existing at once.
+The easy explanation for M-PESA’s regional trajectory is technology transfer. The harder and more accurate explanation is systems fit.
 
-The rail lesson is clear: infrastructure success is ecological, not merely technical. Builders can replicate interfaces, but cannot instantly replicate trust dynamics, market structure, and institutional timing.
+Interfaces travel quickly. Trust ecosystems do not. Kenya’s success depended on a rare alignment of distribution reach, user pain points, regulatory space, and institutional timing. In markets where one or more of those variables differed, outcomes diverged.
 
-Users in other markets adopted where local frictions matched the value proposition. Where banking access, regulation, or channel competition differed, outcomes diverged.
-
-The shadow of copy-paste expansion was strategic overconfidence. Markets that looked similar on slides behaved differently on the ground.
-
-Bridge: back home, the next battle was preserving trust as fraud and identity risks evolved.
+Bridge: understanding those divergence patterns is essential if builders want to avoid copy-paste strategy mistakes.
 
 ## Context
 
-Expand: conditions—market, regulation, distribution, prior rails—that made this topic matter in Kenya.
+M-PESA’s Kenyan model emerged from specific local conditions: high demand for low-value transfers, strong agent expansion, and established mobile behavior from the telecom era.
+
+Vodafone’s own 15-year account of M-PESA’s growth across countries confirms both scale and unevenness, reinforcing that adoption is contextual, not automatic ([Vodafone M-PESA history][vodafone-15]).
 
 ## History
 
-Expand: dated chronology (founding, launches, scale moments, crises, pivots). Cite [Source Catalog](../appendices/sources.md).
+A useful comparative timeline is:
+
+- Kenya validates core value proposition rapidly.
+- Expansion attempts move across multiple African markets.
+- Performance varies by market structure, banking reach, regulation, and distribution economics.
+
+This pattern matches broader digital-platform history: successful products export fastest where incumbent frictions and institutional incentives are similar.
 
 ## Product and mechanics
 
-Expand: how it works for users, businesses, and developers (flows, APIs, fees, trust, UX).
+### Worked example (*Composite*) — why same app flow performs differently across markets
+
+Market A has dense agents, high mobile trust, and permissive onboarding rules; Market B has sparse agent liquidity and stricter identity checks. The same transfer interface can show rapid repeat use in Market A and low retention in Market B. This is the core comparative point: process infrastructure and institutional rules determine product outcomes as much as UX does.
+
+
+At product level, M-PESA’s core mechanics are portable. At system level, portability is constrained by:
+
+1. agent liquidity economics,
+2. regulator posture,
+3. interoperability environment,
+4. incumbent banking and card infrastructure depth.
+
+Where these align, adoption can compound. Where they conflict, growth slows or stalls.
 
 ## Business model and incentives
 
-Expand: who pays whom, unit economics, strategic constraints.
+Expansion economics are sensitive to market density and transaction behavior. Low-density markets or high cash-management costs can erode unit economics quickly.
+
+Incentives also differ by partner structure and regulatory requirements, which can alter product sequencing and risk appetite.
 
 ## Regulation and referees
 
-Expand: CBK, CA, sector regulators, courts, consumer protection—who sets the rules.
+Regulation is not just compliance overhead. It is a core go-to-market variable.
+
+Kenya’s legal evolution on data protection and cybercrime now illustrates how governance maturity reshapes payment-platform obligations as scale grows ([Data Protection Act][dpa], [Cybercrimes Act][cyber-act]).
 
 ## Adoption in Kenya
 
-Expand: segments, channels, geography, typical use cases.
+Kenya remains the reference case because adoption reached social-infrastructure depth. That depth then informed external expectations, sometimes unrealistically.
+
+The lesson for comparative analysis: use Kenya as a benchmark, not a template.
 
 ## Ecosystem effects
 
-Expand: what this unlocked downstream (categories, partners, copycats, stack dependencies).
+The Kenyan case exported more than product mechanics. It exported a strategic thesis: mobile money can rewire market behavior when infrastructure and institutions coevolve.
+
+It also exported a caution: overestimating transferability can burn capital and time.
 
 ## Setbacks and controversies
 
-Expand: documented failures, backlash, outages, hacks, labor conflict, policy fights.
+The biggest strategic failure mode in cross-market expansion is treating distribution and trust as if they can be copied by interface design alone.
+
+When local institutional realities resist, product teams often misdiagnose the problem as “marketing gap” instead of “ecosystem misfit.”
 
 ## Competition and alternatives
 
-Expand: local and global alternatives readers should compare.
+In some markets, banks, cards, or alternative wallets already solved key pain points that M-PESA solved in Kenya. In others, regulatory or partnership constraints slowed mobile-money-style scaling.
+
+Competition is therefore path-dependent, not uniform.
 
 ## Legacy and open questions
 
-What remains unsettled or in flux.
+M-PESA’s cross-border legacy is twofold: a proof that mobile money can scale massively and a reminder that no single playbook universalizes cleanly.
+
+Open questions now include interoperability politics across borders, compliance harmonization, and which markets can support next-generation rails without repeating first-generation mistakes.
 
 ## Builder read
 
-*Interpretation.* If you are building on or next to this rail today: constraints, failure modes, whitespace.
+*Interpretation.* If you are expanding regionally, test for systems fit before feature fit.
+
+Map regulator posture, agent economics, and trust behavior early. Those three variables will usually decide your outcome before growth hacks do.
 
 ## See also
 
+- [11. What M-PESA Did to the Ecosystem](11-mpesa-ecosystem-effects.md)
+- [13. Trust's Dark Twin: Fraud, SIM Swaps, Social Engineering](13-trust-dark-twin-fraud-sim-swaps.md)
 - [Part index](index.md)
 
 ## Sources
 
-- [Source Catalog](../appendices/sources.md)
+- `SRC-07` — [Vodafone — M-PESA 15-year history](https://www.vodafone.com/news/newsroom/empowering-people/mpesa-marks-15-years)
+- `SRC-13` — [Data Protection Act, 2019](https://new.kenyalaw.org/akn/ke/act/2019/24/eng%402019-11-15)
+- `SRC-14` — [Computer Misuse and Cybercrimes Act, 2018](https://new.kenyalaw.org/akn/ke/act/2018/5/eng%402018-05-18)
+- [Full Source Catalog](../appendices/sources.md)
 
 ---
 
 ### Navigate
 
 ← **Previous:** [← 11. What M-PESA Did to the Ecosystem](11-mpesa-ecosystem-effects.md) · [**Part 3 index**](index.md) · **Next:** [13. Trust's Dark Twin: Fraud, SIM Swaps, Social Engineering](13-trust-dark-twin-fraud-sim-swaps.md) →
+
+[cyber-act]: https://new.kenyalaw.org/akn/ke/act/2018/5/eng%402018-05-18
+[dpa]: https://new.kenyalaw.org/akn/ke/act/2019/24/eng%402019-11-15
+[vodafone-15]: https://www.vodafone.com/news/newsroom/empowering-people/mpesa-marks-15-years
