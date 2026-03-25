@@ -33,6 +33,15 @@ Every chapter should include at least one Class A or B anchor before publication
 3. Use reputable international reporting for market events requiring independent verification.
 4. Use interviews to explain behavior and incentives, not to replace factual anchors.
 
+
+## Narrative Interpretation Rules (Canonical Editorial Framework)
+
+Read each part as infrastructure history, not startup chronology. Track behavior change after each rail appears: how users transact, coordinate, verify identity, and recover from failure.
+
+In editorial pass two, each chapter should include at least one field vignette (for example: agent kiosk, classroom, boda stage, county office, support desk) and one referee decision (for example: regulatory circular, compliance update, legal ruling, policy memo) so the builder-user-referee triangle is visible under pressure.
+
+Use Source Catalog IDs for sentence-level footnotes during copy edit. Keep part-level timeline anchors, metrics snapshots, and verified-source lists inside each `part-*.md` file.
+
 ## Safety and Ethics Protocol
 
 - Do not publish operational detail that could enable fraud or exploitation.
