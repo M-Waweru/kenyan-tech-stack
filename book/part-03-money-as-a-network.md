@@ -14,7 +14,7 @@ Bridge: once person-to-person transfer normalized, business and institutional wo
 
 ## 9. M-PESA for Business: The Stack People Forget
 
-A school bursar posts a `PayBill` number. A market trader accepts `Till`. A landlord requests coded references for rent tracking. A church treasurer reconciles contributions with digital statements. None of this is "future tech" language. It is accounting practice transformed through payment rails.
+A school bursar posts a `PayBill` (business collection channel). A market trader accepts `Till` (merchant acceptance number). A landlord requests coded references for rent tracking. A church treasurer reconciles contributions with digital statements. None of this is "future tech" language. It is accounting practice transformed through payment rails.
 
 The rail here is merchant and institutional acceptance at varied scale. Builders include merchant-product teams, settlement operations, platform integrators, and frontline support channels. Users include SMEs, schools, landlords, service providers, and community organizations. Referees include settlement rules, dispute management frameworks, tax expectations, and platform controls.
 

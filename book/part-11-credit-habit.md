@@ -24,7 +24,7 @@ The shadow includes privacy concerns, model opacity, and emotional stress around
 
 Bridge: overdraft embedded inside payment flows removed friction even further.
 
-## 43. Fuliza: Ambient Borrowing
+## 43. Fuliza (embedded overdraft facility): Ambient Borrowing
 
 A transaction succeeds despite insufficient balance because overdraft is integrated into the payment rail. Borrowing no longer feels like a separate decision.
 
@@ -61,7 +61,7 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2022-2025 | Digital lending regulated through DCP framework | SRC-16 |
+| 2022-2025 | Digital lending regulated through DCP (Digital Credit Providers) framework | SRC-16 |
 | 2025 | Governance and compliance standards become central product constraints | SRC-13 |
 | 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
 

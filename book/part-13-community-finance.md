@@ -1,6 +1,6 @@
 ﻿# Part XIII: Community Finance (Always-On Tradition, Digitized)
 
-## 47. Chamas and Table Banking: Trust as Financial Engine
+## 47. Chamas (informal savings groups) and Table Banking: Trust as Financial Engine
 
 Long before fintech language entered everyday conversation, chamas solved practical liquidity problems through relationships. Contributions were scheduled, leadership roles rotated, and consequences for non-compliance were social before they were legal. A ledger on paper could outperform formal systems where trust and proximity were strong.
 
@@ -22,7 +22,7 @@ Behavior shifted from meeting-centric governance to continuous asynchronous coor
 
 The shadow includes credential theft, admin abuse in digital systems, and conflict escalation through text-based communication.
 
-Bridge: SACCO modernization brought similar digitization pressures into regulated cooperative finance.
+Bridge: SACCO (Savings and Credit Cooperative Organization) modernization brought similar digitization pressures into regulated cooperative finance.
 
 ## 49. SACCO Digitization: Cooperative Stack Matures
 

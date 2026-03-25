@@ -4,7 +4,7 @@
 
 A customer completes a payment, but confidence arrives only when the message arrives. "Confirmed." "Received." "Your balance is..." These fragments of text do the trust work that dashboards cannot. In Kenya's digital economy, communication reliability is product reliability.
 
-The rail in this chapter is programmable communications: SMS, USSD, voice, and notification workflows exposed through APIs. Builders include developer-platform teams, telecom integration specialists, and product managers designing high-completion journeys. Users include startups, banks, hospitals, schools, logistics businesses, and public-service teams. Referees include telecom policy, anti-spam enforcement, and consumer-protection expectations.
+The rail in this chapter is programmable communications: SMS, USSD (Unstructured Supplementary Service Data), voice, and notification workflows exposed through APIs. Builders include developer-platform teams, telecom integration specialists, and product managers designing high-completion journeys. Users include startups, banks, hospitals, schools, logistics businesses, and public-service teams. Referees include telecom policy, anti-spam enforcement, and consumer-protection expectations.
 
 Behavior changed because small teams gained enterprise communication capability. A young startup could send transactional alerts at scale, run USSD access for feature-phone users, and automate reminders that reduced churn and default rates. This collapsed barriers between incumbents and newcomers.
 
@@ -14,7 +14,7 @@ Bridge: while formal communication APIs professionalized business messaging, a p
 
 ## 15. WhatsApp: Kenya's Real Communication Infrastructure
 
-A chama treasurer posts contribution reminders. A parent asks about homework in a class group. A local business shares product photos and receives orders in minutes. A community organizer circulates legal aid contacts during protest periods. One app hosts commerce, governance, social care, and politics.
+A chama (informal savings group) treasurer posts contribution reminders. A parent asks about homework in a class group. A local business shares product photos and receives orders in minutes. A community organizer circulates legal aid contacts during protest periods. One app hosts commerce, governance, social care, and politics.
 
 The rail is social coordination at scale through chat-native behavior. Builders are not only platform engineers in distant headquarters. They are local admins, moderators, customer-support teams, informal community leaders, and creators who shape group norms. Users are households, students, entrepreneurs, activists, and service workers. Referees are platform policy teams, regulators, and sometimes courts.
 

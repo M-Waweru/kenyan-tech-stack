@@ -16,7 +16,7 @@ Bridge: feature-phone-compatible models addressed this constraint early.
 
 A learner receives questions via SMS after chores, practices quietly, and gets feedback without broadband, laptop, or classroom extension hours.
 
-The rail is low-bandwidth digital learning. Builders include SMS/USSD education product teams and content specialists. Users are students in connectivity-limited settings. Referees include school acceptance and curriculum alignment pressures.
+The rail is low-bandwidth digital learning. Builders include SMS/USSD (Unstructured Supplementary Service Data) education product teams and content specialists. Users are students in connectivity-limited settings. Referees include school acceptance and curriculum alignment pressures.
 
 Behavior changed by extending learning time and access beyond classroom walls. Feature-phone compatibility expanded reach into underserved segments.
 

@@ -1,4 +1,4 @@
-# Appendix C: Research Methodology and Source Protocol
+# Appendix E: Research Methodology and Source Protocol
 
 ## Manuscript Method
 
@@ -49,6 +49,7 @@ Every chapter should include at least one Class A or B anchor before publication
 4. Add interview attribution table (on-record, background, anonymous).
 5. Run external fact-check and legal sensitivity review.
 6. Final copy edit for tone and consistency.
+7. Run the acronym first-use editorial lint checklist in [Appendix C: Glossary and Acronym Guide](appendix-glossary.md#editorial-lint-checklist-acronym-first-use-enforcement).
 
 ## Working Status
 

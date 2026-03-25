@@ -37,7 +37,7 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2022 | DCP regulatory perimeter formalized | SRC-16 |
+| 2022 | DCP (Digital Credit Providers) regulatory perimeter formalized | SRC-16 |
 | 2025 | Governance and compliance standards become central product constraints | SRC-13 |
 | 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
 
