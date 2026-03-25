@@ -53,7 +53,7 @@ This catalog contains verifiable sources used across the manuscript. **Topic cha
 
 - `SRC-27` SASRA (official): https://www.sasra.go.ke/
 
-## Part I — Before the Hype (Banking, Cybercafé, Telcoms)
+## Part I+II — Foundations and Connectivity (Banking, Cybercafé, Telcoms, Policy, Infrastructure)
 
 - `SRC-28` How Kamal Budhabhatti built Craft Silicon (How We Made It In Africa): https://www.howwemadeitinafrica.com/how-kamal-budhabhatti-built-one-of-kenyas-foremost-it-companies/17410/
 - `SRC-29` Meet the Boss: Kamal Budhabhatti, Craft Silicon (How We Made It In Africa): https://www.howwemadeitinafrica.com/meet-the-boss-kamal-budhabhatti-ceo-craft-silicon-kenya/16861/
@@ -75,6 +75,10 @@ This catalog contains verifiable sources used across the manuscript. **Topic cha
 - `SRC-45` Communications Commission of Kenya annual report FY2010/11 (TEAMS/SEACOM/EASSy context and sector indicators): https://www.ca.go.ke/sites/default/files/2023-05/Annual-Report-for-the-Financial-Year-2010-2011.pdf
 - `SRC-46` SEACOM official company site (subsea cable network context): https://www.seacom.com/
 - `SRC-47` Communications Authority news — Kenya digital services surge (FY2024/25 Q4 summary, published 10 June 2025): https://www.ca.go.ke/mobile-internet-and-tech-services-surge-kenya-digital-shift-accelerates
+- `SRC-48` Communications Commission of Kenya annual report FY2011/12 (internet growth and fixed-fibre adoption indicators): https://www.ca.go.ke/sites/default/files/2023-05/Annual-Report-for-the-Financial-Year-2011-2012.pdf
+- `SRC-49` Safaricom annual report and accounts 2009 (IPO outcomes, subscriber base, M-PESA and network expansion): https://www.safaricom.co.ke/images/Investorrelation/2009_annual_report.pdf
+- `SRC-51` CA sector statistics report Q3 FY2024/25 (fixed internet technology mix, operator shares, international bandwidth): https://www.ca.go.ke/sites/default/files/2025-06/Sector%20Statistics%20Report%20Q3%202024-2025.pdf
+- `SRC-52` Kenya Vision 2030 flagship projects progress report 2008–2017 (TEAMS and NOFBI milestones): https://vision2030.go.ke/wp-content/uploads/2021/11/KENYA-VISION-2030-FLAGSHIP-PROJECTS-PROGRESS-REPORT-2008-2017.pdf
 
 ---
 

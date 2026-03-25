@@ -10,7 +10,7 @@ tags:
 
 # Part 2: Connectivity (2005–2012)
 
-
+Part II is where Kenyan digital ambition moved from rhetoric to infrastructure. It connects policy decisions, subsea capacity, platform incumbency, and home access behavior into one operational story.
 
 ## Topics in this part
 
@@ -19,41 +19,34 @@ tags:
 - [6. Safaricom: Platform Incumbent Is Born](06-safaricom-platform-incumbent.md)
 - [7. Home Internet and Wi-Fi Culture](07-home-internet-wifi-culture.md)
 
+## How to read this part
 
-<!-- EVIDENCE_BLOCK -->
+- Chapter 4 explains policy sequencing and why NOFBI/TEAMS decisions mattered for national throughput.
+- Chapter 5 shows why cable landings changed economics but did not erase last-mile bottlenecks.
+- Chapter 6 tracks distribution + trust compounding into platform incumbency.
+- Chapter 7 shows how infrastructure translated into household behavior and productivity shifts.
 
-## Deep-Dive Analysis
+## Timeline anchors
 
-This part should be read as infrastructure history, not startup chronology. The key interpretive method is to track behavior change after each rail appears: how users transact, coordinate, verify identity, and recover from failure. In editorial pass two, each chapter should add at least one field vignette (agent kiosk, classroom, boda stage, county office, support desk) and one referee decision (regulatory circular, compliance update, legal ruling, policy memo) so the narrative consistently shows the builder-user-referee triangle under pressure.
-
-> [!info] Source-Backed Note
-> This section is tied to verifiable public sources. Use the Source Catalog IDs below when adding sentence-level footnotes during copy edit.
-
-## Timeline Anchors
-
-| Date/Period | Anchor Event | Source ID |
+| Date/Period | Anchor event | Source ID |
 | --- | --- | --- |
-| 2009-2010 | Subsea cable era (TEAMS/SEACOM/EASSy) lowers capacity constraints | SRC-01 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| 2009/10 | TEAMS operationalization in Vision 2030 reporting | SRC-52 |
+| FY2010/11 | CCK reports TEAMS + EASSy + SEACOM effect on broadband cost/speed | SRC-45 |
+| FY2011/12 | Internet subscriptions rise from 4.26M to 7.74M; penetration to 35.5% | SRC-48 |
+| FY2024/25 Q3 | Kenya reports 22,154.438 Gbps lit international capacity | SRC-51 |
 
-## Metrics Snapshot
+## Why this part matters for builders
 
-| Indicator | Why It Matters | Suggested Source |
-| --- | --- | --- |
-| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
+Connectivity is not backdrop in Kenya. It is an input variable for product unit economics, support load, and user trust. Teams that understand Part II design better fallbacks and better go-to-market choices.
 
-## Verified Sources For This Part
+## Verified sources for this part
 
-- `SRC-01`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-02`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-03`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
-
-Full links: [Source Catalog](../appendices/sources.md)
-
+- `SRC-45`: [CCK annual report FY2010/11](../appendices/sources.md#source-catalog)
+- `SRC-46`: [SEACOM official context](../appendices/sources.md#source-catalog)
+- `SRC-48`: [CCK annual report FY2011/12](../appendices/sources.md#source-catalog)
+- `SRC-49`: [Safaricom annual report 2009](../appendices/sources.md#source-catalog)
+- `SRC-51`: [CA sector statistics Q3 FY2024/25](../appendices/sources.md#source-catalog)
+- `SRC-52`: [Vision 2030 progress report 2008–2017](../appendices/sources.md#source-catalog)
 
 ---
 

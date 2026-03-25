@@ -15,113 +15,111 @@ tags:
 
 ## Lead
 
-The home router quietly changed Kenyan digital life. It turned internet use from an occasional trip—to the cybercafé, office, or campus—into ambient household behavior. Homework migrated online. Informal businesses learned platform selling from living rooms. Entertainment habits shifted from scheduled broadcast to on-demand streams. Side hustles became account dashboards open at night.
+The home router changed the unit of digital life in Kenya.
 
-This rail is fixed broadband plus local wireless distribution in homes, apartments, schools, and small offices. The builder is the combined ISP, fibre-construction, landlord, and support-operations ecosystem. The user is the family, student, creator, and micro-enterprise that depends on stable connectivity. The referee includes licensing authorities, rights-of-way governance, and consumer-protection institutions.
+Cybercafés had offered scheduled access. Home connectivity created continuous access. School assignments, side hustles, streaming, remote support work, and online retail operations could now happen in the same evening, on the same connection, in the same household.
 
-The shadow is cumulative inequality. Households with stable broadband gain compounding advantages in education, job access, and digital fluency. Households without it continue paying a volatility tax through slower or costlier alternatives.
+This chapter is that transition: from shared public internet moments to private domestic digital routines.
 
-Bridge: when home connectivity becomes normal, money, identity, and services move from occasional digital interactions to always-on digital operating systems.
+Bridge: once households stay online continuously, payments and services stop feeling like “online activities” and start feeling like normal life.
 
 ## Context
 
-Subsea and backbone improvements lowered national constraints, but home internet required a second buildout: neighborhood fibre, customer-premises equipment, support teams, and payment models households could tolerate.
+The cultural shift required infrastructure before it required culture. Subsea capacity and backbone rollout created supply conditions. Falling device costs and aggressive bundles created demand conditions.
 
-The demand side rose quickly as smartphone ownership increased and digital services expanded. Recent CA reporting shows this broad transition at macro scale, including high smartphone penetration and expanding broadband usage, with mobile remaining dominant but fixed access still strategically important in dense areas ([CA digital shift update, 10 June 2025][src-47]).
+CCK’s FY2011/12 data captures the early jump point: total internet subscriptions at **7,738,882**, up from **4,258,287** the prior year, and penetration rising from **21.2%** to **35.5%** ([CCK annual report FY2011/12][cack-2012]).
 
 ## History
 
-The trajectory can be read in three phases:
+Home internet in Kenya moved in waves.
 
-- **Phase 1 (mid-2000s to early 2010s):** internet mostly institutional, office, or cybercafé; home access present but limited by cost and footprint.
-- **Phase 2 (2010s):** growing urban fibre rollout and wireless home products begin mainstreaming residential broadband in middle-income neighborhoods.
-- **Phase 3 (2020s):** hybrid fixed-mobile households become common; users expect always-available video, cloud storage, remote work tools, and public-service access from home.
+First wave: cybercafés and institutional links dominated. Second wave: mobile internet scaled quickly. Third wave: fixed household links expanded in dense urban and peri-urban corridors.
 
-CA statistics and sector reports provide the empirical baseline for these transitions, including broadband subscription growth and technology migration patterns ([CA stats hub][src-18], [CA Q1 FY2024/25 report item][src-20], [CA news summary Q1 FY2025/26][src-19]).
+The fixed-home shift is visible in early CCK numbers. Fixed fibre subscriptions rose from **22,460** to **49,371** in FY2011/12, a **119.8%** increase year-on-year ([CCK annual report FY2011/12][cack-2012]).
+
+Recent CA reporting shows how far that wave has extended. By March 2025, fixed fibre subscriptions reached **1,131,899**, and total fixed internet subscriptions hit **1,857,574** after an **8.1%** quarterly rise ([CA sector statistics Q3 FY2024/25][ca-q3-2025]).
 
 ## Product and mechanics
 
-Home internet delivery is a chain of decisions, each with failure modes:
+### Worked example (*Composite*) — household hybrid connectivity procedure
 
-1. **Access technology:** fibre-to-the-home, fixed wireless, or mobile hotspot substitution.
-2. **In-building distribution:** router placement, mesh decisions, wall/material interference.
-3. **Plan design:** speed tiers, fair-use policies, installation fees, and support terms.
-4. **Service assurance:** uptime, repair response, and customer support quality.
+A household in Kiambu uses fixed fibre for school and streaming, then falls back to mobile tethering when the home router drops. Their practical procedure is: restart router, check provider app/SMS for outage advisory, switch to mobile hotspot for critical tasks, then rejoin fixed link when restored. This “dual-rail at home” procedure is now common because CA’s own market data shows both large mobile-data scale and growing fixed-fibre adoption in parallel ([CA sector statistics Q3 FY2024/25][ca-q3-2025]).
 
-Users experience this as one thing—“my Wi-Fi works” or “it doesn’t.” Builders know it is a multi-layer reliability problem.
+
+Home internet quality is produced by a chain most users never see:
+
+- access technology (fibre, fixed wireless, satellite, cable, or hybrid),
+- in-home distribution quality,
+- speed-tier and fair-use policy design,
+- service support and fault restoration.
+
+CA’s speed-band table for Q3 FY2024/25 shows where use now clusters: fixed subscriptions are concentrated in **2–10 Mbps** and **10–30 Mbps** bands, with substantial growth in higher tiers as fibre matures ([CA sector statistics Q3 FY2024/25][ca-q3-2025]).
 
 ## Business model and incentives
 
-ISPs chase recurring revenue with high acquisition costs and variable support burden. Good unit economics require dense neighborhoods, predictable churn, and strong installation/service operations.
+For providers, home broadband is operationally expensive: installation, support, and network maintenance are constant.
 
-For households, affordability is not just monthly tariff; it includes installation cost, device quality, outages, and backup options. That is why many families run hybrid models (home link plus mobile fallback).
+For households, affordability is broader than monthly price. It includes setup costs, outage frequency, speed consistency, and availability of fallback mobile options.
+
+This is why many Kenyan homes maintain a blended strategy: fixed link for heavy use, mobile for resilience.
 
 ## Regulation and referees
 
-CA’s role includes licensing, market monitoring, quality oversight, and publication of sector statistics that shape investment and policy conversations.
+The **Communications Authority of Kenya (CA)** publishes the metrics that now shape investment and competition narratives: technology mix, fixed subscription growth, operator shares, and international capacity.
 
-At infrastructure level, county permissions and wayleave processes affect rollout speed and reliability. At consumer level, transparency of service terms and complaint resolution affects trust in providers.
+In Q3 FY2024/25, CA identifies a competitive but concentrated fixed internet market: Safaricom (**36.5%**), Jamii Telecommunications (**22.5%**), Wananchi Group (**14.4%**), and Poa Internet (**14.1%**) among the top providers ([CA sector statistics Q3 FY2024/25][ca-q3-2025]).
 
 ## Adoption in Kenya
 
-Adoption in Kenya is uneven but meaningful. Urban and peri-urban clusters with fibre availability have seen strong take-up among students, professionals, and digital SMEs. In many regions, mobile broadband remains the practical default.
+Adoption is not one Kenyan story. It is several.
 
-The result is not a binary “connected/unconnected” landscape but a layered one: high-capacity households, mobile-dependent households, and intermittently connected households—all coexisting and participating differently in the digital economy.
+Some households run high-capacity fibre with video-heavy work and learning. Others rely on mobile bundles and periodic Wi-Fi access points. Many households switch dynamically between both.
+
+CA’s June 30, 2025 Q3 summary shows the wider demand context: **76.16 million** active SIM subscriptions, **57.18 million** mobile data subscriptions, and **42.35 million** smartphones. Home Wi-Fi culture has grown within that broader mobile-first environment, not outside it ([CA Q3 summary, published 30 June 2025][ca-q3-summary]).
 
 ## Ecosystem effects
 
-Home internet expanded the national talent surface:
+Stable home connectivity has enlarged Kenya’s productive hours. Builders can work remotely across towns. Learners can access platforms continuously. Creators can publish from home setups. Small merchants can run inventory, customer support, and payments from one device stack.
 
-- more remote and freelance work,
-- stronger creator and online-learning cultures,
-- easier onboarding for cloud-first startups,
-- and wider household familiarity with digital finance and government services.
-
-These are not minor quality-of-life upgrades; they are productivity multipliers.
+These are not lifestyle details. They are national productivity shifts.
 
 ## Setbacks and controversies
 
-Key frictions persist:
+The same trend has widened opportunity gaps. Homes with reliable broadband accumulate educational and economic advantages faster. Homes without it absorb friction costs in time, money, and missed opportunity.
 
-- rollout inequality between neighborhoods,
-- unstable service in some localities,
-- opaque plan terms and speed expectations,
-- and affordability pressure for low-income homes.
-
-In effect, Wi-Fi culture can deepen social mobility for some households while reproducing exclusion for others.
+Quality disputes and uneven rollout remain persistent trust issues, especially outside high-return deployment zones.
 
 ## Competition and alternatives
 
-Mobile broadband is the main alternative and often the default fallback. Fixed-wireless offerings compete with fibre where deployment is difficult or expensive.
+Fixed and mobile are no longer substitutes in a simple sense. They are complementary rails with different strengths.
 
-The real competition is therefore use-case based: households choose the mix that best handles schooling, entertainment, work, and budget volatility.
+A well-functioning household stack in Kenya increasingly means both: stable fixed connectivity where available, and mobile redundancy when fixed fails.
 
 ## Legacy and open questions
 
-Home internet normalized the idea that Kenyan digital life is not “on the phone only.” It broadened where and when people can participate in modern services.
+Home internet and Wi-Fi culture completed Kenya’s transition from episodic internet access to ambient household internet life.
 
-Open questions now include: how quickly fixed access can spread beyond high-density zones, how to reduce household setup costs, and how to maintain service quality as usage intensity keeps rising.
+Open questions now focus on fairness and quality: can high-quality fixed access spread faster beyond core neighborhoods, and can service assurance improve enough to make digital participation less location-dependent?
 
 ## Builder read
 
-*Interpretation.* If your product assumes stable broadband, model the fallback experience as seriously as the primary flow. Kenyan users are adaptive; your product should be too.
+*Interpretation.* Design as if your users move across connectivity conditions in one day. Because they do.
 
-Design for sync delays, intermittent sessions, and low-friction resume states. In a mixed-connectivity market, resilience UX wins trust.
+Products that handle variable bandwidth, interrupted sessions, and low-friction resume flows will outperform products built for ideal network assumptions.
 
 ## See also
 
 - [2. The Cybercafe Republic](../part-01/02-cybercafe-republic.md)
 - [5. The Subsea Cable Shock](05-subsea-cable-shock.md)
 - [6. Safaricom: Platform Incumbent Is Born](06-safaricom-platform-incumbent.md)
-- [8. M-PESA: The Payment OS](../part-03/08-mpesa-payment-os.md)
 - [Part index](index.md)
 
 ## Sources
 
 - `SRC-18` — [CA statistics](https://www.ca.go.ke/statistics)
 - `SRC-19` — [CA news — mobile data and digital services rise](https://www.ca.go.ke/mobile-data-and-digital-services-rise-ca-report-shows)
-- `SRC-20` — [CA repository — Q1 FY2024/25 sector statistics (PDF)](https://repository.ca.go.ke/items/9b4e8c5c-08e8-44f5-a6c4-0d0618dee56e)
-- `SRC-47` — [CA news — Kenya digital services surge (10 June 2025)](https://www.ca.go.ke/mobile-internet-and-tech-services-surge-kenya-digital-shift-accelerates)
+- `SRC-48` — [Communications Commission of Kenya annual report FY2011/12 (PDF)](https://www.ca.go.ke/sites/default/files/2023-05/Annual-Report-for-the-Financial-Year-2011-2012.pdf)
+- `SRC-51` — [CA sector statistics report Q3 FY2024/25 (PDF)](https://www.ca.go.ke/sites/default/files/2025-06/Sector%20Statistics%20Report%20Q3%202024-2025.pdf)
 - [Full Source Catalog](../appendices/sources.md)
 
 ---
@@ -130,7 +128,6 @@ Design for sync delays, intermittent sessions, and low-friction resume states. I
 
 ← **Previous:** [← 6. Safaricom: Platform Incumbent Is Born](06-safaricom-platform-incumbent.md) · [**Part 2 index**](index.md) · **Next:** [8. M-PESA: The Payment OS](../part-03/08-mpesa-payment-os.md) →
 
-[src-18]: https://www.ca.go.ke/statistics
-[src-19]: https://www.ca.go.ke/mobile-data-and-digital-services-rise-ca-report-shows
-[src-20]: https://repository.ca.go.ke/items/9b4e8c5c-08e8-44f5-a6c4-0d0618dee56e
-[src-47]: https://www.ca.go.ke/mobile-internet-and-tech-services-surge-kenya-digital-shift-accelerates
+[ca-q3-2025]: https://www.ca.go.ke/sites/default/files/2025-06/Sector%20Statistics%20Report%20Q3%202024-2025.pdf
+[ca-q3-summary]: https://www.ca.go.ke/mobile-data-and-digital-services-rise-ca-report-shows
+[cack-2012]: https://www.ca.go.ke/sites/default/files/2023-05/Annual-Report-for-the-Financial-Year-2011-2012.pdf
