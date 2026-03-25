@@ -11,11 +11,13 @@ This repository contains a full GitBook manuscript draft of *The Kenyan Tech Sta
 
 - `README.md`: Book landing page and thesis
 - `SUMMARY.md`: GitBook table of contents
-- `book/`: Quartz-ready content (see `book/README.md`)
-- `book/index.md`: Manuscript landing / site home when deployed
-- `book/manuscript/`: Prologue and parts I–XX
+- `book/`: **Published** reader content only (see `book/README.md`)
+- `book/index.md`: Book landing / site home when deployed
+- `book/prologue.md`: Opening chapter
+- `book/part-01/` … `book/part-20/`: One topic article per chapter + part `index.md`
 - `book/appendices/`: Cast, rail map, research methodology, source catalog
-- `book/meta/`: Full outline (`structure.md`), factual rigor audit
+- `authoring/`: Outlines, audits, workflows, merged manuscript (`authoring/manuscript/`) — **not** part of the public book tree
+- `authoring/AGENT-CHAPTER-GUIDE.md`: Hand off to AI/human editors expanding chapters
 
 ## Core Thesis
 

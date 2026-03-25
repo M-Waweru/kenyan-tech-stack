@@ -6,7 +6,7 @@ tags:
 ---
 # Source Catalog
 
-This catalog contains verifiable sources used across the manuscript. Use these IDs in chapter-level footnotes and evidence tables.
+This catalog contains verifiable sources used across the manuscript. **Topic chapters** cite these URLs as **clickable markdown links** in the body (with a small **link reference registry** at the end of each file). Keep **`SRC-XX` IDs** here and in each chapter’s **Sources** list so print or PDF editions can still map claims to rows in this table.
 
 ## Core Infrastructure and Connectivity
 
@@ -61,9 +61,19 @@ This catalog contains verifiable sources used across the manuscript. Use these I
 - `SRC-31` Kenya mobile subscribers evolution, SIM prices 1990s–2000s (TechTrends KE): https://techtrendske.co.ke/2025/08/19/kenya-mobile-subscribers-2025
 - `SRC-32` Mobile subscription and penetration trends in Kenya (SAI/Journal): https://thesai.org/Publications/ViewPaper?Code=ijarai&Issue=1&SerialNo=1&Volume=4
 - `SRC-33` Statista — Kenya mobile cellular subscriptions 2000–2024: https://www.statista.com/statistics/498385/number-of-mobile-cellular-subscriptions-in-kenya/
+- `SRC-34` Kenya Bankers Association — History of Banking in Kenya (Technology timeline): https://bankinghistory.kba.co.ke/technology/
+- `SRC-35` Wikipedia — Safaricom (corporate history summary; verify against primary filings): https://en.wikipedia.org/wiki/Safaricom
+- `SRC-36` University of Nairobi e-repository — cybercafé / internet market thesis (Nairobi): https://erepository.uonbi.ac.ke/handle/11295/106107
+- `SRC-37` Safaricom newsroom — corporate history / tech journey (primary operator narrative): https://newsroom.safaricom.co.ke/innovation/safaricoms-history-in-tech/
+- `SRC-38` Central Bank of Kenya — *Kenya's Payments Journey* (bulletin, Feb 2023; ATM, clearing, mobile money context): https://www.centralbank.go.ke/wp-content/uploads/2023/02/Kenyas-Payments-Journey.pdf
+- `SRC-39` oAfrica — African full Internet access timeline (Kenya **24 Oct 1995**; compiled from NSRC reports): https://www.oafrica.com/statistics/full-internet-access-timeline/
+- `SRC-40` KENET — *KENET as the NREN of Kenya* (PDF; Trust **2000**, USAID bandwidth grant, Telkom backbone): https://www.kenet.or.ke/sites/default/files/kenet_as_the_nren_of_kenya_-_04.01.2023.pdf
+- `SRC-41` TechAfrica — KenCell → Celtel Kenya rename (**1 Nov 2004**): https://tech.africa/kencell-changes-name-to-celtel-kenya-limited/
+- `SRC-42` Wikipedia — Michael Joseph (businessman) (biography stub; cross-check with Nation/Standard profiles): https://en.wikipedia.org/wiki/Michael_Joseph_(businessman)
+- `SRC-43` Wikipedia — Celtel (Kencell Kenya ownership, Vivendi, regional M&A context): https://en.wikipedia.org/wiki/Celtel
 
 ---
 
 ### Navigate the manuscript
 
-← **Previous:** [Appendix C — Research Methodology](research-methodology.md) · [**Home**](../index.md) · **Next:** [Full outline — Structure](../meta/structure.md) →
+← **Previous:** [Appendix C — Research Methodology](research-methodology.md) · [**Home**](../index.md) · **Next:** [Prologue — start linear read](../prologue.md) →

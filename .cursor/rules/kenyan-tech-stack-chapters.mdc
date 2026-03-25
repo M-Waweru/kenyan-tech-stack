@@ -1,0 +1,13 @@
+---
+description: Conventions for Kenyan Tech Stack topic chapters under book/
+globs: book/**/*.md
+alwaysApply: false
+---
+
+# Kenyan Tech Stack — chapter edits (`book/`)
+
+- **Published tree:** Only `book/` ships to readers (with `SUMMARY.md` at repo root for GitBook). Do not place internal outlines or merged drafts here—they live in `authoring/`.
+- **Full guide:** `authoring/AGENT-CHAPTER-GUIDE.md` and `authoring/meta/topic-article-schema.md`.
+- **Acronyms:** On first use in each topic file, write **Full Name (ABBR)**.
+- **Sources:** Use clickable markdown links in prose; keep `SRC-XX` IDs in the chapter **Sources** list and in `book/appendices/sources.md`. Add a link reference registry (`[key]: https://…`) at the end of the file. See `authoring/meta/web-citations.md`.
+- **Style:** Narrative sections, not bullet dumps; avoid semicolon-chained unrelated clauses.

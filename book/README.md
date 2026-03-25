@@ -1,24 +1,32 @@
 ---
-title: Book — manuscript content
-draft: true
+title: Published book (deploy this folder)
+description: Reader-facing markdown only — sync or copy this tree to your static site generator.
+tags:
+  - manuscript
 ---
-# Book — Quartz / manuscript content
+# Published book content (`book/`)
 
-This folder is the **editorial source of truth** for *The Kenyan Tech Stack* when working in Cursor. It is structured for **Quartz** deployment (folders become site sections).
+Deploy **`book/`** to the web (Quartz, GitBook content root, etc.). **Do not** move `authoring/` into the same public tree unless you intend to expose internal outlines and drafts.
 
-## Layout
+## What belongs here
 
-| Path | Contents |
-|------|----------|
-| **`index.md`** | Site landing: overview, links into the tree |
-| **`manuscript/`** | Prologue and Parts I–XX (`part-01-…` through `part-20-…`) |
+| Path | Role |
+|------|------|
+| **`index.md`** | Reader landing / book home |
+| **`prologue.md`** | Opening chapter (linear read starts here) |
+| **`part-01/` … `part-20/`** | Topic articles (`NN-slug.md`) + per-part **`index.md`** |
 | **`appendices/`** | Cast, rail map, research methodology, source catalog |
-| **`meta/`** | Full chapter outline (`structure.md`), [factual rigor audit](meta/factual-rigor-audit.md) |
 
-## Linear navigation (content-only)
+## What does **not** belong here
 
-Each manuscript note, appendix, and meta doc ends with **Navigate the manuscript**: **Previous** · **Home** (`index.md`) · **Next** — plain markdown links, no Quartz customization. When you add a new part, update the chain on the adjacent files.
+- Merged part manuscripts, master outline, factual audit, scaffold workflows → **`authoring/`** at repo root (see [authoring/README.md](../authoring/README.md)).
 
-## Deploying to Quartz
+## Tooling (repo root)
 
-Copy or sync this **`book/`** directory into your Quartz repo’s content root (e.g. `kenyan-tech-stack-garden/content/`), replacing the previous flat layout. Update any CI paths if they assumed all `.md` files lived in one folder.
+- `scripts/scaffold_topic_articles.py` — reads `authoring/manuscript/part-*.md`, writes **`book/part-NN/*.md`** (destructive on topic bodies; merge first).
+- `scripts/patch_topic_navigation.py` — refreshes **Navigate** footers in `book/part-NN/*.md`.
+- `SUMMARY.md` — GitBook TOC; keep paths under `book/…`.
+
+## Conventions for chapters
+
+Summarized for agents in [authoring/AGENT-CHAPTER-GUIDE.md](../authoring/AGENT-CHAPTER-GUIDE.md): linked citations, acronym first use, narrative sections, `SRC-XX` catalog, link registry at end of each topic file.

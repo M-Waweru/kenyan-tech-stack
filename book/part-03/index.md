@@ -1,16 +1,18 @@
 ---
-title: "Part III: Money as a Network"
+title: "Part 3: Money as a Network"
 part: 3
-part_title: "Money as a Network"
-period: "2007-Today"
-chapter_type: "part-intro"
+part_title: Money as a Network
+period: 2007–today
+chapter_type: part-intro
+tags:
+  - topic-index
 ---
 
-# Part III: Money as a Network (2007-Today)
+# Part 3: Money as a Network (2007–today)
 
-This part tracks how mobile money became social infrastructure, then programmable infrastructure, and finally a trust battleground. Read each chapter as a change in everyday behavior, not just a product launch.
 
-Chapters in this part:
+
+## Topics in this part
 
 - [8. M-PESA: The Payment OS](08-mpesa-payment-os.md)
 - [9. M-PESA for Business: The Stack People Forget](09-mpesa-for-business.md)
@@ -18,6 +20,7 @@ Chapters in this part:
 - [11. What M-PESA Did to the Ecosystem](11-mpesa-ecosystem-effects.md)
 - [12. Why M-PESA Spread Across Africa - and Why Not Everywhere](12-mpesa-africa-expansion-limits.md)
 - [13. Trust's Dark Twin: Fraud, SIM Swaps, Social Engineering](13-trust-dark-twin-fraud-sim-swaps.md)
+
 
 <!-- EVIDENCE_BLOCK -->
 
@@ -46,9 +49,16 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 ## Verified Sources For This Part
 
-- `SRC-04`: see [Source Catalog](../sources.md#source-catalog)
-- `SRC-05`: see [Source Catalog](../sources.md#source-catalog)
-- `SRC-06`: see [Source Catalog](../sources.md#source-catalog)
-- `SRC-24`: see [Source Catalog](../sources.md#source-catalog)
+- `SRC-04`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-05`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-06`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-24`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
-Full links: [Source Catalog](../sources.md)
+Full links: [Source Catalog](../appendices/sources.md)
+
+
+---
+
+### Navigate
+
+← **Previous:** [Part 2 index](../part-02/index.md) · [**Book home**](../index.md) · **Next:** [Part 4 index](../part-04/index.md) →
