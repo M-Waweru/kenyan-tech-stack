@@ -1,4 +1,4 @@
-# The Kenya Stack: Rails, Hustle, and the Republic of Builders — Research Brief & Drafting Bible
+# The Kenyan Tech Stack: Rails, Hustle, and the Republic of Builders — Research Brief & Drafting Bible
 
 ## Executive summary
 
@@ -644,7 +644,7 @@ Beats: (1) Cybersecurity becomes mass education, not niche. (2) Phishing and soc
 Primary sources: CA cyber report screenshot showing threats (SIM swap, phishing) citeturn26view0; CA incident spike reporting citeturn20search3; cybercrime statute for reporting obligations citeturn25view1.  
 Interview targets: KE-CIRT/CC spokesperson (Verify); security trainer; citizen fraud victim advocate.
 
-**Episode 66 — The Future Kenya Stack, 2026–2045**  
+**Episode 66 — The Future Kenyan Tech Stack, 2026–2045**  
 Cold open: 2045: a young Kenyan opens a wallet that speaks every rail—money, identity, credit, mobility, government—through APIs they never see.  
 Rail defined: The stack as a governance and innovation system over decades.  
 Protagonists: Builder (next-gen founders + policymakers); User (Gen Alpha citizen); Referee (regulators + courts + international standards).  
@@ -667,7 +667,7 @@ Key inflection points to anchor the narrative chronologically, with sources for 
 
 ```mermaid
 timeline
-  title The Kenya Stack — Major Inflection Points
+  title The Kenyan Tech Stack — Major Inflection Points
   2007 : M-PESA launches (mobile money goes mainstream)
   2009 : TEAMS cable launch; SEACOM installed (bandwidth shock)
   2010 : EASSy lands in Mombasa (regional redundancy)

@@ -1,17 +1,21 @@
-# The Kenya Tech Stack
+---
+publish: true
+---
+# The Kenyan Tech Stack
 
 ## Rails, Hustle, and the Republic of Builders
 
-This repository contains a full GitBook manuscript draft of *The Kenya Tech Stack*.
+This repository contains a full GitBook manuscript draft of *The Kenyan Tech Stack*.
 
 ## Build Structure
 
 - `README.md`: Book landing page and thesis
 - `SUMMARY.md`: GitBook table of contents
-- `book/`: Core manuscript files by part
-- `book/appendix-cast.md`: Character and institution appendix
-- `book/appendix-rail-map.md`: Layer model of the Kenyan stack
-- `book/research-methodology.md`: Sources and verification method
+- `book/`: Quartz-ready content (see `book/README.md`)
+- `book/index.md`: Manuscript landing / site home when deployed
+- `book/manuscript/`: Prologue and parts I–XX
+- `book/appendices/`: Cast, rail map, research methodology, source catalog
+- `book/meta/`: Full outline (`structure.md`), factual rigor audit
 
 ## Core Thesis
 

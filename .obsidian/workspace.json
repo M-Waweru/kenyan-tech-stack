@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/part-10-supply-chain-wars.md",
+                "file": "book/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "part-10-supply-chain-wars"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/part-10-supply-chain-wars.md",
+                "file": "book/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for part-10-supply-chain-wars"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/part-10-supply-chain-wars.md",
+                "file": "book/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from part-10-supply-chain-wars"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/part-10-supply-chain-wars.md",
+                "file": "book/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of part-10-supply-chain-wars"
+              "title": "Outline of index"
             }
           }
         ]
@@ -180,33 +180,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "quartz-syncer:Quartz Syncer publication center": false
     }
   },
   "active": "deb362fb5f1d8efa",
   "lastOpenFiles": [
-    "book/part-09-global-apps-local-physics.md",
-    "book/part-08-education-stack.md",
-    "book/part-07-the-state-stack.md",
-    "book/part-06-merchant-rails.md",
-    "book/part-05-banks-become-platforms.md",
-    "book/part-04-messaging-and-social.md",
-    "book/part-03-money-as-a-network.md",
-    "book/part-02-connectivity.md",
-    "book/part-01-before-the-hype.md",
     "book/appendix-rail-map.md",
-    "book/appendix-cast.md",
-    "book/part-17-creators-memes-misinformation.md",
-    "SUMMARY.md",
-    "structure.md",
-    "README.md",
-    "book/sources.md",
-    "book/research-methodology.md",
-    "book/prologue.md",
-    "book/part-11-credit-habit.md",
-    "The Kenya Stack_ Rails, Hustle, and the Republic of Builders — Research Brief & Drafting Bible.pdf",
-    "deep-research-report.md",
-    "Unconfirmed 973118.crdownload",
-    "deep-research-report (1).md"
+    "book/manuscript/sedRdYehm",
+    "book/manuscript/sedlDvllf",
+    "book/manuscript/sed26M6Dw",
+    "book/manuscript/sedX3AVyD",
+    "book/manuscript/sed0i43w4",
+    "book/manuscript/sed7GJaai",
+    "book/manuscript/sedkLsumM",
+    "book/manuscript/sedRMfnNd",
+    "book/manuscript/sedwFXT7t",
+    "book/manuscript/sedMfqnjG",
+    "book/meta/factual-rigor-audit.md",
+    "book/meta/structure.md",
+    "book/appendices/sources.md",
+    "book/appendices/research-methodology.md",
+    "book/appendices/appendix-rail-map.md",
+    "book/appendices/appendix-cast.md",
+    "book/manuscript/part-20-future-stack.md",
+    "book/manuscript/part-19-cybersecurity-era.md",
+    "book/manuscript/part-18-power-vs-networks.md",
+    "book/manuscript/part-17-creators-memes-misinformation.md",
+    "book/manuscript/part-16-survival-tech.md",
+    "book/manuscript/part-15-work-ai-factory.md",
+    "book/manuscript/part-14-diaspora-rails.md",
+    "book/manuscript/part-13-community-finance.md",
+    "book/manuscript/part-12-money-as-entertainment.md",
+    "book/manuscript/part-11-credit-habit.md",
+    "book/manuscript/part-10-supply-chain-wars.md",
+    "book/manuscript/part-09-global-apps-local-physics.md",
+    "book/manuscript/part-08-education-stack.md",
+    "book/manuscript/part-07-the-state-stack.md",
+    "book/manuscript/part-06-merchant-rails.md",
+    "book/manuscript/part-05-banks-become-platforms.md",
+    "book/manuscript/part-04-messaging-and-social.md",
+    "book/manuscript/part-03-money-as-a-network.md",
+    "book/manuscript/part-02-connectivity.md",
+    "kenyan-tech-stack-garden/quartz/static/og-image.png",
+    "kenyan-tech-stack-garden/quartz/static/icon.png",
+    "kenyan-tech-stack-garden/docs/images/social-image-preview-light.png",
+    "kenyan-tech-stack-garden/docs/images/social-image-preview-dark.png",
+    "kenyan-tech-stack-garden/docs/images/quartz-layout-tablet.png",
+    "kenyan-tech-stack-garden/docs/images/quartz-layout-mobile.png",
+    "kenyan-tech-stack-garden/docs/images/quartz-layout-desktop.png",
+    "kenyan-tech-stack-garden/docs/images/quartz transform pipeline.png",
+    "kenyan-tech-stack-garden/docs/images/github-quick-setup.png",
+    "kenyan-tech-stack-garden/docs/images/github-init-repo-options.png"
   ]
 }
