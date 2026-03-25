@@ -2,55 +2,49 @@
 title: "Part 4: Messaging and Social Rails"
 part: 4
 part_title: Messaging and Social Rails
-period: 2010–today
+period: 2010s–today
 chapter_type: part-intro
 tags:
   - topic-index
 ---
 
-# Part 4: Messaging and Social Rails (2010–today)
+# Part 4: Messaging and Social Rails (2010s–today)
 
-
+Part IV is about **how Kenya coordinates**: programmable **SMS/USSD/voice** for products, then **chat-native** life at national scale. The sequence is deliberate—**14** shows the **B2B** communications rail that makes OTPs and menus reliable; **15** shows the **social** rail that swallowed half of civic and commercial reality.
 
 ## Topics in this part
 
 - [14. Africa's Talking: The Nervous System of Kenyan Products](14-africas-talking.md)
 - [15. WhatsApp: Kenya's Real Communication Infrastructure](15-whatsapp-kenya-rail.md)
 
+## How to read this part
 
-<!-- EVIDENCE_BLOCK -->
+- Chapter **14** is **builder–integrator** history: APIs as telecom adjacency, with **CA** and operators as referees.
+- Chapter **15** is **user–society** history: groups as organisations, with **platform power** and **fraud** as shadows.
 
-## Deep-Dive Analysis
+**Conflict** to watch: **inclusion vs abuse**—cheap reach cuts both ways.
 
-This part should be read as infrastructure history, not startup chronology. The key interpretive method is to track behavior change after each rail appears: how users transact, coordinate, verify identity, and recover from failure. In editorial pass two, each chapter should add at least one field vignette (agent kiosk, classroom, boda stage, county office, support desk) and one referee decision (regulatory circular, compliance update, legal ruling, policy memo) so the narrative consistently shows the builder-user-referee triangle under pressure.
+## Timeline anchors
 
-> [!info] Source-Backed Note
-> This section is tied to verifiable public sources. Use the Source Catalog IDs below when adding sentence-level footnotes during copy edit.
-
-## Timeline Anchors
-
-| Date/Period | Anchor Event | Source ID |
+| Date/Period | Anchor event | Source ID |
 | --- | --- | --- |
-| 2010-2025 | Messaging rails scale through API-first product design | SRC-06 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| **2010** | Africa's Talking founded (Nairobi) | SRC-57, SRC-59 |
+| **~2012** | Public developer API turn (founder interview timeline) | SRC-59 |
+| **2019** | Reported developer-community scale snapshot (MIT feature) | SRC-58 |
+| **2009–2014** | WhatsApp launch → Meta acquisition (global timeline; verify primaries) | SRC-61 |
+| **2020s** | CA sector reporting: SMS vs app-based messaging, smartphone mix | SRC-60, SRC-51 |
 
-## Metrics Snapshot
+## Verified sources for this part
 
-| Indicator | Why It Matters | Suggested Source |
-| --- | --- | --- |
-| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
-
-## Verified Sources For This Part
-
-- `SRC-06`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-22`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-57`: [Africa's Talking — About](../appendices/sources.md#source-catalog)
+- `SRC-58`: [MIT News — Africa's Talking](../appendices/sources.md#source-catalog)
+- `SRC-59`: [Techpoint — Samuel Gikandi interview](../appendices/sources.md#source-catalog)
+- `SRC-60`: [CA — digital services / sector statistics summary](../appendices/sources.md#source-catalog)
+- `SRC-61`: [Wikipedia — WhatsApp](../appendices/sources.md#source-catalog)
+- `SRC-62`: [Business Insider Africa — CA-cited app usage](../appendices/sources.md#source-catalog)
+- `SRC-13`, `SRC-14`, `SRC-22`: privacy, cybercrime, KE-CIRT/CC pressure (fraud context)
 
 Full links: [Source Catalog](../appendices/sources.md)
-
 
 ---
 

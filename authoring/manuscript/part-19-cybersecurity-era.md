@@ -7,7 +7,7 @@ tags:
 ---
 # Part XIX: Cybersecurity Era (2018-Today)
 
-## 69. High-Profile Hacks as Cultural Memory
+## 70. High-Profile Hacks as Cultural Memory
 
 Each major incident leaves a public lesson: digital convenience is only as durable as institutional resilience. A portal outage is not only a technical fault. It is delayed salaries, missed compliance deadlines, blocked applications, and reputational damage.
 
@@ -19,7 +19,7 @@ The shadow is habituated skepticism. Repeated incidents can normalize distrust a
 
 Bridge: cybersecurity maturity requires prevention-by-design, not incident-by-incident patching.
 
-## 70. Cyber Maturity Arc: Trust as Next Industry
+## 71. Cyber Maturity Arc: Trust as Next Industry
 
 The next phase of Kenya's digital stack is not simply more features. It is stronger trust architecture: hardened identity controls, anomaly detection, secure defaults, cross-institution response protocols, and public cyber hygiene education.
 

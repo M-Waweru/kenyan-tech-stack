@@ -7,7 +7,7 @@ tags:
 ---
 # Part X: Supply Chain Wars (2014-2024)
 
-## 37. Twiga: Produce as a Machine
+## 38. Twiga: Produce as a Machine
 
 Before sunrise, produce traders face the same race daily: source quality goods, move quickly, avoid spoilage, and preserve slim margins. Small delays erase profits. Supply chains are lived time pressure.
 
@@ -19,7 +19,7 @@ The shadow is execution complexity: perishability risk, capital intensity, route
 
 Bridge: generalized logistics platforms tackled similar coordination problems beyond agriculture.
 
-## 38. Sendy: Logistics Dreams and Friction
+## 39. Sendy: Logistics Dreams and Friction
 
 A dispatch board may show clean progress, but real-world logistics includes failed pickups, traffic variance, fuel spikes, and customer-side delays. Software can orchestrate, but cannot remove physical uncertainty.
 
@@ -31,7 +31,7 @@ The shadow is margin compression and high operational overhead. Growth without r
 
 Bridge: freight-focused marketplaces extended this model to regional transport corridors.
 
-## 39. Lori: Trucking as Software and Negotiation
+## 40. Lori: Trucking as Software and Negotiation
 
 Cross-border freight depends on many variables outside software control: border procedures, customs timing, route disruptions, and payment assurance. Digital tools add visibility, but negotiations remain central.
 
@@ -43,7 +43,7 @@ The shadow is persistent volatility in cross-border operations and working-capit
 
 Bridge: informal retail platforms brought digital supply-chain logic into kiosk-level commerce.
 
-## 40. MarketForce and Copia: Informal Retail Digitization
+## 41. MarketForce and Copia: Informal Retail Digitization
 
 A kiosk owner transitions from verbal reorders to app-assisted procurement. Each order creates data: product velocity, spend patterns, repayment behavior, and inventory rhythm.
 

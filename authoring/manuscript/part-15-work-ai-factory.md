@@ -7,7 +7,7 @@ tags:
 ---
 # Part XV: Work-from-Home Republic and AI Factory (2010-Today)
 
-## 55. Online Work as National Livelihood Layer
+## 56. Online Work as National Livelihood Layer
 
 A freelancer in Nairobi starts calls when local traffic quiets and U.S. workdays begin. Income arrives through platforms, clients, agencies, and referrals, each with different payout paths and dispute mechanisms. Digital work is no longer a side story. It is an employment rail for thousands navigating formal job scarcity.
 
@@ -19,7 +19,7 @@ The shadow is asymmetry. Platforms can suspend accounts unilaterally. Ratings cr
 
 Bridge: AI-era demand intensified digital task markets, but also introduced new ethical and labor questions.
 
-## 56. AI Supply Chain: Training Models, Labeling Reality
+## 57. AI Supply Chain: Training Models, Labeling Reality
 
 Global AI systems often depend on labor performed far from where products are marketed. Workers annotate data, classify edge cases, and moderate content under throughput pressure. The work can provide valuable income and skills exposure, but conditions vary sharply.
 

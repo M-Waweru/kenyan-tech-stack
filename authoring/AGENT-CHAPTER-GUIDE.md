@@ -17,7 +17,7 @@ Give this file (or repo root **`AGENTS.md`**) to an AI or human editor working o
 
 1. **[Topic article schema](meta/topic-article-schema.md)** — YAML front matter, section order (Lead → Context → History → … → Sources → Navigate), **acronyms**, inline citation rules.
 2. **[Topic deepening workflow](meta/topic-deepening-workflow.md)** — how to turn a thin outline into a researched narrative (inventory → sources → spine → characters → citations → sync).
-3. **[Web citations](meta/web-citations.md)** — clickable links in body + link reference registry at file end; `SRC-XX` in **Sources** list only.
+3. **[Web citations](meta/web-citations.md)** — clickable links in body + link reference registry at file end; `SRC-XX` in **Sources** list only; **all** chapters should cite **reputable third-party** sources where they exist—not only official, corporate, or single-vendor accounts (see that doc’s **Independent and third-party sources** section; companies are one highlighted case).
 4. **[Structure](meta/structure.md)** — full chapter list, per-chapter **cold open / rail / shadow / bridge** bullets, and the canonical **RULES FOR WRITING THIS** block (also summarized below).
 5. **[Factual rigor audit](meta/factual-rigor-audit.md)** — coverage and citation gaps by part.
 
@@ -27,7 +27,9 @@ These rules come from **[Structure — RULES FOR WRITING THIS](meta/structure.md
 
 ### 1) Every chapter begins with a scene
 
-Do **not** open with a dry year line (“In 2009…”). Open the **Lead** with a **moment** (real or composite, labelled if composite), then zoom out to thesis and stakes. Examples of moments: an agent counting cash, a student revising via SMS, a developer debugging a callback, a driver refusing a fare, a chama treasurer managing disputes, a creator posting a skit.
+Do **not** open with a dry year line (“In 2009…”). Open the **Lead** with a **moment**, then zoom out to thesis and stakes. Examples of moments: an agent counting cash, a student revising via SMS, a developer debugging a callback, a driver refusing a fare, a chama treasurer managing disputes, a creator posting a skit.
+
+**House style (match Part I–II):** the Lead reads as **continuous magazine prose**, not a beat sheet. Do **not** start the Lead with `*Composite.*` or end it with a **`Bridge:`** line—that is outline jargon. If the moment is composite, keep the Lead immersive; label composite material only under **`### Composite scene: …`** later (see [Structure — rule 11](meta/structure.md#11-reader-facing-prose-not-outline-labels)). Weave **builder, user, and referee** into sentences; avoid a labeled triad in the Lead unless the chapter truly needs it.
 
 ### 2) The three-protagonist rule
 
@@ -83,7 +85,7 @@ When deepening a chapter, aim for **at least one** concrete **field vignette** (
 | Rail named and explained | **History**, **Product and mechanics** |
 | Builder–user–referee | **Context**, **Regulation**, **Adoption** |
 | Shadow / conflict | **Setbacks and controversies**, **Competition** |
-| Bridge to next layer | **Legacy and open questions**, **Ecosystem effects**, **See also** |
+| Handoff to next stack layer | Woven into **end of Lead** and/or **Legacy**, **Ecosystem effects**, **See also** — **not** a visible `Bridge:` label |
 | Non-neutral take for builders | **Builder read** |
 
 Per-chapter **cold open • rail • shadow • bridge** prompts live under each chapter heading in [Structure](meta/structure.md).
@@ -109,7 +111,8 @@ Per-chapter **cold open • rail • shadow • bridge** prompts live under each
 - [ ] **Citations:** body prose uses **markdown links** to real URLs, not bare `` (`SRC-34`) ``. Add `[key]: https://…` **registry at end of file** (after Navigate). List every cited `SRC-XX` under **Sources** with the same URL.
 - [ ] **New sources:** add a row to `book/appendices/sources.md` before first use; use next free `SRC-XX`.
 - [ ] **Prose:** prefer narrative paragraphs; avoid semicolon-chained unrelated clauses (`a; b; c` as lazy lists). Use periods or “and”.
-- [ ] **Composite scenes** allowed if labelled *Composite* and grounded in documented practice.
+- [ ] **Composite scenes** only under **`### Composite scene:`** (Part I style), grounded in documented practice—not a `*Composite.*` prefix on the whole Lead.
+- [ ] **No outline labels** in reader text (`Bridge:`, `Worked example (*Composite*)`, etc.).
 - [ ] **Navigate** footer: Previous · Part index · Next (see `scripts/patch_topic_navigation.py` after bulk edits).
 - [ ] **See also** links to adjacent stack chapters where useful.
 
@@ -125,7 +128,7 @@ python3 scripts/patch_topic_navigation.py
 
 ## Reference quality
 
-Part I (`book/part-01/01`–`03`) is the **reference** for depth, citations, acronyms, and registry style.
+Part I (`book/part-01/01`–`03`) and Part II (`book/part-02/04`–`07`) are the **reference** for depth, **Lead voice** (no `Bridge:` / composite prefixes), citations, acronyms, and registry style.
 
 ## Publishing boundary
 

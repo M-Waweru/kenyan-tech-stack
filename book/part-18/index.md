@@ -14,9 +14,9 @@ tags:
 
 ## Topics in this part
 
-- [66. Cambridge Analytica and Influence Operations](66-cambridge-analytica-influence.md)
-- [67. Gen Z Protests: Social Media Turns to Streets](67-gen-z-protests.md)
-- [68. Crackdowns, Lawfare, and Civic Tech Counterpunch](68-crackdowns-lawfare-civic-tech.md)
+- [66. Cambridge Analytica and Influence Operations](67-cambridge-analytica-influence.md)
+- [67. Gen Z Protests: Social Media Turns to Streets](68-gen-z-protests.md)
+- [68. Crackdowns, Lawfare, and Civic Tech Counterpunch](69-crackdowns-lawfare-civic-tech.md)
 
 
 <!-- EVIDENCE_BLOCK -->

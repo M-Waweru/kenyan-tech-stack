@@ -7,7 +7,7 @@ tags:
 ---
 # Part VII: The State Stack (2014-Today)
 
-## 22. eCitizen: The State Becomes a Product
+## 23. eCitizen: The State Becomes a Product
 
 At a Huduma counter or cybercafe desk, a citizen opens a portal page with the same urgency people once brought to paper queues. The expectation is now digital: submit, pay, track, complete. When the workflow works, time is saved. When it fails, frustration scales quickly because alternatives are shrinking.
 
@@ -19,7 +19,7 @@ The shadow is operational fragility and inclusion gaps. Downtime, interface comp
 
 Bridge: eCitizen normalized digital state interactions and encouraged broader e-government workflow expansion.
 
-## 23. eGov for Everything
+## 24. eGov for Everything
 
 Business name reservation, permit renewals, fee payments, and compliance filings increasingly moved into online pathways. Each migration reduced some physical friction while creating new digital dependencies.
 
@@ -31,7 +31,7 @@ The shadow is uneven implementation quality. Some agencies digitized deeply, oth
 
 Bridge: as workflows multiplied, identity became the critical gatekeeping layer.
 
-## 24. IPRS, Huduma, NIIMS: Identity Wars
+## 25. IPRS, Huduma, NIIMS: Identity Wars
 
 A person standing at a service point hears, "Your record is missing" or "You need another verification step." In that moment, identity is no longer abstract policy. It is access or denial.
 
@@ -43,7 +43,7 @@ The shadow includes privacy concerns, exclusion risk, and governance legitimacy 
 
 Bridge: as identity and service rails centralized, they became attractive targets for cyber disruption.
 
-## 25. Kenya's High-Profile Hacks: Attack Surface of a Digitizing State
+## 26. Kenya's High-Profile Hacks: Attack Surface of a Digitizing State
 
 When a public platform is disrupted, the effects are immediate: delayed filings, blocked payments, anxious users, and reputational shock. Technical incidents become political events because citizens experience them as service breakdown.
 

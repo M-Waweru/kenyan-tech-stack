@@ -14,14 +14,14 @@ tags:
 
 ## Topics in this part
 
-- [26. Kenya's Exam Machine](26-kenya-exam-machine.md)
-- [27. Eneza: Feature-Phone EdTech](27-eneza-edtech.md)
-- [28. BRCK and Offline Classroom Systems](28-brck-offline-classroom.md)
-- [29. eLimu and Local Content](29-elimu-local-content.md)
-- [30. KICD and Curriculum Governance](30-kicd-curriculum-governance.md)
-- [31. School Ops: Fees, Messaging, Admin](31-school-ops-fees-messaging.md)
-- [32. Moringa School and the Skills Rail](32-moringa-school-skills-rail.md)
-- [33. Andela and Global Talent Integration](33-andela-global-talent.md)
+- [26. Kenya's Exam Machine](27-kenya-exam-machine.md)
+- [27. Eneza: Feature-Phone EdTech](28-eneza-edtech.md)
+- [28. BRCK and Offline Classroom Systems](29-brck-offline-classroom.md)
+- [29. eLimu and Local Content](30-elimu-local-content.md)
+- [30. KICD and Curriculum Governance](31-kicd-curriculum-governance.md)
+- [31. School Ops: Fees, Messaging, Admin](32-school-ops-fees-messaging.md)
+- [32. Moringa School and the Skills Rail](33-moringa-school-skills-rail.md)
+- [33. Andela and Global Talent Integration](34-andela-global-talent.md)
 
 
 <!-- EVIDENCE_BLOCK -->

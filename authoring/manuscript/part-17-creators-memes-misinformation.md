@@ -7,7 +7,7 @@ tags:
 ---
 # Part XVII: Creators, Memes, and Misinformation (2016-Today)
 
-## 63. Creators: New Media Economy
+## 64. Creators: New Media Economy
 
 A skit recorded on a phone can secure brand partnerships, audience loyalty, and recurring revenue. The barrier to publishing collapsed; the competition for attention intensified.
 
@@ -19,7 +19,7 @@ The shadow includes platform dependency, unstable income, and algorithmic precar
 
 Bridge: humor and commentary evolved into civic pressure instruments.
 
-## 64. Memes as Political Force
+## 65. Memes as Political Force
 
 A meme can summarize policy frustration in one frame and spread faster than a formal op-ed. Humor became a high-velocity channel for accountability.
 
@@ -31,7 +31,7 @@ The shadow is reputational damage, pile-ons, and reduced nuance in high-speed di
 
 Bridge: the same attention machinery enabled coordinated disinformation markets.
 
-## 65. Disinformation-for-Hire and Narrative Warfare
+## 66. Disinformation-for-Hire and Narrative Warfare
 
 When influence operations become professionalized, narratives are designed, targeted, amplified, and defended like products.
 

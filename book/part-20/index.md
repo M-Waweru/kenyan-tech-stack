@@ -14,12 +14,12 @@ tags:
 
 ## Topics in this part
 
-- [71. The Stack Thickens](71-stack-thickens.md)
-- [72. Regulation Becomes Product](72-regulation-becomes-product.md)
-- [73. Interoperability Wars](73-interoperability-wars.md)
-- [74. Cross-Border as Battlefield](74-cross-border-battlefield.md)
-- [75. Compute Arrives](75-compute-arrives.md)
-- [76. Kenyan Tech Stack 2045](76-kenya-stack-2045.md)
+- [71. The Stack Thickens](72-stack-thickens.md)
+- [72. Regulation Becomes Product](73-regulation-becomes-product.md)
+- [73. Interoperability Wars](74-interoperability-wars.md)
+- [74. Cross-Border as Battlefield](75-cross-border-battlefield.md)
+- [75. Compute Arrives](76-compute-arrives.md)
+- [76. Kenyan Tech Stack 2045](77-kenya-stack-2045.md)
 
 
 <!-- EVIDENCE_BLOCK -->

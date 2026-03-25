@@ -33,6 +33,31 @@ Open any of them, scroll to the **bottom** (after **Navigate**): you will see an
 4. **Duplicate the URLs** in the chapter **Sources** section as bullets: `` `SRC-34` — [Title](https://…) `` so IDs stay visible for print, footnotes, or tooling.
 5. **Avoid semicolon chains** used only to stack unrelated clauses (`x; y; z`). Prefer **periods**, **commas + “and”**, or a **second sentence**. (See Part I edits for tone.)
 
+## Independent and third-party sources (all topics)
+
+This applies to **every** chapter type—**rails**, **policy**, **institutions**, **people**, **products**, **crises**—not only company profiles.
+
+**Working rule:** After you understand the official or insider story, **actively search** for the **best reputable third-party** material you can find on the same claim: corroboration, contradiction, or nuance. One primary PDF or one corporate page is rarely enough for anything contested, scaled, or causal.
+
+**Strong third-party families** (use when relevant; prefer several angles on big claims):
+
+| Kind | Examples |
+|------|-----------|
+| **Law and regulators** | [Kenya Law](https://new.kenyalaw.org/), **CBK** bulletins and statistics, **CA** sector reports, **ODPC** guidance, gazettes, court judgments |
+| **Multilateral / technical** | **ITU**, **World Bank** / **IMF** country and sector notes (verify dates and methodology) |
+| **Established Kenyan press** | *Daily Nation*, *The Standard*, *Business Daily*, major TV/digital desks—evaluate each article on its own |
+| **International wires and majors** | **Reuters**, **BBC**, **FT**, etc., when the story is cross-border or listed-company |
+| **Academic and grey research** | UoN and peer **theses**, recognised journals—good for structural claims; still cross-check facts |
+| **Market disclosures** | Listed **annual reports**, **prospectuses**, **investor** releases where the rail touches a public company |
+
+**Weaker alone** (triangulate or label): anonymous blogs, unedited aggregators, obvious **PR** reposts, **Wikipedia** / timeline compilations—use only after checking against a **primary** or **quality press** line.
+
+**Attribution:** When third-party reporting is **investigative**, **anonymous-sourced**, or **disputed**, say who reported what (“*Business Daily* quoted…”, “*BusinessDay Nigeria* alleged…”, “the regulator’s circular stated…”).
+
+### Company and brand topics
+
+For **firms** (fintechs, gateways, telcos, startups), pair **corporate** sites and press releases with **independent** coverage: newspapers, trade press, **regulator** actions, **court** records, and **investor** documents when public. Hero metrics that appear **only** on a company site should be hedged or flagged. When the company responds **on the record** to press (e.g. by email), cite both the outlet and the company’s wording.
+
 ## Minimal template
 
 Paste at the **end** of `book/part-NN/NN-slug.md` (adjust keys and URLs; mirror catalog):

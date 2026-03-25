@@ -10,15 +10,23 @@ tags:
 
 # Part 6: Merchant Rails (2003–today)
 
-
+Part VI is where **paying a business** became normal infrastructure: pan-African orchestration (**Cellulant**), **card** gateways scaled for cross-border commerce (**DPO**), **county** and institutional collections (**JamboPay**), and **SME** checkout (**Pesapal**). The interpretive thread is behaviour change after each rail—what merchants reconcile, what citizens trust as a receipt, and what regulators see when volume moves off cash.
 
 ## Topics in this part
 
-- [18. Cellulant: The Pan-African Payments OG](18-cellulant.md)
-- [19. DPO: Cross-Border Card Rails](19-dpo-cross-border-cards.md)
-- [20. JamboPay: Collections as Anti-Leakage Infrastructure](20-jambopay.md)
-- [21. Pesapal: The SME Checkout Layer](21-pesapal.md)
+- [19. Cellulant: The Pan-African Payments OG](19-cellulant.md)
+- [20. DPO: Cross-Border Card Rails](20-dpo-cross-border-cards.md)
+- [21. JamboPay: Collections as Anti-Leakage Infrastructure](21-jambopay.md)
+- [22. Pesapal: The SME Checkout Layer](22-pesapal.md)
 
+## How to read this part
+
+- Chapter **19** — multi-market **merchant** acceptance and the **Kenya**–**Nigeria** axis that exported payments orchestration thinking.
+- Chapter **20** — **card** **PSP** scale, **Network International** acquisition gravity, **M-PESA** listed alongside **Visa**/**Mastercard** on corporate rails.
+- Chapter **21** — **government** collections as **procurement** and **audit** drama (**Nairobi** **JamboPay** arc).
+- Chapter **22** — **SME** checkout literacy: **Pesapal**-class **API** keys, **POS**, and multi-regulator footprint.
+
+**Conflict** to watch: **conversion versus compliance**—every new payment method adds **fraud** surface and **reconciliation** debt.
 
 <!-- EVIDENCE_BLOCK -->
 
@@ -47,9 +55,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 ## Verified Sources For This Part
 
-- `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-24`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-38`: [CBK — *Kenya's Payments Journey*](../appendices/sources.md#source-catalog) (payments modernisation backdrop)
+- `SRC-65`: [Safaricom — Daraja portal](../appendices/sources.md#source-catalog) (programmable **M-PESA** contrast)
+- `SRC-83`–`SRC-97`: [Part VI — Merchant Rails block](../appendices/sources.md#source-catalog) (corporate primaries **plus** **TechCrunch**, **ITWeb Africa**, **Business Daily**, **BusinessDay NG**, **Capital Business**)
 
 Full links: [Source Catalog](../appendices/sources.md)
 

@@ -7,7 +7,7 @@ tags:
 ---
 # Part IX: Global Apps vs Local Physics (2015-Today)
 
-## 34. Uber and Bolt: Growth Meets Driver Backlash
+## 35. Uber and Bolt: Growth Meets Driver Backlash
 
 At launch, discounted rides felt like pure progress: cheaper trips, cleaner interfaces, reduced bargaining friction. But platform convenience hid a harder equation. Drivers faced fuel shocks, commission pressure, maintenance costs, and algorithmic opacity. What users experienced as seamless mobility, drivers experienced as margin volatility.
 
@@ -19,7 +19,7 @@ The shadow is structural tension. Platform optimization for growth can conflict 
 
 Bridge: local players attempted to build alternatives tuned to domestic rails.
 
-## 35. Little Cab: The Local Counterpunch
+## 36. Little Cab: The Local Counterpunch
 
 Local competitors entered with an argument: Kenyan mobility needs Kenyan integration logic, including local payment behaviors and known distribution strengths.
 
@@ -31,7 +31,7 @@ The shadow remains scale asymmetry. Competing with global capital and subsidy cy
 
 Bridge: delivery and e-commerce platforms would face similar conflicts between convenience and sustainable economics.
 
-## 36. Glovo, Jumia, and Delivery Unit Economics
+## 37. Glovo, Jumia, and Delivery Unit Economics
 
 A delivery promise looks simple on screen: quick drop-off, low fee, reliable timing. Behind it is a tight system of rider availability, route optimization, merchant prep times, customer responsiveness, and cost controls.
 

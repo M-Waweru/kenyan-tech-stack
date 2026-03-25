@@ -14,8 +14,8 @@ tags:
 
 ## Topics in this part
 
-- [55. Online Work as National Livelihood Layer](55-online-work-livelihood.md)
-- [56. AI Supply Chain: Training Models, Labeling Reality](56-ai-supply-chain-labeling.md)
+- [55. Online Work as National Livelihood Layer](56-online-work-livelihood.md)
+- [56. AI Supply Chain: Training Models, Labeling Reality](57-ai-supply-chain-labeling.md)
 
 
 <!-- EVIDENCE_BLOCK -->

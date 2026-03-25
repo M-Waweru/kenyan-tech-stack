@@ -682,6 +682,13 @@ To make readers “know the people behind it,” end the book with:
 * **Cast Appendix:** person → role → company → what they changed
 * **Rail Map:** layer diagram of Kenya’s stack (connectivity → money → identity → …)
 
+## 11) Reader-facing prose, not outline labels
+
+The bullets at the top of each chapter in *this* outline (cold open • rail • shadow • **Bridge:** …) are **planning prompts** for the author. **Do not paste them into published chapters** as visible copy.
+
+* **No `Bridge:` / `bridge:` lines in the Lead.** Hand the reader to the next layer in **ordinary sentences**—the way Part I and Part II chapters do—usually the closing beat of the Lead, or in **Ecosystem effects** / **Legacy and open questions**. Optional markdown links to the next topic belong in **See also** or, sparingly, inside flowing prose; avoid telegraph-style signposts.
+* **Composite scenes:** do not prefix the whole Lead with `*Composite.*`. Open in **scene or texture**, then zoom out. If a scene is invented or blended from typical practice, place it under a subsection such as **`### Composite scene: [short title]`** (Part I pattern), optionally with one italic line: *Composite, grounded in documented …* Do not use scaffold labels like `### Field vignette (*Composite*)` or `### Worked example (*Composite*)` in finished chapters.
+
 ---
 
 ### Navigate the manuscript

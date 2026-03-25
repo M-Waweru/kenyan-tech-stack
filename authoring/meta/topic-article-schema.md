@@ -16,7 +16,7 @@ Each chapter is a **standalone topic file** under `book/part-NN/`, named `NN-slu
 | `slug` | Short id (no numeric prefix), for tooling |
 | `part` | Part number (1–20) |
 | `part_title` | Part name for breadcrumbs |
-| `chapter` | Global chapter number (1–76) |
+| `chapter` | Global chapter number (1–77) |
 | `topic_type` | `company` \| `rail` \| `institution` \| `infrastructure` \| `concept` |
 | `period` | Rough era (e.g. `2007–today`) |
 | `stack_layer` | Machine tag (e.g. `mobile_money`, `egov`) |
@@ -30,7 +30,7 @@ On the **first use in each topic file** (usually the **Lead**), spell out the **
 
 ## Body sections (in order)
 
-1. **Lead** — Narrative + thesis for this topic (migrated from manuscript drafts).
+1. **Lead** — Narrative + thesis: open with a **moment**, zoom out to stakes. Match **Part I–II**: flowing prose only—no visible outline labels such as `Bridge:` or a Lead-wide `*Composite.*` (see [Structure — rule 11](structure.md#11-reader-facing-prose-not-outline-labels)). Composite vignettes belong under **`### Composite scene:`** in **History** or **Product and mechanics**.
 2. **Context** — Market, regulation, distribution, prior rails.
 3. **History** — Dated chronology; cite with **clickable links** to the underlying URL (not bare `SRC-XX` codes). Stable IDs remain in [Source Catalog](../../book/appendices/sources.md). See **Inline citations** below.
 4. **Product and mechanics** — Flows, APIs, UX, trust model.
@@ -53,6 +53,7 @@ Full step-by-step guide, template, and reference chapters: **[Web citations (lin
 - In body prose, prefer **markdown links** to the real source: e.g. `the [KBA technology timeline][kba-tech]` rather than `` (`SRC-34`) ``.
 - At the **end of the topic file** (after **Navigate**, or immediately before it if your renderer is picky), add a **link reference registry**: lines like `[kba-tech]: https://…` mapping short keys to URLs. Keys need not spell out `SRC-XX`; the **Sources** section lists the official IDs.
 - When several sources support one sentence, chain with **commas**, **“and”**, or **two sentences**—avoid **semicolon shopping lists** of clauses.
+- For **research discipline**, seek **reputable third-party** corroboration on material claims—not only official or corporate voices. See [Web citations — Independent and third-party sources](web-citations.md#independent-and-third-party-sources-all-topics).
 
 To expand a thin draft into full narrative with research discipline, follow **[Topic deepening workflow](topic-deepening-workflow.md)**.
 

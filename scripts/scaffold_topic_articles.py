@@ -55,65 +55,66 @@ CHAPTERS: dict[int, tuple[str, str, str, str]] = {
     15: ("15-whatsapp-kenya-rail", "infrastructure", "2010s–today", "messaging"),
     16: ("16-jenga-api-banking-platformization", "rail", "2014–today", "open_banking_baas"),
     17: ("17-neobank-wave-banking-ux", "concept", "2014–today", "consumer_banking"),
-    18: ("18-cellulant", "company", "2003–today", "merchant_payments"),
-    19: ("19-dpo-cross-border-cards", "company", "2000s–today", "card_gateway"),
-    20: ("20-jambopay", "company", "2000s–today", "collections"),
-    21: ("21-pesapal", "company", "2000s–today", "sme_checkout"),
-    22: ("22-ecitizen", "institution", "2014–today", "egov"),
-    23: ("23-egov-for-everything", "institution", "2014–today", "egov"),
-    24: ("24-iprs-huduma-niims-identity", "institution", "2000s–today", "identity"),
-    25: ("25-kenya-high-profile-hacks-state", "concept", "2010s–today", "cybersecurity"),
-    26: ("26-kenya-exam-machine", "concept", "—", "education_demand"),
-    27: ("27-eneza-edtech", "company", "2010s–today", "edtech"),
-    28: ("28-brck-offline-classroom", "company", "2010s–today", "edtech_hardware"),
-    29: ("29-elimu-local-content", "company", "2010s–today", "edtech_content"),
-    30: ("30-kicd-curriculum-governance", "institution", "—", "curriculum"),
-    31: ("31-school-ops-fees-messaging", "concept", "—", "school_ops"),
-    32: ("32-moringa-school-skills-rail", "company", "2010s–today", "skills"),
-    33: ("33-andela-global-talent", "company", "2010s–today", "talent_export"),
-    34: ("34-uber-bolt-driver-backlash", "infrastructure", "2015–today", "mobility"),
-    35: ("35-little-cab", "company", "2016–today", "mobility"),
-    36: ("36-glovo-jumia-delivery", "concept", "2015–today", "delivery_commerce"),
-    37: ("37-twiga", "company", "2014–2024", "ag_supply_chain"),
-    38: ("38-sendy", "company", "2010s–today", "logistics"),
-    39: ("39-lori-trucking", "company", "2010s–today", "logistics"),
-    40: ("40-marketforce-copia", "concept", "2010s–today", "informal_retail"),
-    41: ("41-digital-lending-boom", "concept", "2012–2025", "digital_credit"),
-    42: ("42-tala-branch", "concept", "2012–today", "digital_credit"),
-    43: ("43-fuliza", "rail", "2019–today", "overdraft"),
-    44: ("44-crb-collections-licensing-backlash", "concept", "2012–today", "credit_governance"),
-    45: ("45-sportpesa", "company", "2010s–today", "betting"),
-    46: ("46-forex-crypto-trading-culture", "concept", "2010s–today", "retail_trading"),
-    47: ("47-chamas-table-banking", "concept", "—", "community_finance"),
-    48: ("48-digitizing-chamas", "concept", "2010s–today", "community_finance"),
-    49: ("49-sacco-digitization", "concept", "2000s–today", "cooperatives"),
-    50: ("50-m-changa", "company", "2010s–today", "fundraising"),
-    51: ("51-whatsapp-financial-coordination", "infrastructure", "2010s–today", "messaging_finance"),
-    52: ("52-remittances-invisible-export", "rail", "2010s–today", "remittances"),
-    53: ("53-stablecoins-parallel-dollar", "concept", "2020s–today", "crypto"),
-    54: ("54-vasp-regulation", "institution", "2020s–today", "crypto_regulation"),
-    55: ("55-online-work-livelihood", "concept", "2010s–today", "digital_labor"),
-    56: ("56-ai-supply-chain-labeling", "concept", "2010s–today", "ai_labor"),
-    57: ("57-wefarm", "company", "2010s–today", "agritech"),
-    58: ("58-apollo-one-acre-fund", "concept", "2000s–today", "agritech"),
-    59: ("59-paygo-m-kopa-dlight-sunking", "concept", "2010s–today", "paygo_energy"),
-    60: ("60-watu-mobility-finance", "company", "2010s–today", "asset_finance"),
-    61: ("61-roam-ev-standards", "company", "2020s–today", "emobility"),
-    62: ("62-givedirectly-cash-resilience", "institution", "2010s–today", "cash_transfers"),
-    63: ("63-creators-media-economy", "concept", "2016–today", "creator_economy"),
-    64: ("64-memes-political-force", "concept", "2016–today", "political_media"),
-    65: ("65-disinformation-for-hire", "concept", "2016–today", "influence"),
-    66: ("66-cambridge-analytica-influence", "concept", "2013–today", "influence_ops"),
-    67: ("67-gen-z-protests", "concept", "2010s–today", "activism"),
-    68: ("68-crackdowns-lawfare-civic-tech", "concept", "2010s–today", "civic_tech"),
-    69: ("69-high-profile-hacks-cultural-memory", "concept", "2010s–today", "cybersecurity"),
-    70: ("70-cyber-maturity-trust-industry", "concept", "2020s–today", "cybersecurity"),
-    71: ("71-stack-thickens", "concept", "2026–2045", "forecast"),
-    72: ("72-regulation-becomes-product", "concept", "2026–2045", "forecast"),
-    73: ("73-interoperability-wars", "concept", "2026–2045", "forecast"),
-    74: ("74-cross-border-battlefield", "concept", "2026–2045", "forecast"),
-    75: ("75-compute-arrives", "concept", "2026–2045", "forecast"),
-    76: ("76-kenya-stack-2045", "concept", "2045", "forecast"),
+    18: ("18-retail-banking-app-table-stakes", "concept", "2014–today", "consumer_banking"),
+    19: ("19-cellulant", "company", "2003–today", "merchant_payments"),
+    20: ("20-dpo-cross-border-cards", "company", "2000s–today", "card_gateway"),
+    21: ("21-jambopay", "company", "2000s–today", "collections"),
+    22: ("22-pesapal", "company", "2000s–today", "sme_checkout"),
+    23: ("23-ecitizen", "institution", "2014–today", "egov"),
+    24: ("24-egov-for-everything", "institution", "2014–today", "egov"),
+    25: ("25-iprs-huduma-niims-identity", "institution", "2000s–today", "identity"),
+    26: ("26-kenya-high-profile-hacks-state", "concept", "2010s–today", "cybersecurity"),
+    27: ("27-kenya-exam-machine", "concept", "—", "education_demand"),
+    28: ("28-eneza-edtech", "company", "2010s–today", "edtech"),
+    29: ("29-brck-offline-classroom", "company", "2010s–today", "edtech_hardware"),
+    30: ("30-elimu-local-content", "company", "2010s–today", "edtech_content"),
+    31: ("31-kicd-curriculum-governance", "institution", "—", "curriculum"),
+    32: ("32-school-ops-fees-messaging", "concept", "—", "school_ops"),
+    33: ("33-moringa-school-skills-rail", "company", "2010s–today", "skills"),
+    34: ("34-andela-global-talent", "company", "2010s–today", "talent_export"),
+    35: ("35-uber-bolt-driver-backlash", "infrastructure", "2015–today", "mobility"),
+    36: ("36-little-cab", "company", "2016–today", "mobility"),
+    37: ("37-glovo-jumia-delivery", "concept", "2015–today", "delivery_commerce"),
+    38: ("38-twiga", "company", "2014–2024", "ag_supply_chain"),
+    39: ("39-sendy", "company", "2010s–today", "logistics"),
+    40: ("40-lori-trucking", "company", "2010s–today", "logistics"),
+    41: ("41-marketforce-copia", "concept", "2010s–today", "informal_retail"),
+    42: ("42-digital-lending-boom", "concept", "2012–2025", "digital_credit"),
+    43: ("43-tala-branch", "concept", "2012–today", "digital_credit"),
+    44: ("44-fuliza", "rail", "2019–today", "overdraft"),
+    45: ("45-crb-collections-licensing-backlash", "concept", "2012–today", "credit_governance"),
+    46: ("46-sportpesa", "company", "2010s–today", "betting"),
+    47: ("47-forex-crypto-trading-culture", "concept", "2010s–today", "retail_trading"),
+    48: ("48-chamas-table-banking", "concept", "—", "community_finance"),
+    49: ("49-digitizing-chamas", "concept", "2010s–today", "community_finance"),
+    50: ("50-sacco-digitization", "concept", "2000s–today", "cooperatives"),
+    51: ("51-m-changa", "company", "2010s–today", "fundraising"),
+    52: ("52-whatsapp-financial-coordination", "infrastructure", "2010s–today", "messaging_finance"),
+    53: ("53-remittances-invisible-export", "rail", "2010s–today", "remittances"),
+    54: ("54-stablecoins-parallel-dollar", "concept", "2020s–today", "crypto"),
+    55: ("55-vasp-regulation", "institution", "2020s–today", "crypto_regulation"),
+    56: ("56-online-work-livelihood", "concept", "2010s–today", "digital_labor"),
+    57: ("57-ai-supply-chain-labeling", "concept", "2010s–today", "ai_labor"),
+    58: ("58-wefarm", "company", "2010s–today", "agritech"),
+    59: ("59-apollo-one-acre-fund", "concept", "2000s–today", "agritech"),
+    60: ("60-paygo-m-kopa-dlight-sunking", "concept", "2010s–today", "paygo_energy"),
+    61: ("61-watu-mobility-finance", "company", "2010s–today", "asset_finance"),
+    62: ("62-roam-ev-standards", "company", "2020s–today", "emobility"),
+    63: ("63-givedirectly-cash-resilience", "institution", "2010s–today", "cash_transfers"),
+    64: ("64-creators-media-economy", "concept", "2016–today", "creator_economy"),
+    65: ("65-memes-political-force", "concept", "2016–today", "political_media"),
+    66: ("66-disinformation-for-hire", "concept", "2016–today", "influence"),
+    67: ("67-cambridge-analytica-influence", "concept", "2013–today", "influence_ops"),
+    68: ("68-gen-z-protests", "concept", "2010s–today", "activism"),
+    69: ("69-crackdowns-lawfare-civic-tech", "concept", "2010s–today", "civic_tech"),
+    70: ("70-high-profile-hacks-cultural-memory", "concept", "2010s–today", "cybersecurity"),
+    71: ("71-cyber-maturity-trust-industry", "concept", "2020s–today", "cybersecurity"),
+    72: ("72-stack-thickens", "concept", "2026–2045", "forecast"),
+    73: ("73-regulation-becomes-product", "concept", "2026–2045", "forecast"),
+    74: ("74-interoperability-wars", "concept", "2026–2045", "forecast"),
+    75: ("75-cross-border-battlefield", "concept", "2026–2045", "forecast"),
+    76: ("76-compute-arrives", "concept", "2026–2045", "forecast"),
+    77: ("77-kenya-stack-2045", "concept", "2045", "forecast"),
 }
 
 PART_TITLE: dict[int, tuple[str, str]] = {
@@ -203,35 +204,35 @@ def chapter_to_part(ch: int) -> int:
         return 3
     if ch <= 15:
         return 4
-    if ch <= 17:
+    if ch <= 18:
         return 5
-    if ch <= 21:
+    if ch <= 22:
         return 6
-    if ch <= 25:
+    if ch <= 26:
         return 7
-    if ch <= 33:
+    if ch <= 34:
         return 8
-    if ch <= 36:
+    if ch <= 37:
         return 9
-    if ch <= 40:
+    if ch <= 41:
         return 10
-    if ch <= 44:
+    if ch <= 45:
         return 11
-    if ch <= 46:
+    if ch <= 47:
         return 12
-    if ch <= 51:
+    if ch <= 52:
         return 13
-    if ch <= 54:
+    if ch <= 55:
         return 14
-    if ch <= 56:
+    if ch <= 57:
         return 15
-    if ch <= 62:
+    if ch <= 63:
         return 16
-    if ch <= 65:
+    if ch <= 66:
         return 17
-    if ch <= 68:
+    if ch <= 69:
         return 18
-    if ch <= 70:
+    if ch <= 71:
         return 19
     return 20
 
@@ -292,7 +293,7 @@ def topic_navigation_footer(ch: int, titles: dict[int, str]) -> str:
     else:
         pt = titles.get(ch - 1, f"Chapter {ch - 1}")
         prev_link = f"[← {ch - 1}. {pt}]({chapter_href(ch, ch - 1)})"
-    if ch >= 76:
+    if ch >= 77:
         next_link = "[Appendix — Cast](../appendices/appendix-cast.md)"
     else:
         nt = titles.get(ch + 1, f"Chapter {ch + 1}")
@@ -429,7 +430,7 @@ def main() -> None:
         parsed = parse_chapters(p.read_text(encoding="utf-8"))
         by_chapter.update(parsed)
 
-    for ch in range(1, 77):
+    for ch in range(1, 78):
         if ch not in CHAPTERS:
             raise SystemExit(f"Missing CHAPTERS entry for {ch}")
         title, body = by_chapter.get(ch, (f"Chapter {ch}", "_No manuscript section found; add content from research._"))

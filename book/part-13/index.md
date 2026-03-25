@@ -14,11 +14,11 @@ tags:
 
 ## Topics in this part
 
-- [47. Chamas and Table Banking: Trust as Financial Engine](47-chamas-table-banking.md)
-- [48. Digitizing Chamas: Ledgers, Voting, Transparency](48-digitizing-chamas.md)
-- [49. SACCO Digitization: Cooperative Stack Matures](49-sacco-digitization.md)
-- [50. M-Changa: Harambee Goes Link-Based](50-m-changa.md)
-- [51. WhatsApp as Financial Coordination Layer](51-whatsapp-financial-coordination.md)
+- [47. Chamas and Table Banking: Trust as Financial Engine](48-chamas-table-banking.md)
+- [48. Digitizing Chamas: Ledgers, Voting, Transparency](49-digitizing-chamas.md)
+- [49. SACCO Digitization: Cooperative Stack Matures](50-sacco-digitization.md)
+- [50. M-Changa: Harambee Goes Link-Based](51-m-changa.md)
+- [51. WhatsApp as Financial Coordination Layer](52-whatsapp-financial-coordination.md)
 
 
 <!-- EVIDENCE_BLOCK -->

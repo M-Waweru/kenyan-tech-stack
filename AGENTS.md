@@ -9,10 +9,10 @@
 
 Read and follow **`authoring/AGENT-CHAPTER-GUIDE.md`**. It links the normative meta docs under **`authoring/meta/`** and summarizes:
 
-- **Docu-novel rules:** scene-first **Lead**, **builder–user–referee**, named **rail**, mandatory **conflict**, motifs, turning-point companies, character hooks, energy, honest **shadows** (analysis not instructions)—full detail in the guide (mirrors [Structure](authoring/meta/structure.md#rules-for-writing-this-so-its-narrative-character-driven-energetic)).  
+- **Docu-novel rules:** scene-first **Lead** in **continuous prose** (no pasted `Bridge:` / outline labels; composite scenes under `### Composite scene:` per Part I), **builder–user–referee**, named **rail**, mandatory **conflict**, motifs, turning-point companies, character hooks, energy, honest **shadows** (analysis not instructions)—full detail in the guide (mirrors [Structure](authoring/meta/structure.md#rules-for-writing-this-so-its-narrative-character-driven-energetic)).  
 - Topic section template and YAML front matter  
 - Acronym rule: **Full Name (ABBR)** on first use in each file  
-- Web citations: inline links + end-of-file URL registry + `SRC-XX` in **Sources**  
+- Web citations: inline links + end-of-file URL registry + `SRC-XX` in **Sources**; seek **reputable third-party** sources on material claims (not only official or corporate pages)—see `authoring/meta/web-citations.md`  
 - Narrative depth workflow and factual checklist  
 
 ## Key paths

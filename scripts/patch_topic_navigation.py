@@ -21,7 +21,7 @@ NAV_BLOCK_RE = re.compile(r"\n\n---\n\n### Navigate\n\n.*\Z", re.DOTALL)
 def main() -> None:
     titles = load_all_chapter_titles()
     root = BOOK.parent
-    for ch in range(1, 77):
+    for ch in range(1, 78):
         part = chapter_to_part(ch)
         slug = CHAPTERS[ch][0]
         path = BOOK / f"part-{part:02d}" / f"{slug}.md"

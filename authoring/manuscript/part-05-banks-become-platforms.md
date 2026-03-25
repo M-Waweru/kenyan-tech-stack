@@ -29,7 +29,13 @@ Behavior shifted from tolerance to expectation. Users began comparing banks like
 
 The shadow includes account-takeover risks, onboarding fraud, and usability gaps for users with low digital literacy. Fast UX without robust safeguards can raise harm.
 
-Bridge: as banks and fintechs competed on experience, merchant acceptance rails became the frontline of digital commerce.
+## 18. Retail Banking App as Table Stakes
+
+Incumbent banks responded to M-PESA-speed expectations and neobank UX pressure by treating mobile apps as primary distribution: repeated revamps, self-onboarding, biometrics, M-PESA rail hooks, and board-visible digital KPIs. Tier-one retail competition is now as much app-store ratings and outage discipline as branch footprint.
+
+The shadow is operational debt—half-migrated cores, support queues when redesigns break muscle memory, and sameness when every bank claims “seamless.”
+
+Bridge: as retail banking moved to the home screen, merchant acceptance rails became the frontline of digital commerce.
 
 <!-- EVIDENCE_BLOCK -->
 

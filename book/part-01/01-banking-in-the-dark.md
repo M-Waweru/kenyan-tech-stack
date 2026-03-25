@@ -15,7 +15,7 @@ tags:
 
 ## Lead
 
-**Banking in the dark** is Kenya's pre-app financial stack: core ledgers, branch networks, card switches, and batch reconciliation—run under **Central Bank of Kenya (CBK)** supervision—long before M-PESA. The [Kenya Bankers Association (KBA) technology timeline][kba-tech] places the start of serious bank computerisation in **June 1968**, when National and Grindlays Bank installed an **International Computers Limited (ICL)** mainframe in Nairobi as a central repository for branch data. **Barclays Bank of Kenya** rolled out full branch computerisation from **November 1982** (Enterprise Road branch first, then countrywide). **Standard Chartered** introduced **debit cards** and **automated teller machines (ATMs)** in **1989**. **Kenya Commercial Bank (KCB)** joined the **Society for Worldwide Interbank Financial Telecommunication (SWIFT)** network in **1994**. By the **early 2000s** customers could use any branch of their bank, ATMs offered deposits and transfers, and banks interconnected on shared ATM switches such as **PesaPoint**. **Co-operative Bank** launched **short message service (SMS)** balance and enquiry banking in **2004**—still not **peer-to-peer (P2P)** mobile money, which arrived with **M-PESA in 2007**. Those milestones sit on the same [KBA page][kba-tech].
+**Banking in the dark** is Kenya's pre-app financial stack: core ledgers, branch networks, card switches, and batch reconciliation—run under **Central Bank of Kenya (CBK)** supervision—long before M-PESA. The [Kenya Bankers Association (KBA) technology timeline][kba-tech] places the start of serious bank computerisation in **June 1968**, when National and Grindlays Bank installed an **International Computers Limited (ICL)** mainframe in Nairobi as a central repository for branch data. **Barclays Bank of Kenya** rolled out full branch computerisation from **November 1982** (Enterprise Road branch first, then countrywide). **Standard Chartered** introduced **debit cards** and **automated teller machines (ATMs)** in **1989**. **Kenya Commercial Bank (KCB)** joined the **Society for Worldwide Interbank Financial Telecommunication (SWIFT)** network in **1994**. By the **early 2000s** customers could use any branch of their bank, ATMs offered deposits and transfers, and banks interconnected on shared ATM switches such as **PesaPoint**. **Co-operative Bank** launched **short message service (SMS)** balance and enquiry banking in **2004**—still not **peer-to-peer (P2P)** mobile money, which arrived when **M-PESA** went **commercial on 6 March 2007** (Safaricom’s own milestone narrative, [M-PESA background][mpesa-17]). **Vodafone**’s group-side retrospective traces the same **M-PESA** arc from the multinational parent’s angle—helpful triangulation beside **Safaricom**’s Kenyan newsroom copy ([Vodafone — M-PESA 15 years][vodafone-mpesa]). Those banking milestones sit on the same [KBA page][kba-tech].
 
 Alongside global vendors, **local financial software** became an export category. **Craft Silicon**, founded by **Kamal Budhabhatti in 2000**, grew from custom bank software work into a firm serving institutions in dozens of countries and won the **2010 Africa Awards for Entrepreneurship** grand prize, as told in [How We Made It in Africa — Budhabhatti profile][hwmia-craft] and [Meet the Boss][hwmia-boss]. That combination—**mainframe-era discipline**, **card and SWIFT-era integration**, and **Kenyan-built banking products**—trained the integrator culture that later wired banks to telcos, **application programming interfaces (APIs)**, and government payment gateways. The human cost centre behind the dates is still the night shift: mismatched files, payroll cutoffs, and auditors asking for a trail—failure modes mobile money would inherit, not erase.
 
@@ -25,7 +25,7 @@ Picture Nairobi in the late 1990s: glass towers going up, but inside many banks 
 
 Banks were the **largest institutional buyers of computing** most citizens would never see. They had the capital for hardware, the regulatory motive for controls, and the geography problem of **branches spread across counties** that had to agree on one balance for the same customer. There was no app-store fintech story yet. The “product” was **trust that tomorrow’s balance matched yesterday’s truth**.
 
-That is what this chapter means by **banking in the dark**: the invisible stratum of **core banking, reconciliation, treasury, cards, and SWIFT**—the work that had to succeed before Kenya could credibly bolt on **M-PESA (2007)** and later **open APIs** without the whole edifice shaking.
+That is what this chapter means by **banking in the dark**: the invisible stratum of **core banking, reconciliation, treasury, cards, and SWIFT**—the work that had to succeed before Kenya could credibly bolt on **M-PESA (from 6 March 2007)** and later **open APIs** without the whole edifice shaking.
 
 ## History
 
@@ -45,7 +45,7 @@ The same [KBA timeline][kba-tech] dates the start of serious automation to **Jun
 
 By the **early 2000s**, the customer-visible story changed: you were no longer chained to the branch that opened your account. **ATMs gained deposit and transfer features**. Banks began **interconnecting switches**—the [KBA page][kba-tech] names **PesaPoint** as a network many banks joined. (PesaPoint would later intersect the **M-PESA** story in the late 2000s, but here it matters as proof that **interbank interoperability** was already a design problem.)
 
-**Co-operative Bank’s SMS banking (2004)** let customers check balances and track cheques—**still not peer-to-peer (P2P) digital cash**, but a direct line from banking batch systems to the handset ([KBA timeline][kba-tech]). When **M-PESA launched in 2007**, it did not land in a banking vacuum. It landed in a country already trained on **personal identification numbers (PINs)**, settlement language, and shared rails—even if those rails were mostly **bank-centric**—as both the [KBA timeline][kba-tech] and [*Kenya’s Payments Journey*][cbk-payments] emphasise.
+**Co-operative Bank’s SMS banking (2004)** let customers check balances and track cheques—**still not peer-to-peer (P2P) digital cash**, but a direct line from banking batch systems to the handset ([KBA timeline][kba-tech]). When **M-PESA** went **live on 6 March 2007**, it did not land in a banking vacuum. It landed in a country already trained on **personal identification numbers (PINs)**, settlement language, and shared rails—even if those rails were mostly **bank-centric**—as both the [KBA timeline][kba-tech] and [*Kenya’s Payments Journey*][cbk-payments] emphasise.
 
 ### Kamal Budhabhatti and Craft Silicon — the local vendor as protagonist
 
@@ -114,9 +114,19 @@ Selling into banks means your **release train** includes **security review, disa
 - `SRC-28` — [How Kamal Budhabhatti built Craft Silicon](https://www.howwemadeitinafrica.com/how-kamal-budhabhatti-built-one-of-kenyas-foremost-it-companies/17410/)
 - `SRC-29` — [Meet the Boss: Kamal Budhabhatti](https://www.howwemadeitinafrica.com/meet-the-boss-kamal-budhabhatti-ceo-craft-silicon-kenya/16861/)
 - `SRC-30` — [Craft Silicon — management / about](https://www.craftsilicon.com/about/management-team/)
+- `SRC-07` — [Vodafone — M-PESA 15-year history](https://www.vodafone.com/news/newsroom/empowering-people/mpesa-marks-15-years)
+- `SRC-04` — [Safaricom newsroom — M-PESA 17 years background](https://newsroom.safaricom.co.ke/innovation/m-pesa-17-years-of-transforming-lives/)
 - `SRC-34` — [KBA — History of Banking in Kenya (Technology)](https://bankinghistory.kba.co.ke/technology/)
 - `SRC-38` — [CBK — *Kenya's Payments Journey* (PDF)](https://www.centralbank.go.ke/wp-content/uploads/2023/02/Kenyas-Payments-Journey.pdf)
 - [Full Source Catalog](../appendices/sources.md)
+
+<!-- Inline citation targets — see **Sources** for `SRC-XX` IDs. -->
+[kba-tech]: https://bankinghistory.kba.co.ke/technology/
+[mpesa-17]: https://newsroom.safaricom.co.ke/innovation/m-pesa-17-years-of-transforming-lives/
+[vodafone-mpesa]: https://www.vodafone.com/news/newsroom/empowering-people/mpesa-marks-15-years
+[cbk-payments]: https://www.centralbank.go.ke/wp-content/uploads/2023/02/Kenyas-Payments-Journey.pdf
+[hwmia-craft]: https://www.howwemadeitinafrica.com/how-kamal-budhabhatti-built-one-of-kenyas-foremost-it-companies/17410/
+[hwmia-boss]: https://www.howwemadeitinafrica.com/meet-the-boss-kamal-budhabhatti-ceo-craft-silicon-kenya/16861/
 
 ---
 

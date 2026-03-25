@@ -8,7 +8,7 @@ alwaysApply: false
 
 - **Published tree:** Only `book/` ships to readers (with `SUMMARY.md` at repo root for GitBook). Do not place internal outlines or merged drafts here—they live in `authoring/`.
 - **Full guide:** `authoring/AGENT-CHAPTER-GUIDE.md` (narrative + technical checklists), `authoring/meta/topic-article-schema.md`, `authoring/meta/structure.md` (per-chapter cold open / rail / shadow / bridge).
-- **Docu-novel:** **Lead** opens with a **scene/moment**, not “In 2009…”. Every chapter: **builder + user + referee**, **named rail**, **one conflict**, companies at **turning points** only, **shadows** honest (analysis not instructions). Character **hooks**; recurring **motifs** (Till, OTP, agent stall, etc.) where apt.
+- **Docu-novel:** **Lead** opens with a **scene/moment**, not “In 2009…”. Match **Part I–II voice**: continuous prose—**no** `Bridge:` lines or Lead-wide `*Composite.*` in published text; composite vignettes use **`### Composite scene:`** under History/Product. Every chapter: **builder + user + referee** (woven in prose), **named rail**, **one conflict**, companies at **turning points** only, **shadows** honest (analysis not instructions). Character **hooks**; recurring **motifs** (Till, OTP, agent stall, etc.) where apt.
 - **Acronyms:** On first use in each topic file, write **Full Name (ABBR)**.
 - **Sources:** Use clickable markdown links in prose; keep `SRC-XX` IDs in the chapter **Sources** list and in `book/appendices/sources.md`. Add a link reference registry (`[key]: https://…`) at the end of the file. See `authoring/meta/web-citations.md`.
 - **Style:** Narrative sections, not bullet dumps; avoid semicolon-chained unrelated clauses.

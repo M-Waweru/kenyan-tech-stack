@@ -14,9 +14,9 @@ tags:
 
 ## Topics in this part
 
-- [34. Uber and Bolt: Growth Meets Driver Backlash](34-uber-bolt-driver-backlash.md)
-- [35. Little Cab: The Local Counterpunch](35-little-cab.md)
-- [36. Glovo, Jumia, and Delivery Unit Economics](36-glovo-jumia-delivery.md)
+- [34. Uber and Bolt: Growth Meets Driver Backlash](35-uber-bolt-driver-backlash.md)
+- [35. Little Cab: The Local Counterpunch](36-little-cab.md)
+- [36. Glovo, Jumia, and Delivery Unit Economics](37-glovo-jumia-delivery.md)
 
 
 <!-- EVIDENCE_BLOCK -->

@@ -7,7 +7,7 @@ tags:
 ---
 # Part VIII: The Education Stack
 
-## 26. Kenya's Exam Machine
+## 27. Kenya's Exam Machine
 
 A student revises under weak light while a parent calculates whether next term's fees can be managed. The pressure is not abstract. Exam outcomes influence school transitions, status, and future opportunity. This pressure shapes education technology demand more than global trend cycles.
 
@@ -19,7 +19,7 @@ The shadow is intensified inequality when access to quality tools tracks income 
 
 Bridge: feature-phone-compatible models addressed this constraint early.
 
-## 27. Eneza: Feature-Phone EdTech
+## 28. Eneza: Feature-Phone EdTech
 
 A learner receives questions via SMS after chores, practices quietly, and gets feedback without broadband, laptop, or classroom extension hours.
 
@@ -31,7 +31,7 @@ The shadow includes monetization difficulty, content depth constraints, and depe
 
 Bridge: where schools needed richer media, offline hardware models emerged.
 
-## 28. BRCK and Offline Classroom Systems
+## 29. BRCK and Offline Classroom Systems
 
 A teacher opens a digital lesson even though the internet is unstable, because content is cached and classroom devices are synchronized locally.
 
@@ -43,7 +43,7 @@ The shadow is operational sustainability. Devices require maintenance, replaceme
 
 Bridge: infrastructure without relevant content has limited effect.
 
-## 29. eLimu and Local Content
+## 30. eLimu and Local Content
 
 Students respond differently when examples sound local, images resemble their world, and language reflects classroom realities.
 
@@ -55,7 +55,7 @@ The shadow is high content production cost and frequent updates needed to stay a
 
 Bridge: curriculum authority determines what can scale nationally.
 
-## 30. KICD and Curriculum Governance
+## 31. KICD and Curriculum Governance
 
 No education product reaches broad legitimacy without alignment to official curriculum pathways. Standards are both guide and gate.
 
@@ -67,7 +67,7 @@ The shadow is slower innovation cycles when policy updates lag classroom needs.
 
 Bridge: beyond learning content, school operations digitized rapidly.
 
-## 31. School Ops: Fees, Messaging, Admin
+## 32. School Ops: Fees, Messaging, Admin
 
 A parent pays fees, receives a digital receipt, and gets class updates through messaging channels. School management becomes partly software management.
 
@@ -79,7 +79,7 @@ The shadow is privacy risk and uneven process adoption within institutions.
 
 Bridge: demand for technical skills grew as digital systems became normal in schools and workplaces.
 
-## 32. Moringa School and the Skills Rail
+## 33. Moringa School and the Skills Rail
 
 A learner enters a coding program not for prestige, but for a clear route to employability. That clarity matters in labor markets with high uncertainty.
 
@@ -91,7 +91,7 @@ The shadow is quality variation across training providers and placement pressure
 
 Bridge: global platforms then expanded opportunity and competition for Kenyan talent.
 
-## 33. Andela and Global Talent Integration
+## 34. Andela and Global Talent Integration
 
 An engineer in Nairobi collaborates with distributed teams worldwide and is evaluated on execution quality, communication, and reliability across time zones.
 

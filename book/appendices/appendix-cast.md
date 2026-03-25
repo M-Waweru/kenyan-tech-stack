@@ -29,7 +29,7 @@ If you are new to Kenya's institutions, read each profile as a **navigation aid*
 - **Rail(s):** Connectivity rail, state stack, digital policy.
 - **Key contribution:** Helped frame broadband and digital infrastructure as national development priorities.
 - **Contested issues (neutral note):** Relative attribution versus wider multi-agency and private-sector execution remains debated.
-- **Where to find in book:** [Part 1 — Before the Hype](../part-01/index.md), [Part 2 — Connectivity](../part-02/index.md), [Part 7 — The State Stack](../part-07/index.md). Topics: [4. Bitange Ndemo's Bet](../part-02/04-bitange-ndemo-bet.md), [22. eCitizen](../part-07/22-ecitizen.md).
+- **Where to find in book:** [Part 1 — Before the Hype](../part-01/index.md), [Part 2 — Connectivity](../part-02/index.md), [Part 7 — The State Stack](../part-07/index.md). Topics: [4. Bitange Ndemo's Bet](../part-02/04-bitange-ndemo-bet.md), [22. eCitizen](../part-07/23-ecitizen.md).
 
 ### Michael Joseph
 - **Role:** Corporate leader in Safaricom's early platform era.
@@ -45,7 +45,7 @@ If you are new to Kenya's institutions, read each profile as a **navigation aid*
 - **Rail(s):** Mobile network rail, enterprise platform rail.
 - **Key contribution:** Drove institutional scaling, enterprise partnerships, and operating discipline during ecosystem expansion.
 - **Contested issues (neutral note):** Analysts differ on how to separate firm-level strategy effects from broader market and policy conditions.
-- **Where to find in book:** [Part 3 — Money as a Network](../part-03/index.md), [Part 5 — Banks Become Platforms](../part-05/index.md), [Part 18 — Power vs Networks](../part-18/index.md). Topics: [6. Safaricom](../part-02/06-safaricom-platform-incumbent.md), [8. M-PESA](../part-03/08-mpesa-payment-os.md), [67. Gen Z protests](../part-18/67-gen-z-protests.md).
+- **Where to find in book:** [Part 3 — Money as a Network](../part-03/index.md), [Part 5 — Banks Become Platforms](../part-05/index.md), [Part 18 — Power vs Networks](../part-18/index.md). Topics: [6. Safaricom](../part-02/06-safaricom-platform-incumbent.md), [8. M-PESA](../part-03/08-mpesa-payment-os.md), [67. Gen Z protests](../part-18/68-gen-z-protests.md).
 
 ### Peter Ndegwa
 - **Role:** Current-era Safaricom leader in platform diversification period.
@@ -53,7 +53,7 @@ If you are new to Kenya's institutions, read each profile as a **navigation aid*
 - **Rail(s):** Telecom-platform rail, fintech and enterprise rail.
 - **Key contribution:** Advanced enterprise/API positioning and cross-market expansion narratives.
 - **Contested issues (neutral note):** Public discussion includes pricing, market power, and cross-border execution risk; interpretations vary.
-- **Where to find in book:** [Part 5 — Banks Become Platforms](../part-05/index.md), [Part 9 — Global Apps, Local Physics](../part-09/index.md), [Part 18 — Power vs Networks](../part-18/index.md), [Part 20 — Future Stack](../part-20/index.md). Topics: [16. Jenga API](../part-05/16-jenga-api-banking-platformization.md), [71–76. Future stack](../part-20/71-stack-thickens.md).
+- **Where to find in book:** [Part 5 — Banks Become Platforms](../part-05/index.md), [Part 9 — Global Apps, Local Physics](../part-09/index.md), [Part 18 — Power vs Networks](../part-18/index.md), [Part 20 — Future Stack](../part-20/index.md). Topics: [16. Jenga API](../part-05/16-jenga-api-banking-platformization.md), [71–76. Future stack](../part-20/72-stack-thickens.md).
 
 ### Nick Hughes
 - **Role:** Product architect figure in early M-PESA design.
@@ -69,7 +69,7 @@ If you are new to Kenya's institutions, read each profile as a **navigation aid*
 - **Rail(s):** Payments rail, operations and rollout rail.
 - **Key contribution:** Helped translate concept-stage mobile money into deployable service workflows.
 - **Contested issues (neutral note):** Attribution across pilot-stage teams, operators, regulators, and local market actors is interpreted differently in public accounts.
-- **Where to find in book:** [Part 3 — Money as a Network](../part-03/index.md), [Part 7 — The State Stack](../part-07/index.md). Topics: [8. M-PESA](../part-03/08-mpesa-payment-os.md), [22. eCitizen](../part-07/22-ecitizen.md).
+- **Where to find in book:** [Part 3 — Money as a Network](../part-03/index.md), [Part 7 — The State Stack](../part-07/index.md). Topics: [8. M-PESA](../part-03/08-mpesa-payment-os.md), [22. eCitizen](../part-07/23-ecitizen.md).
 
 ### Kamal Budhabhatti
 - **Role:** Founder and CEO of Craft Silicon; enterprise banking and financial-institution software.
@@ -89,7 +89,7 @@ If you are new to Kenya's institutions, read each profile as a **navigation aid*
 - **Rail(s):** Payments rail, distribution rail, merchant rail.
 - **Key contribution:** Operationalized everyday reliability, liquidity handling, and customer trust for mobile money adoption.
 - **Contested issues (neutral note):** Commission structures, fraud exposure, and labor precarity are discussed with mixed evidence and viewpoints.
-- **Where to find in book:** [Part 3 — Money as a Network](../part-03/index.md), [Part 6 — Merchant Rails](../part-06/index.md), [Part 11 — Credit Habit](../part-11/index.md). Topics: [8. M-PESA](../part-03/08-mpesa-payment-os.md), [9. M-PESA for Business](../part-03/09-mpesa-for-business.md), [43. Fuliza](../part-11/43-fuliza.md).
+- **Where to find in book:** [Part 3 — Money as a Network](../part-03/index.md), [Part 6 — Merchant Rails](../part-06/index.md), [Part 11 — Credit Habit](../part-11/index.md). Topics: [8. M-PESA](../part-03/08-mpesa-payment-os.md), [9. M-PESA for Business](../part-03/09-mpesa-for-business.md), [43. Fuliza](../part-11/44-fuliza.md).
 
 ### Integrator engineers (collective character)
 - **Role:** Technical bridge between APIs, legacy systems, and business workflows.

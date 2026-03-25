@@ -14,12 +14,12 @@ tags:
 
 ## Topics in this part
 
-- [57. WeFarm: SMS Knowledge as Infrastructure](57-wefarm.md)
-- [58. Apollo and One Acre Fund: Farming as a System](58-apollo-one-acre-fund.md)
-- [59. PAYGo Nation: M-KOPA, d.light, Sun King](59-paygo-m-kopa-dlight-sunking.md)
-- [60. Watu and Mobility Asset Finance](60-watu-mobility-finance.md)
-- [61. Roam and EV Standards Wars](61-roam-ev-standards.md)
-- [62. GiveDirectly: Cash as Climate and Shock Infrastructure](62-givedirectly-cash-resilience.md)
+- [57. WeFarm: SMS Knowledge as Infrastructure](58-wefarm.md)
+- [58. Apollo and One Acre Fund: Farming as a System](59-apollo-one-acre-fund.md)
+- [59. PAYGo Nation: M-KOPA, d.light, Sun King](60-paygo-m-kopa-dlight-sunking.md)
+- [60. Watu and Mobility Asset Finance](61-watu-mobility-finance.md)
+- [61. Roam and EV Standards Wars](62-roam-ev-standards.md)
+- [62. GiveDirectly: Cash as Climate and Shock Infrastructure](63-givedirectly-cash-resilience.md)
 
 
 <!-- EVIDENCE_BLOCK -->

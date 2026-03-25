@@ -14,8 +14,8 @@ tags:
 
 ## Topics in this part
 
-- [69. High-Profile Hacks as Cultural Memory](69-high-profile-hacks-cultural-memory.md)
-- [70. Cyber Maturity Arc: Trust as Next Industry](70-cyber-maturity-trust-industry.md)
+- [69. High-Profile Hacks as Cultural Memory](70-high-profile-hacks-cultural-memory.md)
+- [70. Cyber Maturity Arc: Trust as Next Industry](71-cyber-maturity-trust-industry.md)
 
 
 <!-- EVIDENCE_BLOCK -->

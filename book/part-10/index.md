@@ -14,10 +14,10 @@ tags:
 
 ## Topics in this part
 
-- [37. Twiga: Produce as a Machine](37-twiga.md)
-- [38. Sendy: Logistics Dreams and Friction](38-sendy.md)
-- [39. Lori: Trucking as Software and Negotiation](39-lori-trucking.md)
-- [40. MarketForce and Copia: Informal Retail Digitization](40-marketforce-copia.md)
+- [37. Twiga: Produce as a Machine](38-twiga.md)
+- [38. Sendy: Logistics Dreams and Friction](39-sendy.md)
+- [39. Lori: Trucking as Software and Negotiation](40-lori-trucking.md)
+- [40. MarketForce and Copia: Informal Retail Digitization](41-marketforce-copia.md)
 
 
 <!-- EVIDENCE_BLOCK -->

@@ -23,7 +23,7 @@ The trade-offs were real. **Shared PCs** meant cached passwords, shoulder surfin
 
 ## Context
 
-In the 1990s a **personal computer** was often a family asset or a university privilege, not a living-room default. **International bandwidth** was expensive. The state telecom era had just given way to a **liberalising framework** (the **Kenya Communications Act, 1998**) that would reshape **internet service providers (ISPs)** and, later, mobile data—but cafés arrived in the **awkward middle**: enough connectivity to matter, not enough to be invisible.
+In the 1990s a **personal computer** was often a family asset or a university privilege, not a living-room default. **International bandwidth** was expensive. The state telecom era had just given way to a **liberalising framework**: the **Kenya Information and Communications Act, 1998**—assented **1 October 1998**, gazetted **9 November 1998**, with core provisions commencing **15 February 1999** and further tranches through **23 April 1999** and **1 July 1999** (per [Kenya Law’s consolidated commencement table][kica-1998])—that would reshape **internet service providers (ISPs)** and, later, mobile data—but cafés arrived in the **awkward middle**: enough connectivity to matter, not enough to be invisible.
 
 Kenya’s **full-country Internet Protocol (IP) connectivity** is dated in the [oAfrica / Network Startup Resource Center (NSRC)–derived timeline][oafrica-timeline] to **24 October 1995**—early by African standards of the day. That does not mean everyone felt it. It means the **pipe** existed while **retail access** still required **institutions, non-governmental organizations (NGOs), or entrepreneurs** to translate it into shillings-per-minute reality.
 
@@ -37,7 +37,7 @@ Before cafés scaled, connectivity lived in **project offices and labs**. **Heal
 
 ### The cybercafé as a small factory
 
-From roughly **1998–1999**, commercial **internet cafés** multiplied in **Nairobi, Mombasa, Kisumu, Nakuru**, and any town with **students, migrants, and paperwork**. They were not only “browse Facebook” venues—Facebook had not eaten the world yet. They were **factories for documents**: **CVs**, **scholarship forms**, **exam-result printouts**, **visa packs (usually Portable Document Format, PDF)**, **scans of IDs**, **laminated certificates**. Graduate research archived at the **University of Nairobi** traces how **Nairobi cafés adapted** as **mobile penetration climbed** and **3G** shifted casual browsing off desktops ([UoN e-repository thesis][uon-thesis]).
+From roughly **1998–1999**, commercial **internet cafés** multiplied in **Nairobi, Mombasa, Kisumu, Nakuru**, and any town with **students, migrants, and paperwork**. They were not only “browse Facebook” venues—Facebook had not eaten the world yet. They were **factories for documents**: **CVs**, **scholarship forms**, **exam-result printouts**, **visa packs (usually Portable Document Format, PDF)**, **scans of IDs**, **laminated certificates**. Graduate research archived at the **University of Nairobi** traces how **Nairobi cafés adapted** as **mobile penetration climbed** and **3G** shifted casual browsing off desktops ([UoN e-repository thesis][uon-thesis]). Independently of any single thesis, the **Communications Commission of Kenya (CCK)** annual report for **FY2010/11** already logged sharply rising **internet** subscriptions and **data** use while shared **cybercafés** were still a mass-market on-ramp—regulator tables that triangulate café-era growth stories ([CCK annual report FY2010/11][cack-2011]).
 
 *Composite scene:* A **campus-adjacent attendant**—we will not fix a name—knows the **three working printers**, which **ISP bundle** fails after rain, and which **keyboard letters** have worn off. A customer says, “**Nitumie application kabla deadline**.” The attendant does not quote **Requests for Comments (RFCs)**—the numbered standards that define the internet’s plumbing. They quote **price per minute**, **price per page**, and **how to attach a file without closing the browser**. That labour is **infrastructure**.
 
@@ -102,11 +102,20 @@ If your product assumes a **solo user on a personal device**, you will miss mill
 
 ## Sources
 
+- `SRC-45` — [Communications Commission of Kenya annual report FY2010/11 (PDF)](https://www.ca.go.ke/sites/default/files/2023-05/Annual-Report-for-the-Financial-Year-2010-2011.pdf)
 - `SRC-36` — [University of Nairobi e-repository — cybercafé / internet market thesis (handle 11295/106107)](https://erepository.uonbi.ac.ke/handle/11295/106107)
 - `SRC-39` — [oAfrica — African full Internet access timeline (Kenya 24 Oct 1995)](https://www.oafrica.com/statistics/full-internet-access-timeline/)
 - `SRC-40` — [KENET — *KENET as the NREN of Kenya* (PDF)](https://www.kenet.or.ke/sites/default/files/kenet_as_the_nren_of_kenya_-_04.01.2023.pdf)
+- `SRC-53` — [Kenya Information and Communications Act, 1998 (Kenya Law)](https://new.kenyalaw.org/akn/ke/act/1998/2)
 - AfricaBib / journal literature — search [AfricaBib](https://www.africabib.org/) for **Kenya + cybercafé** for additional field studies.
 - [Full Source Catalog](../appendices/sources.md)
+
+<!-- Inline citation targets — see **Sources** for `SRC-XX` IDs. -->
+[uon-thesis]: https://erepository.uonbi.ac.ke/handle/11295/106107
+[kica-1998]: https://new.kenyalaw.org/akn/ke/act/1998/2
+[kenet-nren]: https://www.kenet.or.ke/sites/default/files/kenet_as_the_nren_of_kenya_-_04.01.2023.pdf
+[oafrica-timeline]: https://www.oafrica.com/statistics/full-internet-access-timeline/
+[cack-2011]: https://www.ca.go.ke/sites/default/files/2023-05/Annual-Report-for-the-Financial-Year-2010-2011.pdf
 
 ---
 

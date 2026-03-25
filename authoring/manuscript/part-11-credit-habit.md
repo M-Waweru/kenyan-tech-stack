@@ -7,7 +7,7 @@ tags:
 ---
 # Part XI: Credit Becomes a Habit (2012-2025)
 
-## 41. Digital Lending Boom: Credit as a Button
+## 42. Digital Lending Boom: Credit as a Button
 
 A borrower facing a same-day obligation can apply and receive funds in minutes. The speed feels empowering. It can also feel dangerous when repayment arrives sooner than expected cashflow.
 
@@ -19,7 +19,7 @@ The shadow is overextension and opaque pricing. Fast disbursement without clear 
 
 Bridge: smartphone-based scoring scaled this model further.
 
-## 42. Tala and Branch: Underwriting at Scale
+## 43. Tala and Branch: Underwriting at Scale
 
 The smartphone became a behavioral ledger. Payment patterns, usage signals, and repayment history informed lending decisions in near real time.
 
@@ -31,7 +31,7 @@ The shadow includes privacy concerns, model opacity, and emotional stress around
 
 Bridge: overdraft embedded inside payment flows removed friction even further.
 
-## 43. Fuliza: Ambient Borrowing
+## 44. Fuliza: Ambient Borrowing
 
 A transaction succeeds despite insufficient balance because overdraft is integrated into the payment rail. Borrowing no longer feels like a separate decision.
 
@@ -43,7 +43,7 @@ The shadow is invisibility of debt accumulation. Users may underestimate total b
 
 Bridge: backlash over debt stress and reporting practices pushed regulatory reform.
 
-## 44. Backlash: CRB Pain, Collections, Licensing
+## 45. Backlash: CRB Pain, Collections, Licensing
 
 Public narratives around digital credit turned sharply when borrowers reported aggressive collections and long-term exclusion effects from adverse credit records.
 

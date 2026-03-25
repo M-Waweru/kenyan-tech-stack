@@ -14,9 +14,9 @@ tags:
 
 ## Topics in this part
 
-- [52. Remittances: Kenya's Invisible Export](52-remittances-invisible-export.md)
-- [53. Stablecoins: The Parallel Dollar](53-stablecoins-parallel-dollar.md)
-- [54. VASP Regulation: The State Writes Rules for New Rails](54-vasp-regulation.md)
+- [52. Remittances: Kenya's Invisible Export](53-remittances-invisible-export.md)
+- [53. Stablecoins: The Parallel Dollar](54-stablecoins-parallel-dollar.md)
+- [54. VASP Regulation: The State Writes Rules for New Rails](55-vasp-regulation.md)
 
 
 <!-- EVIDENCE_BLOCK -->

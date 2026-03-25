@@ -14,10 +14,10 @@ tags:
 
 ## Topics in this part
 
-- [41. Digital Lending Boom: Credit as a Button](41-digital-lending-boom.md)
-- [42. Tala and Branch: Underwriting at Scale](42-tala-branch.md)
-- [43. Fuliza: Ambient Borrowing](43-fuliza.md)
-- [44. Backlash: CRB Pain, Collections, Licensing](44-crb-collections-licensing-backlash.md)
+- [41. Digital Lending Boom: Credit as a Button](42-digital-lending-boom.md)
+- [42. Tala and Branch: Underwriting at Scale](43-tala-branch.md)
+- [43. Fuliza: Ambient Borrowing](44-fuliza.md)
+- [44. Backlash: CRB Pain, Collections, Licensing](45-crb-collections-licensing-backlash.md)
 
 
 <!-- EVIDENCE_BLOCK -->

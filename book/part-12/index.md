@@ -14,8 +14,8 @@ tags:
 
 ## Topics in this part
 
-- [45. SportPesa: Betting Nation](45-sportpesa.md)
-- [46. Forex, Crypto, and Trading-App Culture](46-forex-crypto-trading-culture.md)
+- [45. SportPesa: Betting Nation](46-sportpesa.md)
+- [46. Forex, Crypto, and Trading-App Culture](47-forex-crypto-trading-culture.md)
 
 
 <!-- EVIDENCE_BLOCK -->

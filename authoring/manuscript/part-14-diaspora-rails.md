@@ -7,7 +7,7 @@ tags:
 ---
 # Part XIV: Diaspora Rails and the Parallel Dollar (2010-Today)
 
-## 52. Remittances: Kenya's Invisible Export
+## 53. Remittances: Kenya's Invisible Export
 
 A transfer from London or Minneapolis can arrive as school fees, medicine, rent stability, or inventory capital by morning. Remittances are often discussed as macroeconomic statistics, but at household level they are timing tools that prevent crises from cascading.
 
@@ -19,7 +19,7 @@ The shadow includes transfer fees, exchange-rate opacity, and dependence on vola
 
 Bridge: digital assets emerged as alternative channels for value storage and movement.
 
-## 53. Stablecoins: The Parallel Dollar
+## 54. Stablecoins: The Parallel Dollar
 
 For users facing currency pressure, stablecoins can look like practical hedges rather than speculative assets. A mobile-native digital dollar, even with complexity, offers perceived control where formal dollar access is limited.
 
@@ -31,7 +31,7 @@ The shadow is custody risk, fraud exposure, and policy uncertainty. Users can ga
 
 Bridge: Kenya moved toward formalizing this space through specific regulatory architecture.
 
-## 54. VASP Regulation: The State Writes Rules for New Rails
+## 55. VASP Regulation: The State Writes Rules for New Rails
 
 As virtual-asset activity expanded, the policy question moved from "whether to engage" to "how to regulate without stifling utility." Kenya's legal steps toward a VASP framework marked a transition from tolerated gray zones to structured oversight.
 

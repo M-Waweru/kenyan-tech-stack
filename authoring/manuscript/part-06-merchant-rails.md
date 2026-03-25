@@ -7,7 +7,7 @@ tags:
 ---
 # Part VI: Merchant Rails (2003-Today)
 
-## 18. Cellulant: The Pan-African Payments OG
+## 19. Cellulant: The Pan-African Payments OG
 
 A merchant operating in multiple African markets faces one practical reality: payment fragmentation is expensive. Different rails, regulations, and settlement patterns can turn growth into reconciliation chaos.
 
@@ -19,7 +19,7 @@ The shadow is complexity drag: compliance overhead, operational cost, and varyin
 
 Bridge: cards remained essential for many verticals, pushing gateway infrastructure deeper.
 
-## 19. DPO: Cross-Border Card Rails
+## 20. DPO: Cross-Border Card Rails
 
 An airline ticket, hotel reservation, or export sale often depends on card acceptance reliability. When card flows fail, revenue fails immediately.
 
@@ -31,7 +31,7 @@ The shadow includes chargebacks, fraud pressure, and FX volatility impacts on bo
 
 Bridge: institutional collections digitized in parallel, adding another critical rail.
 
-## 20. JamboPay: Collections as Anti-Leakage Infrastructure
+## 21. JamboPay: Collections as Anti-Leakage Infrastructure
 
 Public and quasi-public collections often fail at process integrity points: undocumented cash handling, delayed reconciliation, fragmented records. Digitization promised traceability.
 
@@ -43,7 +43,7 @@ The shadow is governance contestation. Platform legitimacy can be challenged by 
 
 Bridge: SMEs demanded similar reliability, opening space for checkout-focused platforms.
 
-## 21. Pesapal: The SME Checkout Layer
+## 22. Pesapal: The SME Checkout Layer
 
 For an SME, payment failure is not a metric. It is lost rent, lost stock, and lost customer trust. A stable checkout flow can be the difference between growth and collapse.
 

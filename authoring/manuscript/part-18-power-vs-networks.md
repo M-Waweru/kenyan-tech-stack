@@ -7,7 +7,7 @@ tags:
 ---
 # Part XVIII: Power vs Networks (2013-Today)
 
-## 66. Cambridge Analytica and Influence Operations
+## 67. Cambridge Analytica and Influence Operations
 
 Election strategy entered a data-enriched era where voter segmentation, psychographic claims, and targeted messaging promised precision influence. Public debate focused on personalities; the deeper shift was infrastructural: campaign communication became programmable.
 
@@ -19,7 +19,7 @@ The shadow is legitimacy erosion. When voters suspect manipulation, trust in bot
 
 Bridge: youth-led digital publics later demonstrated that networked participation can also challenge top-down narrative control.
 
-## 67. Gen Z Protests: Social Media Turns to Streets
+## 68. Gen Z Protests: Social Media Turns to Streets
 
 A well-crafted explainer thread becomes turnout. A livestream becomes documentation. A hashtag becomes logistics channel. Coordination now moves from pocket to pavement with minimal lag.
 
@@ -31,7 +31,7 @@ The shadow includes surveillance risk, misinformation spikes during high tension
 
 Bridge: state responses increasingly moved through legal tools, enforcement actions, and policy contestation.
 
-## 68. Crackdowns, Lawfare, and Civic Tech Counterpunch
+## 69. Crackdowns, Lawfare, and Civic Tech Counterpunch
 
 A civic transparency tool can be treated as a public service by citizens and as a threat by institutions under pressure. Digital governance disputes increasingly play out in courtrooms.
 

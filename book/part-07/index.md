@@ -14,10 +14,10 @@ tags:
 
 ## Topics in this part
 
-- [22. eCitizen: The State Becomes a Product](22-ecitizen.md)
-- [23. eGov for Everything](23-egov-for-everything.md)
-- [24. IPRS, Huduma, NIIMS: Identity Wars](24-iprs-huduma-niims-identity.md)
-- [25. Kenya's High-Profile Hacks: Attack Surface of a Digitizing State](25-kenya-high-profile-hacks-state.md)
+- [22. eCitizen: The State Becomes a Product](23-ecitizen.md)
+- [23. eGov for Everything](24-egov-for-everything.md)
+- [24. IPRS, Huduma, NIIMS: Identity Wars](25-iprs-huduma-niims-identity.md)
+- [25. Kenya's High-Profile Hacks: Attack Surface of a Digitizing State](26-kenya-high-profile-hacks-state.md)
 
 
 <!-- EVIDENCE_BLOCK -->

@@ -7,7 +7,7 @@ tags:
 ---
 # Part XII: Money as Entertainment (2016-Today)
 
-## 45. SportPesa: Betting Nation
+## 46. SportPesa: Betting Nation
 
 On a Saturday afternoon, odds circulate through group chats faster than team news. A notification promises possibility. A small stake becomes emotional strategy: hope packaged as a product. Betting culture in Kenya did not rise only because people liked sports. It rose because payment rails, mobile interfaces, and social distribution aligned into a low-friction loop.
 
@@ -19,7 +19,7 @@ The shadow is household volatility. Losses compound quietly. Family budgets abso
 
 Bridge: once speculative behavior normalized in betting interfaces, adjacent speculative rails grew quickly - forex channels, crypto markets, and app-based trading narratives.
 
-## 46. Forex, Crypto, and Trading-App Culture
+## 47. Forex, Crypto, and Trading-App Culture
 
 A phone screen now hosts candlestick charts, leverage offers, Telegram signals, and influencer clips promising rapid upside. The line between education, entertainment, and solicitation is blurred. For many users, market participation becomes part aspiration, part identity, part escape from currency anxiety.
 

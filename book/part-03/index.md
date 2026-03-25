@@ -25,7 +25,7 @@ Part III tracks the moment Kenya stopped treating digital payments as exceptiona
 
 Read these chapters as operating-system history, not only fintech history. The key question in each chapter is: *what behavior became normal after this rail matured?*
 
-- Chapter 8 explains why transfer trust became social infrastructure.
+- Chapter 8 explains why transfer trust became social infrastructure—and why **unstructured supplementary service data (USSD)** and **SIM Tool Kit (STK)** menus remain the mass-market face of **M-PESA**, not only smartphone apps.
 - Chapter 9 shows how merchant and institutional reconciliation turned mobile money into business plumbing.
 - Chapter 10 captures the API turn that made payments programmable for non-fintech builders.
 - Chapter 11 follows spillovers into sectors that never branded themselves as fintech.
@@ -36,9 +36,11 @@ Read these chapters as operating-system history, not only fintech history. The k
 
 | Date/Period | Anchor event | Source ID |
 | --- | --- | --- |
-| 2007 | M-PESA launch era begins | SRC-04 |
+| **6 Mar 2007** | M-PESA commercial launch (Safaricom milestone narrative) | SRC-04 |
 | FY2008/09 | 6M+ registered M-PESA users, 7,023 agents, KSh 120.61B P2P flow | SRC-49 |
-| 2010s | Business settlement and API integrations become mainstream | SRC-05, SRC-06 |
+| 2010s | Business settlement and API integrations mature | SRC-05, SRC-06 |
+| **9 Nov 2021** | Daraja self-serve M-PESA APIs portal announced (60-day integration contrast) | SRC-65 |
+| **2017 / 2025** | Safaricom newsroom origin retrospectives (Hughes/Lonie; Vaughn/Joseph) | SRC-63, SRC-64 |
 | 2018–2019 | Cybercrime and data-protection legal framework hardens | SRC-14, SRC-13 |
 | FY2024/25 Q3 | 57.2M mobile data subscriptions and large fixed-internet growth context | SRC-51 |
 
@@ -49,8 +51,14 @@ Part III teaches one repeated lesson: distribution and trust compound faster tha
 ## Verified sources for this part
 
 - `SRC-04`: [Safaricom newsroom — M-PESA 17 years](../appendices/sources.md#source-catalog)
+- `SRC-34`: [KBA — banking technology timeline](../appendices/sources.md#source-catalog)
+- `SRC-38`: [CBK — *Kenya's Payments Journey*](../appendices/sources.md#source-catalog)
+- `SRC-42`: [Wikipedia — Michael Joseph](../appendices/sources.md#source-catalog) (cross-check primaries)
 - `SRC-05`: [Daraja annual note](../appendices/sources.md#source-catalog)
 - `SRC-06`: [Safaricom Developer Portal](../appendices/sources.md#source-catalog)
+- `SRC-63`: [*How it all begun* — Hughes, Lonie, DFID, pilot, launch, CBK/Treasury politics](../appendices/sources.md#source-catalog)
+- `SRC-64`: [*How M-PESA was created* — Vaughn, product pivot, Joseph targets](../appendices/sources.md#source-catalog)
+- `SRC-65`: [Daraja portal press release (9 Nov 2021)](../appendices/sources.md#source-catalog)
 - `SRC-07`: [Vodafone M-PESA history](../appendices/sources.md#source-catalog)
 - `SRC-13`: [Data Protection Act, 2019](../appendices/sources.md#source-catalog)
 - `SRC-14`: [Computer Misuse and Cybercrimes Act, 2018](../appendices/sources.md#source-catalog)
@@ -60,6 +68,8 @@ Part III teaches one repeated lesson: distribution and trust compound faster tha
 - `SRC-25`: [NBER monetary economics of mobile money](../appendices/sources.md#source-catalog)
 - `SRC-49`: [Safaricom annual report 2009](../appendices/sources.md#source-catalog)
 - `SRC-51`: [CA sector statistics Q3 FY2024/25](../appendices/sources.md#source-catalog)
+- `SRC-77`: [Safaricom — *Using M-PESA* (USSD `*334#` alongside STK and apps)](../appendices/sources.md#source-catalog)
+- `SRC-78`: [Safaricom press release — M-PESA on `*334#` (Nov 2021)](../appendices/sources.md#source-catalog)
 
 ---
 

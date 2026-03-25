@@ -7,7 +7,7 @@ tags:
 ---
 # Part XIII: Community Finance (Always-On Tradition, Digitized)
 
-## 47. Chamas and Table Banking: Trust as Financial Engine
+## 48. Chamas and Table Banking: Trust as Financial Engine
 
 Long before fintech language entered everyday conversation, chamas solved practical liquidity problems through relationships. Contributions were scheduled, leadership roles rotated, and consequences for non-compliance were social before they were legal. A ledger on paper could outperform formal systems where trust and proximity were strong.
 
@@ -19,7 +19,7 @@ The shadow is governance risk: weak record-keeping, internal conflict, and misus
 
 Bridge: digitization tools promised stronger transparency for group governance.
 
-## 48. Digitizing Chamas: Ledgers, Voting, Transparency
+## 49. Digitizing Chamas: Ledgers, Voting, Transparency
 
 A chama that once depended on notebooks now uses dashboards, transaction exports, and group polling tools. Members can verify contributions remotely. Treasurers can reconcile faster. Disputes can be evidence-backed.
 
@@ -31,7 +31,7 @@ The shadow includes credential theft, admin abuse in digital systems, and confli
 
 Bridge: SACCO modernization brought similar digitization pressures into regulated cooperative finance.
 
-## 49. SACCO Digitization: Cooperative Stack Matures
+## 50. SACCO Digitization: Cooperative Stack Matures
 
 SACCO members increasingly expect loan applications, balance checks, and repayment updates through mobile channels. Cooperative finance, once branch-heavy, is now shaped by integration quality and service reliability.
 
@@ -43,7 +43,7 @@ The shadow includes cyber-risk exposure for institutions with uneven security ma
 
 Bridge: social solidarity finance moved beyond recurring groups into rapid-response fundraising.
 
-## 50. M-Changa: Harambee Goes Link-Based
+## 51. M-Changa: Harambee Goes Link-Based
 
 When crisis hits, speed matters. A fundraiser link can circulate across families, alumni groups, churches, and diaspora networks within hours. Contributions that once required physical coordination now arrive in streams of small digital commitments.
 
@@ -55,7 +55,7 @@ The shadow is verification burden: urgency can be exploited by scammers if check
 
 Bridge: WhatsApp remained the dominant coordination channel across all these flows.
 
-## 51. WhatsApp as Financial Coordination Layer
+## 52. WhatsApp as Financial Coordination Layer
 
 A single chat thread can host reminders, receipts, voting, conflict resolution, and payment escalation. In practice, many community financial systems run on conversational governance.
 
