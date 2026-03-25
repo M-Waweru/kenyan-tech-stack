@@ -76,7 +76,7 @@ Bridge: messaging channels would become both protective infrastructure and threa
 
 ## Deep-Dive Analysis
 
-Editorial framework: see Appendix C methodology section, "Narrative Interpretation Rules."
+Editorial framework: see Appendix C methodology section.
 
 ## Timeline Anchors
 
