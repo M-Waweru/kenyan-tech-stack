@@ -61,22 +61,38 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2022-2025 | Digital lending regulated through DCP framework | SRC-16 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| 2022-2025 | Digital lending regulated through DCP framework | SRC-16[^src-16] |
+| 2025 | Governance and compliance standards become central product constraints | SRC-13[^src-13] |
+| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15[^src-15] |
 
 ## Metrics Snapshot
 
 | Indicator | Why It Matters | Suggested Source |
 | --- | --- | --- |
-| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
+| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19[^src-19] |
+| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22[^src-22] |
+| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13[^src-13] |
 
 ## Verified Sources For This Part
 
-- `SRC-16`: see [Source Catalog](sources.md#source-catalog)
-- `SRC-24`: see [Source Catalog](sources.md#source-catalog)
-- `SRC-25`: see [Source Catalog](sources.md#source-catalog)
+- `SRC-16[^src-16]`: see [Source Catalog](sources.md#source-catalog)
+- `SRC-24[^src-24]`: see [Source Catalog](sources.md#source-catalog)
+- `SRC-25[^src-25]`: see [Source Catalog](sources.md#source-catalog)
 
 Full links: [Source Catalog](sources.md)
+
+## Fact-Check Confidence Tags
+
+- [A] Date, law, and product-launch claims in `Timeline Anchors` are treated as primary-source verified during this editorial pass.[^src-13][^src-15]
+- [B] Adoption and incident metrics in `Metrics Snapshot` rely on regulator reporting and may be revised by subsequent quarters.[^src-19][^src-22]
+- [C] Interpretive synthesis in `Deep-Dive Analysis` remains directional and should be triangulated with interviews before publication.[^src-13]
+
+## Source Footnotes
+
+[^src-16]: [SRC-16](https://new.kenyalaw.org/akn/ke/act/ln/2022/46/eng%402022-04-22)
+[^src-13]: [SRC-13](https://new.kenyalaw.org/akn/ke/act/2019/24/eng%402019-11-15)
+[^src-15]: [SRC-15](https://new.kenyalaw.org/akn/ke/act/2025/20/eng%402025-11-04)
+[^src-19]: [SRC-19](https://www.ca.go.ke/mobile-data-and-digital-services-rise-ca-report-shows)
+[^src-22]: [SRC-22](https://repository.ca.go.ke/items/7f4d2774-585b-4f4d-aa0a-4303915d2374)
+[^src-24]: [SRC-24](https://www.nber.org/papers/w16721)
+[^src-25]: [SRC-25](https://www.nber.org/papers/w17129)
