@@ -14,9 +14,9 @@ tags:
 
 ## Topics in this part
 
-- [34. Uber and Bolt: Growth Meets Driver Backlash](35-uber-bolt-driver-backlash.md)
-- [35. Little Cab: The Local Counterpunch](36-little-cab.md)
-- [36. Glovo, Jumia, and Delivery Unit Economics](37-glovo-jumia-delivery.md)
+- [35. Uber and Bolt: Growth Meets Driver Backlash](35-uber-bolt-driver-backlash.md)
+- [36. Little Cab: The Local Counterpunch](36-little-cab.md)
+- [37. Glovo, Jumia, and Delivery Unit Economics](37-glovo-jumia-delivery.md)
 
 
 <!-- EVIDENCE_BLOCK -->
@@ -32,23 +32,28 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2015-2025 | App-based urban service adoption accelerates with smartphone penetration | SRC-18 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| Jan 2015 | **Uber** launches **Nairobi** **uberX** | SRC-130 |
+| Jun 2016 | **Uber** **Africa** adds **cash**; **Nairobi** as second global **cash** test; usage surge claim | SRC-125 |
+| Jul–Aug 2016 | **Little Cab** launches (**Safaricom** × **Craft Silicon**); fare war; driver strike on **Uber** cuts | SRC-126, SRC-124 |
+| Jul 2019 | **Uber** / **Bolt** / **Little** drivers strike; **MoU** / **NTSA** frame | SRC-127 |
+| Apr 2019 | **Jumia** lists on **NYSE**; logistics-heavy **e-commerce** narrative | SRC-128 |
+| Jul 2022 | **Delivery Hero** closes **Glovo** majority stake; combined geography | SRC-129 |
+| 2015–2025 | **Smartphone** / **data** depth enables app-based urban services | SRC-19 |
+| 2025 | **Data** governance and compliance as product constraint | SRC-13 |
 
 ## Metrics Snapshot
 
 | Indicator | Why It Matters | Suggested Source |
 | --- | --- | --- |
-| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
+| Mobile/data usage trend | Reachable market for ride-hail and delivery apps | SRC-19 |
+| Cyber or trust incidents | Confidence tax on payments in transit | SRC-22 |
+| Regulatory maturity | Transport, labour, and consumer-protection guardrails | SRC-13 |
 
 ## Verified Sources For This Part
 
-- `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-19`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-13`, `SRC-17`: **Data Protection Act**; **ODPC** (location, payment, and account data in mobility apps)
+- `SRC-19`, `SRC-60`: **CA** sector reporting (**smartphone**/**data** adoption)
+- `SRC-124`–`SRC-130`: **Reuters** / **TechCrunch** / **The Star** (**Uber**, **Little**, **Bolt**, **Jumia**); **Delivery Hero** (**Glovo**); **Uber** **Kenya** launch blog
 
 Full links: [Source Catalog](../appendices/sources.md)
 

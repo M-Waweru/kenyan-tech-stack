@@ -14,8 +14,8 @@ tags:
 
 ## Topics in this part
 
-- [45. SportPesa: Betting Nation](46-sportpesa.md)
-- [46. Forex, Crypto, and Trading-App Culture](47-forex-crypto-trading-culture.md)
+- [46. SportPesa: Betting Nation](46-sportpesa.md)
+- [47. Forex, Crypto, and Trading-App Culture](47-forex-crypto-trading-culture.md)
 
 
 <!-- EVIDENCE_BLOCK -->
@@ -31,23 +31,31 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2016-2025 | Digital finance participation broadens across retail channels | SRC-19 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| May 2019 | Kenya tightens betting advertising (outdoor/social) | SRC-144 |
+| Jul 2019 | Major operators non-operational amid licence/tax row | SRC-145 |
+| Sep 2019 | SportPesa halts Kenya ops; stake excise 10%→20% | SRC-144, SRC-145 |
+| Nov 2020 | High Court / BCLB / Milestone Games–SportPesa brand dispute (reported) | SRC-146 |
+| Sep 2017 | Online foreign exchange trading regulations (LN 226/2017) | SRC-147 |
+| Apr 2018 | CBK governor warns on crypto / bank exposure (press) | SRC-150 |
+| Jan 2022 | CBK reiterates unchanged stance on crypto (press) | SRC-149 |
+| Nov 2025 | VASP Act, 2025 on Kenya Law (forward-looking crypto framework) | SRC-15 |
 
 ## Metrics Snapshot
 
 | Indicator | Why It Matters | Suggested Source |
 | --- | --- | --- |
-| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
+| Industry revenue frame (e.g. ~204B KES, as cited by government via BBC) | Fiscal and moral stakes of betting scale | SRC-144 |
+| Stake excise and withholding on winnings | Operator viability vs Treasury take | SRC-144, SRC-145 |
+| Licensed forex vs unlicensed promotion | Investor harm surface | SRC-147, SRC-148 |
+| Crypto ownership survey claims (indicative) | Demand vs regulator posture gap | SRC-149 |
 
 ## Verified Sources For This Part
 
-- `SRC-16`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-19`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-144`–`SRC-146`, `SRC-151`: **BBC** / **The Star** / **The Standard** — **SportPesa** arc; **BCLB** portal
+- `SRC-147`, `SRC-148`: **Online FX regulations**; **CMA** investor cautions
+- `SRC-149`, `SRC-150`: **TechTrends KE**; **CoinDesk** — **CBK** crypto messaging
+- `SRC-15`: **VASP Act, 2025** — virtual asset service provider framework
+- `SRC-19`: **CA** sector stats — mobile/data depth for app-based rails
 
 Full links: [Source Catalog](../appendices/sources.md)
 

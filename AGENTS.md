@@ -27,6 +27,15 @@ Read and follow **`authoring/AGENT-CHAPTER-GUIDE.md`**. It links the normative m
 | Source catalog (`SRC-XX`) | `book/appendices/sources.md` |
 | Scaffold (manuscript → topics) | `scripts/scaffold_topic_articles.py` |
 
+## Appendices — keep in sync with chapters
+
+Whenever you add or materially change a **topic** under `book/part-*/`, update the reader appendices in the **same change** (or immediately after) so the published tree stays internally consistent:
+
+- **[Cast](book/appendices/appendix-cast.md)** — new or recurring **named** people and institutions that anchor chapters; extend **collective** entries’ “Where to find” links when a part gains new topics.
+- **[Source catalog](book/appendices/sources.md)** — every new `SRC-XX` must have a row **before** first citation; fix duplicate IDs if you spot a collision.
+- **[Rail map](book/appendices/appendix-rail-map.md)** — when a chapter introduces a **new** stack layer or redefines a rail readers will meet again.
+- **[Research methodology](book/appendices/research-methodology.md)** — only when you change how the book describes evidence, limits, or verification.
+
 ## Cursor
 
 See `.cursor/rules/kenyan-tech-stack-chapters.mdc` for a short always-on reminder when editing `book/**/*.md`.

@@ -14,10 +14,10 @@ tags:
 
 ## Topics in this part
 
-- [22. eCitizen: The State Becomes a Product](23-ecitizen.md)
-- [23. eGov for Everything](24-egov-for-everything.md)
-- [24. IPRS, Huduma, NIIMS: Identity Wars](25-iprs-huduma-niims-identity.md)
-- [25. Kenya's High-Profile Hacks: Attack Surface of a Digitizing State](26-kenya-high-profile-hacks-state.md)
+- [23. eCitizen: The State Becomes a Product](23-ecitizen.md)
+- [24. eGov for Everything](24-egov-for-everything.md)
+- [25. IPRS, Huduma, NIIMS: Identity Wars](25-iprs-huduma-niims-identity.md)
+- [26. Kenya's High-Profile Hacks: Attack Surface of a Digitizing State](26-kenya-high-profile-hacks-state.md)
 
 
 <!-- EVIDENCE_BLOCK -->
@@ -33,6 +33,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
+| 2014+ | **eCitizen** / **Government Digital Payments** programme and gazette entrenchment | SRC-110 |
+| Jan 2020 | **High Court** conditions **Huduma Namba** rollout; bars **DNA** / **GPS** capture as framed | SRC-109 |
+| Jul 2023 | **eCitizen** **DDoS** and spillover narrative (**BBC** reporting) | SRC-108 |
 | 2019-2025 | Data protection and cybercrime acts govern digital state expansion | SRC-13 |
 | 2025 | Governance and compliance standards become central product constraints | SRC-13 |
 | 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
@@ -47,11 +50,11 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 ## Verified Sources For This Part
 
-- `SRC-10`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-12`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-13`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-14`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-17`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-10`–`SRC-12`: **eCitizen** gateways and directorate pages — [Source Catalog](../appendices/sources.md)
+- `SRC-13`, `SRC-14`: **Data Protection Act, 2019**; **Computer Misuse and Cybercrimes Act, 2018**
+- `SRC-17`: **Office of the Data Protection Commissioner (ODPC)**
+- `SRC-22`: **KE-CIRT/CC** reporting (via **CA** repository)
+- `SRC-108`–`SRC-113`: **BBC** cyber / **Huduma** court coverage; **Treasury** **GDP** narrative; **Kenya Law** **NIIMS** rules and *Registration of Persons Act*; **Privacy International** analysis
 
 Full links: [Source Catalog](../appendices/sources.md)
 

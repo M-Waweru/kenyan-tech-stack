@@ -150,7 +150,7 @@ Ship recovery UX as deliberately as onboarding UX: when a user is scared, your c
 - `SRC-76` — [The Paypers — CBK open banking / payments vision summary (Jan 2021)](https://thepaypers.com/fintech/news/central-bank-of-kenya-releases-plan-to-implement-open-banking)
 - `SRC-38` — [CBK — *Kenya's Payments Journey* (PDF)](https://www.centralbank.go.ke/wp-content/uploads/2023/02/Kenyas-Payments-Journey.pdf)
 - `SRC-82` — [The Paypers — Nigerian digital bank Umba starts operations in Kenya (Feb 2023)](https://thepaypers.com/fintech/news/nigerian-digital-bank-umba-starts-operations-in-kenya)
-- `SRC-78` — [TechCrunch — FairMoney in talks to buy Umba, $20M all-stock frame (Feb 2024)](https://techcrunch.com/2024/02/20/nigerian-digital-bank-fairmoney-in-talks-to-buy-umba-in-20m-all-stock-deal-sources-say/)
+- `SRC-144` — [TechCrunch — FairMoney in talks to buy Umba, $20M all-stock frame (Feb 2024)](https://techcrunch.com/2024/02/20/nigerian-digital-bank-fairmoney-in-talks-to-buy-umba-in-20m-all-stock-deal-sources-say/)
 - `SRC-79` — [TechCrunch — Most African neobanks remain in the red (Jan 2024)](https://techcrunch.com/2024/01/31/despite-glimmers-of-profit-most-african-neobanks-remain-in-the-red/)
 - `SRC-80` — [Innovation Village — Umba $5M debt facility, Kenya secured lending (Oct 2024)](https://innovation-village.com/umba-secures-5m-to-scale-secured-lending-in-kenya-eyes-profitability-in-2024/)
 - [Full Source Catalog](../appendices/sources.md)

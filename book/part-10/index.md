@@ -14,10 +14,10 @@ tags:
 
 ## Topics in this part
 
-- [37. Twiga: Produce as a Machine](38-twiga.md)
-- [38. Sendy: Logistics Dreams and Friction](39-sendy.md)
-- [39. Lori: Trucking as Software and Negotiation](40-lori-trucking.md)
-- [40. MarketForce and Copia: Informal Retail Digitization](41-marketforce-copia.md)
+- [38. Twiga: Produce as a Machine](38-twiga.md)
+- [39. Sendy: Logistics Dreams and Friction](39-sendy.md)
+- [40. Lori: Trucking as Software and Negotiation](40-lori-trucking.md)
+- [41. MarketForce and Copia: Informal Retail Digitization](41-marketforce-copia.md)
 
 
 <!-- EVIDENCE_BLOCK -->
@@ -33,23 +33,30 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2014-2025 | Digital commerce logistics scaled by mobile internet growth | SRC-19 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| 2014 | **Twiga Foods** founded (**Njonjo**, **Brooke**) | SRC-131 |
+| Oct 2019 | **Twiga** **Series B** (**Goldman Sachs**-led); **M-PESA** settlement cadence | SRC-131 |
+| Sep 2018 | **Lori Systems** scales trucking network; **Kenya** **rail** last-mile partnership | SRC-134 |
+| Jan 2022 | **Copia** **Series C** (**USD 50M**); agent-led **B2C** model | SRC-137 |
+| Feb 2022 | **MarketForce** **Series A** (**USD 40M**); **RejaReja** + **BNPL** | SRC-135 |
+| Aug 2023 | **Sendy** winds down; asset-sale process | SRC-133 |
+| Aug 2023 | **Twiga** major layoffs; in-house logistics disbanded | SRC-132 |
+| May 2023 | **MarketForce** capital-call shortfall; route rationalisation | SRC-136 |
+| 2014–2025 | **Mobile** **data** depth supports field ops and merchant apps | SRC-19 |
+| 2025 | **Data** governance on transaction trails | SRC-13 |
 
 ## Metrics Snapshot
 
 | Indicator | Why It Matters | Suggested Source |
 | --- | --- | --- |
-| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
+| Mobile/data usage trend | Field agents, drivers, and merchants live on connectivity | SRC-19 |
+| Cyber or trust incidents | Payment and delivery fraud tax thin margins | SRC-22 |
+| Regulatory maturity | **CBK**/**competition**/**consumer** rules on credit embedded in commerce | SRC-13 |
 
 ## Verified Sources For This Part
 
-- `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-24`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-13`, `SRC-17`: **Data Protection Act**; **ODPC** (merchant PII, location traces)
+- `SRC-19`: **CA** sector reporting (**smartphone**/**data** for logistics apps)
+- `SRC-131`–`SRC-137`: **Reuters** / **TechCrunch** (**Twiga**, **Sendy**, **Lori**, **MarketForce**, **Copia**)
 
 Full links: [Source Catalog](../appendices/sources.md)
 

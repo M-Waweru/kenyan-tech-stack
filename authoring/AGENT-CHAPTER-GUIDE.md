@@ -69,9 +69,16 @@ Kenya’s tech story is emotional: hackathon nights, agents hustling, drivers or
 
 Include fraud, scams, disinformation, crackdowns, exploitation, unintended harms where relevant. **Analyse and witness; do not write instructions** for wrongdoing.
 
-### 10) Appendices
+### 10) Appendices (mandatory sync)
 
-New major people or rails should stay consistent with **[Cast](../book/appendices/appendix-cast.md)** and **[Rail map](../book/appendices/appendix-rail-map.md)**; update those files when you add durable entries.
+**Treat appendices as part of the chapter deliverable**, not an optional polish pass. When you add or substantially revise a topic under `book/part-*/`, update in the same session:
+
+1. **[Cast](../book/appendices/appendix-cast.md)** — named figures who recur or carry a chapter’s builder story; refresh **collective** “Where to find” bullets when new parts/topics reference that cohort.
+2. **[Source catalog](../book/appendices/sources.md)** — register every new `SRC-XX` before first use; never reuse an ID for a different URL.
+3. **[Rail map](../book/appendices/appendix-rail-map.md)** — only when you name or split a **rail** that should appear in the stack overview.
+4. **[Research methodology](../book/appendices/research-methodology.md)** — only if claims about methods, limits, or verification change.
+
+New major people or rails must stay **consistent** with those files; stale cast links and orphan `SRC-XX` IDs are CI-for-the-reader failures.
 
 ### Field vignette + referee beat (editorial target)
 
@@ -110,6 +117,7 @@ Per-chapter **cold open • rail • shadow • bridge** prompts live under each
 - [ ] **Acronyms:** first use in the file = **Full Name (ABBR)**; if a term appears first late, expand it there. Brand names like **M-PESA** may stay unexpanded when standard.
 - [ ] **Citations:** body prose uses **markdown links** to real URLs, not bare `` (`SRC-34`) ``. Add `[key]: https://…` **registry at end of file** (after Navigate). List every cited `SRC-XX` under **Sources** with the same URL.
 - [ ] **New sources:** add a row to `book/appendices/sources.md` before first use; use next free `SRC-XX`.
+- [ ] **Appendices sync:** Cast (+ collectives where needed), source catalog, and rail map (if rail changed)—see **§10 Appendices** above.
 - [ ] **Prose:** prefer narrative paragraphs; avoid semicolon-chained unrelated clauses (`a; b; c` as lazy lists). Use periods or “and”.
 - [ ] **Composite scenes** only under **`### Composite scene:`** (Part I style), grounded in documented practice—not a `*Composite.*` prefix on the whole Lead.
 - [ ] **No outline labels** in reader text (`Bridge:`, `Worked example (*Composite*)`, etc.).

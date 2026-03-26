@@ -39,7 +39,7 @@ Conflict to watch: velocity versus compliance—the same APIs and onboarding flo
 | 4 May 2023 | TechCrunch — Fingo × Ecobank, seed / launch coverage | SRC-71 |
 | Feb 2023 | The Paypers — Umba Kenya via Daraja MFB | SRC-82 |
 | Jan 2024 | TechCrunch — Africa neobanks profitability context | SRC-79 |
-| Feb 2024 | TechCrunch — FairMoney–Umba talks, unit-economics colour | SRC-78 |
+| Feb 2024 | TechCrunch — FairMoney–Umba talks, unit-economics colour | SRC-144 |
 | Oct 2024 | Innovation Village — Umba debt / Kenya secured lending | SRC-80 |
 | Aug 2025 | NewsTrends KE — KCB revamped mobile app (ch. 18) | SRC-81 |
 
@@ -58,7 +58,7 @@ Conflict to watch: velocity versus compliance—the same APIs and onboarding flo
 - `SRC-74`: [Bizna Kenya — LOOP “crown jewel” + CBK mobile-money cite](../appendices/sources.md#source-catalog)
 - `SRC-75`: [Techweez — Branch × Century MFB](../appendices/sources.md#source-catalog)
 - `SRC-76`: [The Paypers — CBK open banking plan summary](../appendices/sources.md#source-catalog)
-- `SRC-82`, `SRC-78`–`SRC-80`: [Umba + FairMoney + neobank economics](../appendices/sources.md#source-catalog)
+- `SRC-82`, `SRC-144`, `SRC-79`–`SRC-80`: [Umba + FairMoney + neobank economics](../appendices/sources.md#source-catalog)
 - `SRC-81`: [NewsTrends KE — KCB app (ch. 18)](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
