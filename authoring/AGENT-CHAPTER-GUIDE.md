@@ -138,6 +138,24 @@ python3 scripts/patch_topic_navigation.py
 
 Part I (`book/part-01/01`–`03`) and Part II (`book/part-02/04`–`07`) are the **reference** for depth, **Lead voice** (no `Bridge:` / composite prefixes), citations, acronyms, and registry style.
 
+## Evidence depth standard (mandatory)
+
+Use this standard for all new chapters and all substantial rewrites.
+
+- Minimum **6 substantive citations** per topic chapter (excluding "Source Catalog" link).
+- At least **3 source classes** represented in each chapter:
+  - independent journalism / wire reporting
+  - official or primary institutional records (law, regulator, filings, court)
+  - civil society, academic, or policy-research analysis
+- Do not let one source class dominate: no single class should exceed roughly 70% of chapter citations when alternatives exist.
+- Every chapter must include at least:
+  - one citation in **History**
+  - one citation in **Regulation and referees**
+  - one citation in **Setbacks and controversies**
+- Where events are contested, include at least **two perspectives** (for example: state/regulator and rights/civil-society; or party claim and independent reporting).
+- Prefer dated, attributable claims over generalized narrative assertions.
+- When source quality is mixed, mark the weaker source as contextual and pair it with a stronger independent or primary source.
+
 ## Publishing boundary
 
 CI or Quartz should **publish `book/`** (and repo `SUMMARY.md` if using GitBook). Do not publish `authoring/` unless you explicitly want internal docs public.

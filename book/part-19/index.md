@@ -8,14 +8,14 @@ tags:
   - topic-index
 ---
 
-# Part 19: Cybersecurity Era (—)
+# Part 19: Cybersecurity Era (2018-present)
 
 
 
 ## Topics in this part
 
-- [69. High-Profile Hacks as Cultural Memory](70-high-profile-hacks-cultural-memory.md)
-- [70. Cyber Maturity Arc: Trust as Next Industry](71-cyber-maturity-trust-industry.md)
+- [70. High-Profile Hacks as Cultural Memory](70-high-profile-hacks-cultural-memory.md)
+- [71. Cyber Maturity Arc: Trust as Next Industry](71-cyber-maturity-trust-industry.md)
 
 
 <!-- EVIDENCE_BLOCK -->
@@ -31,23 +31,27 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2022-2024 | KE-CIRT/CC reports highlight rising incident volumes | SRC-22 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| 2018 | Computer Misuse and Cybercrimes Act enacted | SRC-14 |
+| 2019 | Data Protection Act enacted; ODPC oversight era begins | SRC-23 |
+| 2023 | eCitizen disruption period pushes cyber risk into mainstream public discourse | SRC-108 |
+| 2024 | ODPC determinations reinforce practical data-governance enforcement | SRC-187 |
 
 ## Metrics Snapshot
 
 | Indicator | Why It Matters | Suggested Source |
 | --- | --- | --- |
-| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
+| Reported cyber threat activity | Signals operational pressure on digital rails | SRC-22 |
+| Public service disruption visibility | Shows trust and continuity risk in critical digital channels | SRC-108 |
+| Data-governance enforcement actions | Indicates whether compliance obligations are becoming real constraints | SRC-187 |
 
 ## Verified Sources For This Part
 
 - `SRC-14`: see [Source Catalog](../appendices/sources.md#source-catalog)
 - `SRC-22`: see [Source Catalog](../appendices/sources.md#source-catalog)
 - `SRC-23`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-108`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-186`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-187`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
 

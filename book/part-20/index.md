@@ -14,12 +14,12 @@ tags:
 
 ## Topics in this part
 
-- [71. The Stack Thickens](72-stack-thickens.md)
-- [72. Regulation Becomes Product](73-regulation-becomes-product.md)
-- [73. Interoperability Wars](74-interoperability-wars.md)
-- [74. Cross-Border as Battlefield](75-cross-border-battlefield.md)
-- [75. Compute Arrives](76-compute-arrives.md)
-- [76. Kenyan Tech Stack 2045](77-kenya-stack-2045.md)
+- [72. The Stack Thickens](72-stack-thickens.md)
+- [73. Regulation Becomes Product](73-regulation-becomes-product.md)
+- [74. Interoperability Wars](74-interoperability-wars.md)
+- [75. Cross-Border as Battlefield](75-cross-border-battlefield.md)
+- [76. Compute Arrives](76-compute-arrives.md)
+- [77. Kenyan Tech Stack 2045](77-kenya-stack-2045.md)
 
 
 <!-- EVIDENCE_BLOCK -->
@@ -35,17 +35,18 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2025-2045 | Policy, interoperability and cross-border rails set growth path | SRC-15 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| 2019-2025 | Data-protection and cyber legal frameworks harden digital governance constraints | SRC-13 / SRC-14 |
+| 2025 | National AI strategy era begins, formalizing compute and governance ambitions | SRC-188 |
+| 2026-2045 | Interoperability and cross-border execution quality shape growth outcomes | SRC-16 / SRC-26 |
 
 ## Metrics Snapshot
 
 | Indicator | Why It Matters | Suggested Source |
 | --- | --- | --- |
 | Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
+| Cyber incident pressure | Confidence tax on adoption and uptime | SRC-22 |
+| Cross-border remittance baseline | Signal of corridor demand for faster settlement rails | SRC-26 |
+| AI/governance policy progress | Indicates readiness for compute-heavy digital economy | SRC-188 |
 
 ## Verified Sources For This Part
 
@@ -53,6 +54,7 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-16`: see [Source Catalog](../appendices/sources.md#source-catalog)
 - `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
 - `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-188`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
 

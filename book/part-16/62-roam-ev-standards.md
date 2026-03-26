@@ -1,5 +1,5 @@
 ---
-title: 62. Roam and EV Standards Wars
+title: "62. Roam and EV Standards Wars"
 slug: roam-ev-standards
 part: 16
 part_title: Survival Tech
@@ -15,67 +15,77 @@ tags:
 
 ## Lead
 
-Electric mobility promises lower operating costs, but only when batteries, charging, service access, and financing structures align.
+Electric mobility promises lower operating cost only when batteries, charging, service access, and financing structures actually align on the ground. Without standards and interoperability, “cheaper per kilometer” can become a maintenance and downtime trap.
 
-The rail is e-mobility infrastructure and standards coordination. Builders include manufacturers, battery and charging partners, and fleet operators. Users include riders and transport businesses optimizing total cost of ownership. Referees include standards bodies, transport regulators, and energy institutions.
+The rail is e-mobility infrastructure plus standards coordination. Builders include vehicle manufacturers, battery and charging partners, and fleet operators. Users include riders and transport businesses optimizing total cost of ownership. Referees include standards bodies, transport regulators, and energy institutions.
 
-Behavior shifted toward lifecycle cost thinking instead of fuel-only budgeting.
-
-The shadow includes fragmented standards, infrastructure mismatch, and adoption risk during transition.
-
-Bridge: in parallel, direct cash-transfer systems proved critical in crisis resilience.
+The behavior shift is lifecycle thinking: operators compare fuel savings against charging reliability, battery replacement risk, and financing terms. The shadow is fragmentation—proprietary systems and infrastructure mismatch can stall adoption.
 
 ## Context
 
-Expand: conditions—market, regulation, distribution, prior rails—that made this topic matter in Kenya.
+Kenya’s transport economics make EV pilots compelling, but commercial success depends on ecosystem compatibility, not vehicle novelty alone.
 
 ## History
 
-Expand: dated chronology (founding, launches, scale moments, crises, pivots). Cite [Source Catalog](../appendices/sources.md).
+### Roam’s manufacturing push
+
+TechCrunch reported Roam’s funding for EV production scale in Kenya, underscoring investor confidence in local assembly and deployment ([TechCrunch — Roam Series A][tc-roam]).
+
+### BasiGo and adjacent standard-setting pressure
+
+TechCrunch’s BasiGo reporting shows similar dynamics in electric buses: financing model design and infrastructure coordination matter as much as hardware specs ([TechCrunch — BasiGo seed][tc-basigo]).
 
 ## Product and mechanics
 
-Expand: how it works for users, businesses, and developers (flows, APIs, fees, trust, UX).
+Core mechanics include vehicle financing, battery strategy (swap vs charge), route planning, maintenance networks, and telemetry. Standards questions emerge around connectors, battery formats, diagnostics, and warranty boundaries.
 
 ## Business model and incentives
 
-Expand: who pays whom, unit economics, strategic constraints.
+Providers monetize through vehicle sales, financing partnerships, service contracts, and energy margins. Operators optimize uptime and total daily earnings, not just sticker price.
 
 ## Regulation and referees
 
-Expand: CBK, CA, sector regulators, courts, consumer protection—who sets the rules.
+Regulatory certainty on homologation, charging safety, and import/local assembly treatment shapes investment confidence. Standards governance is effectively market design.
 
 ## Adoption in Kenya
 
-Expand: segments, channels, geography, typical use cases.
+Adoption starts in high-utilization routes where fuel savings can offset transition risk quickly. Rider and fleet trust depends on charging predictability and service turnaround.
 
 ## Ecosystem effects
 
-Expand: what this unlocked downstream (categories, partners, copycats, stack dependencies).
+E-mobility transition stimulates local assembly ambition, new technician training demand, and electricity-planning linkages with transport policy.
 
 ## Setbacks and controversies
 
-Expand: documented failures, backlash, outages, hacks, labor conflict, policy fights.
+Controversies include vendor lock-in, battery lifecycle accountability, and uneven public claims about operating economics across different route realities.
 
 ## Competition and alternatives
 
-Expand: local and global alternatives readers should compare.
+Alternatives remain ICE vehicles with familiar service ecosystems and financing norms. EV rails win where reliability and financing are jointly solved.
 
 ## Legacy and open questions
 
-What remains unsettled or in flux.
+Will Kenya converge on interoperable standards or remain a patchwork of closed ecosystems? The answer will decide whether EV transition scales beyond pilot islands.
 
 ## Builder read
 
-*Interpretation.* If you are building on or next to this rail today: constraints, failure modes, whitespace.
+*Interpretation.* If you build e-mobility rails, treat interoperability as a product feature, not a policy afterthought. Operators adopt what keeps wheels turning, not what demos well.
 
 ## See also
 
-- [Part index](index.md)
+- [61. Watu and Mobility Asset Finance](61-watu-mobility-finance.md)
+- [63. GiveDirectly: Cash as Climate and Shock Infrastructure](63-givedirectly-cash-resilience.md)
+- [Part 16 index](index.md)
 
 ## Sources
 
-- [Source Catalog](../appendices/sources.md)
+- `SRC-172` — [TechCrunch — Roam raises $24M to scale EV production in Kenya](https://techcrunch.com/2024/02/14/roam-raises-24m-series-a-funding/)
+- `SRC-173` — [TechCrunch — BasiGo seed funding and pay-as-you-drive model](https://techcrunch.com/2022/02/09/basigo-secures-4-3-million-in-seed-funding-to-accelerate-mass-transit-ev-adoption-in-kenya/)
+- [Full Source Catalog](../appendices/sources.md)
+
+<!-- Inline citation targets — see **Sources** for `SRC-XX` IDs. -->
+[tc-roam]: https://techcrunch.com/2024/02/14/roam-raises-24m-series-a-funding/
+[tc-basigo]: https://techcrunch.com/2022/02/09/basigo-secures-4-3-million-in-seed-funding-to-accelerate-mass-transit-ev-adoption-in-kenya/
 
 ---
 

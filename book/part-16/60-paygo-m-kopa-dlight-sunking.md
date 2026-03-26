@@ -15,67 +15,77 @@ tags:
 
 ## Lead
 
-Asset ownership shifted from upfront-purchase model to installment reality. Households could acquire solar kits, devices, and productive tools through structured daily or weekly repayment.
+Asset ownership moved from upfront purchase to installment rhythm. A household that cannot pay for a full system today can still access light, charging, or devices by paying daily through mobile money.
 
-The rail is pay-as-you-go asset finance integrated with mobile payments. Builders include distribution agents, financing systems, and after-sales support teams. Users include low- and middle-income households seeking utility upgrades without large cash reserves. Referees include consumer-credit standards and quality-assurance frameworks.
+The rail is pay-as-you-go (PAYGo) asset finance integrated with digital collections. Builders include hardware providers, financing systems, distribution agents, and after-sales networks. Users include low- and middle-income households and microbusinesses. Referees include consumer-credit standards, product-quality expectations, and dispute mechanisms.
 
-Behavior shifted as asset adoption broadened and payments aligned with income rhythms.
-
-The shadow includes default cycles, repossession anxiety, and long-term affordability debates.
-
-Bridge: mobility finance extended the same model into transport livelihoods.
+The behavior shift is adoption through income-aligned payment schedules. The shadow includes default anxiety, lockout/recovery friction, and affordability debates when total ownership cost is misunderstood.
 
 ## Context
 
-Expand: conditions—market, regulation, distribution, prior rails—that made this topic matter in Kenya.
+PAYGo succeeded in Kenya because mobile micropayments were already normalized and off-grid/under-served households had urgent utility needs. The model translated telecom-style prepaid behavior into durable-asset acquisition.
 
 ## History
 
-Expand: dated chronology (founding, launches, scale moments, crises, pivots). Cite [Source Catalog](../appendices/sources.md).
+### From solar affordability narrative to mainstream fintech rails
+
+Reuters Foundation covered early PAYGo solar affordability dynamics in rural Kenya, showing financing as the adoption unlock ([Reuters Foundation — solar financing][reuters-solar]).
+
+### M-KOPA at scale
+
+Reuters later reported M-KOPA’s large financing rounds and multi-country digital-credit expansion, illustrating how PAYGo evolved from solar niche to broader asset-finance infrastructure ([Reuters — M-KOPA financing][reuters-mkopa]).
 
 ## Product and mechanics
 
-Expand: how it works for users, businesses, and developers (flows, APIs, fees, trust, UX).
+Customer onboarding includes KYC, down payment, and device activation. Ongoing micropayments maintain service access; arrears trigger reminders and sometimes lockout logic, with reinstatement pathways after repayment.
 
 ## Business model and incentives
 
-Expand: who pays whom, unit economics, strategic constraints.
+Revenue comes from device margin, financing spread, and repeat customer lifetime value. The key balancing act is growth versus portfolio quality.
 
 ## Regulation and referees
 
-Expand: CBK, CA, sector regulators, courts, consumer protection—who sets the rules.
+PAYGo intersects consumer credit, data protection, and product safety. Policy attention often centers on disclosure clarity, repossession logic, and treatment of vulnerable customers.
 
 ## Adoption in Kenya
 
-Expand: segments, channels, geography, typical use cases.
+Adoption is strongest where households face high kerosene/charging costs and unstable grid access. Trust depends on agent reliability and after-sales service quality.
 
 ## Ecosystem effects
 
-Expand: what this unlocked downstream (categories, partners, copycats, stack dependencies).
+PAYGo rails became templates for financing beyond lighting: phones, appliances, and productive tools. They also fed adjacent mobility-finance models.
 
 ## Setbacks and controversies
 
-Expand: documented failures, backlash, outages, hacks, labor conflict, policy fights.
+Common concerns include opaque total-cost communication, aggressive collections in stress periods, and quality variance in hardware/service support.
 
 ## Competition and alternatives
 
-Expand: local and global alternatives readers should compare.
+Alternatives include SACCO loans, informal hire-purchase, and direct cash purchase where income allows.
 
 ## Legacy and open questions
 
-What remains unsettled or in flux.
+Will PAYGo remain a ladder into asset ownership or drift into recurring debt traps for the poorest users? The answer rests on pricing transparency and humane recovery design.
 
 ## Builder read
 
-*Interpretation.* If you are building on or next to this rail today: constraints, failure modes, whitespace.
+*Interpretation.* If you build PAYGo systems, prioritize repayment dignity: transparent amortization, fair grace logic, and robust agent accountability. Portfolio health should not rely on customer confusion.
 
 ## See also
 
-- [Part index](index.md)
+- [61. Watu and Mobility Asset Finance](61-watu-mobility-finance.md)
+- [59. Apollo and One Acre Fund: Farming as a System](59-apollo-one-acre-fund.md)
+- [Part 16 index](index.md)
 
 ## Sources
 
-- [Source Catalog](../appendices/sources.md)
+- `SRC-170` — [Reuters — M-KOPA signs $255M in financing](https://www.reuters.com/business/finance/african-digital-credit-company-m-kopa-signs-255-mln-new-funding-2023-05-15/)
+- `SRC-171` — [Reuters Foundation — Loans for solar systems in Kenya](https://www.reuters.com/article/us-kenya-energy-solar-financing-idUSKCN1AV0T7/)
+- [Full Source Catalog](../appendices/sources.md)
+
+<!-- Inline citation targets — see **Sources** for `SRC-XX` IDs. -->
+[reuters-mkopa]: https://www.reuters.com/business/finance/african-digital-credit-company-m-kopa-signs-255-mln-new-funding-2023-05-15/
+[reuters-solar]: https://www.reuters.com/article/us-kenya-energy-solar-financing-idUSKCN1AV0T7/
 
 ---
 

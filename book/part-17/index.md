@@ -14,16 +14,16 @@ tags:
 
 ## Topics in this part
 
-- [63. Creators: New Media Economy](64-creators-media-economy.md)
-- [64. Memes as Political Force](65-memes-political-force.md)
-- [65. Disinformation-for-Hire and Narrative Warfare](66-disinformation-for-hire.md)
+- [64. Creators: New Media Economy](64-creators-media-economy.md)
+- [65. Memes as Political Force](65-memes-political-force.md)
+- [66. Disinformation-for-Hire and Narrative Warfare](66-disinformation-for-hire.md)
 
 
 <!-- EVIDENCE_BLOCK -->
 
 ## Deep-Dive Analysis
 
-This part should be read as infrastructure history, not startup chronology. The key interpretive method is to track behavior change after each rail appears: how users transact, coordinate, verify identity, and recover from failure. In editorial pass two, each chapter should add at least one field vignette (agent kiosk, classroom, boda stage, county office, support desk) and one referee decision (regulatory circular, compliance update, legal ruling, policy memo) so the narrative consistently shows the builder-user-referee triangle under pressure.
+Part 17 follows the same rails as entertainment and political communication converged on mobile social platforms. Creation, satire, and manipulation now share distribution infrastructure, which means innovation and harm co-produce each other. The builder-user-referee triangle is compressed: creators ship faster than policy, users reframe narratives in real time, and referees are often forced to respond after virality has already set direction.
 
 > [!info] Source-Backed Note
 > This section is tied to verifiable public sources. Use the Source Catalog IDs below when adding sentence-level footnotes during copy edit.
@@ -32,23 +32,27 @@ This part should be read as infrastructure history, not startup chronology. The 
 
 | Date/Period | Anchor Event | Source ID |
 | --- | --- | --- |
-| 2022-2025 | Audience behavior shifts toward digital-first media | SRC-19 |
-| 2025 | Governance and compliance standards become central product constraints | SRC-13 |
-| 2026+ | Interoperability, trust, and cross-border rails become decisive | SRC-15 |
+| 2018 | Reuters reports Cambridge Analytica campaign role claims in Kenya | SRC-176 |
+| 2018 | Reuters reports ruling-party response and scope dispute | SRC-177 |
+| 2023 | Reuters reports moderators’ legal action tied to platform governance in Kenya | SRC-178 |
+| 2024 | Reuters reports appeal ruling allowing Meta layoff case in Kenya | SRC-179 |
+| 2023–2024 | AI/content safety labor spotlight contributes to broader trust debate | SRC-180 |
 
 ## Metrics Snapshot
 
 | Indicator | Why It Matters | Suggested Source |
 | --- | --- | --- |
-| Mobile/data usage trend | Proxy for reachable digital market depth | SRC-19 |
-| Cyber or trust incidents | Measures confidence tax on adoption | SRC-22 |
-| Regulatory maturity | Determines sustainable scale and consumer protection | SRC-13 |
+| Social app concentration and mobile-data depth | Baseline for creator reach and meme virality | SRC-19, SRC-62 |
+| Legal outcomes on platform accountability | Whether harms can be adjudicated locally | SRC-178, SRC-179 |
+| Documented influence-operation episodes | Historical grounding for narrative-warfare claims | SRC-176, SRC-177 |
+| Content-safety labor controversies | Cost of moderation and trust infrastructure | SRC-180 |
 
 ## Verified Sources For This Part
 
-- `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-19`: see [Source Catalog](../appendices/sources.md#source-catalog)
-- `SRC-14`: see [Source Catalog](../appendices/sources.md#source-catalog)
+- `SRC-176`, `SRC-177`: **Reuters** on Cambridge Analytica Kenya campaign claims and political responses
+- `SRC-178`, `SRC-179`: **Reuters** on moderation labor litigation and appeals in Kenya
+- `SRC-180`: **TIME** investigation (AI safety labor context)
+- `SRC-19`, `SRC-62`: **CA** and cited app-usage reporting for distribution context
 
 Full links: [Source Catalog](../appendices/sources.md)
 

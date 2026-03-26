@@ -213,6 +213,75 @@ This catalog contains verifiable sources used across the manuscript. **Topic cha
 - `SRC-150` **CoinDesk** — **CBK** **governor** **warns** again on **crypto**/**virtual** **currency** **risks**; **banks**/**AML** **framing** (**Apr 2018**; **third-party**): https://www.coindesk.com/markets/2018/04/13/kenyas-central-bank-chief-warns-again-on-crypto-risks
 - `SRC-151` **Betting Control and Licensing Board** (**BCLB**) — **Official** **site** (**licensing** **and** **betting** **regulation** **portal**—**primary**): https://www.bclb.go.ke/
 
+## Part XIII — Community Finance (chamas, SACCO digitization, social fundraising, WhatsApp coordination)
+
+- `SRC-152` **Financial Sector Deepening (FSD) Kenya** — *Explainer: Savings groups in Kenya* (**chamas**/**ROSCAs**/**ASCAs**, **FinAccess** trend points, and digitization support context; **Aug 2015**): https://www.fsdkenya.org/finaccess/explainer-savings-groups-in-kenya/
+- `SRC-153` **Kenya Law** — **Sacco Societies Act, 2008** (establishes **SASRA** and licensing/supervision basis for deposit-taking **SACCOs**): https://new.kenyalaw.org/akn/ke/act/2008/14/eng%402022-12-31
+- `SRC-154` **Disrupt Africa** — **M-Changa** expansion and model details (**US$250k** raised to date at reporting time; **3,200** campaigns; **26,000** contributors; **4.25%** recipient fee; **Apr 2015**; **third-party**): https://disruptafrica.com/2015/04/20/kenyan-startup-m-changa-set-for-june-launch-in-tanzania/
+- `SRC-155` **Kellogg Insight** (Northwestern) — *A crowdfunding app that pays the bills* (**M-Changa** case context, **harambee** digitization narrative, and transparency mechanics; **Sep 2015**; **third-party**): https://insight.kellogg.northwestern.edu/article/a-crowdfunding-app-that-pays-the-bills
+- `SRC-156` **Sacco Societies Regulatory Authority (SASRA)** — **SACCO supervision reports** landing page (annual supervised sector reporting and official downloads): https://www.sasra.go.ke/sacco-supervision-reports/
+
+## Part XIV — Diaspora Rails and Parallel Dollar (remittances, stablecoins, VASP perimeter)
+
+- `SRC-157` **Central Bank of Kenya (CBK)** — **Diaspora Remittances** (monthly inflows table; regional breakdowns—**primary** central-bank series): https://www.centralbank.go.ke/index.php/diaspora-remittance
+- `SRC-158` **CBK** — *Report of the Kenya Diaspora Remittances Survey (December 2021)* (**PDF**; channels, costs, and usage patterns—**primary**): https://centralbank.go.ke/wp-content/uploads/2022/01/REPORTOFTHEKENYADIASPORAREMITTANCESSURVEYDECEMBER2021.pdf
+- `SRC-159` **CBK** — **Banking Circular No. 14 of 2015 — Virtual Currencies (Bitcoin)** (**PDF**; warns banks; consumer-protection/AML framing—**primary**): https://centralbank.go.ke/uploads/banking_circulars/2075994161_Banking%20Circular%20No%2014%20of%202015%20-%20Virtual%20Currencies%20-%20Bitcoin.pdf
+- `SRC-160` **Chainalysis** — Sub-Saharan Africa crypto adoption analysis (notes Kenya’s index rank, retail-driven pattern, and stablecoin turn as “inflation mitigation”/trading vehicle; **2023** excerpt—**third-party**): https://www.chainalysis.com/blog/africa-cryptocurrency-adoption/
+
+## Part XV — Work-from-Home Republic and AI Factory (online labor, platform work, AI data pipelines)
+
+- `SRC-161` **International Labour Organization (ILO)** — *Digital labour platforms in Kenya: Exploring women’s opportunities and challenges across various sectors* (**2024**; opportunities, protections, and platform-work constraints): https://www.ilo.org/publications/digital-labour-platforms-kenya-exploring-womens-opportunities-and-0
+- `SRC-162` **Oxford Internet Institute (OII) / ILO** — **Online Labour Index / Online Labour Observatory** (real-time online freelancing demand/supply methodology; notes data coverage and 2024 collection stop): https://ilabour.oii.ox.ac.uk/online-labour-index/
+- `SRC-163` **TIME** — OpenAI used Kenyan workers paid roughly **USD 1.32–2/hour** for toxic-content labeling tied to ChatGPT safety stack (**Jan 2023**; investigative feature): http://time.com/6247678/openai-chatgpt-kenya-workers
+- `SRC-164` **Reuters** — Kenya moderators sue **Meta** and contractors over alleged union-busting / redundancy and blacklisting claims (**Mar 2023**): https://www.reuters.com/technology/content-moderators-sue-meta-over-alleged-union-busting-kenya-2023-03-20/
+- `SRC-165` **Reuters** — Kenya Court of Appeal upholds that Meta can be sued over moderator layoffs (**Sep 2024**): https://www.reuters.com/world/africa/kenya-court-rules-meta-can-be-sued-over-layoffs-by-contractor-2024-09-20/
+
+## Part XVI — Survival Tech (agri rails, PAYGo assets, mobility finance, EV transition, cash resilience)
+
+- `SRC-166` **Reuters** — *Text message network connects offline farmers in Kenya* (WeFarm SMS model; peer advisory at scale; **Sep 2017**): https://www.reuters.com/article/us-kenya-farmers-technology/text-message-network-connects-offline-farmers-in-kenya-idUSKCN1BP00M/
+- `SRC-167` **TechCrunch** — WeFarm raises **USD 11M**, reports **~2.5M** users and expansion strategy (**Mar 2021**): http://techcrunch.com/2021/03/09/wefarm-adds-11m-to-expand-its-network-for-independent-farmers-now-at-2-5m-users
+- `SRC-168` **TechCrunch** — Apollo Agriculture raises **USD 40M** (SoftBank-led) for bundled smallholder finance/input/advisory expansion (**Mar 2022**): https://techcrunch.com/2022/03/21/kenya-based-agritech-apollo-raises-40-million-in-softbank-led-round-joined-by-chan-zuckerberg-initiative-cdc/
+- `SRC-169` **One Acre Fund** — 2017 Kenya RCT summary / Teso final results (program impact estimates; organization-published evidence): https://oneacrefund.org/publications/2017-randomized-control-trial-summary
+- `SRC-170` **Reuters** — M-KOPA secures **USD 255M** financing; PAYGo/digital-credit scale context (**May 2023**): https://www.reuters.com/business/finance/african-digital-credit-company-m-kopa-signs-255-mln-new-funding-2023-05-15/
+- `SRC-171` **Reuters Foundation / Thomson Reuters Foundation News** — PAYGo solar loans in Kenya affordability narrative (**Aug 2017**): https://www.reuters.com/article/us-kenya-energy-solar-financing-idUSKCN1AV0T7/
+- `SRC-172` **TechCrunch** — Roam raises **USD 24M** to scale EV manufacturing in Kenya (**Feb 2024**): https://techcrunch.com/2024/02/14/roam-raises-24m-series-a-funding/
+- `SRC-173` **TechCrunch** — BasiGo seed funding and electric-bus pay-as-you-drive model in Kenya (**Feb 2022**): https://techcrunch.com/2022/02/09/basigo-secures-4-3-million-in-seed-funding-to-accelerate-mass-transit-ev-adoption-in-kenya/
+- `SRC-174` **NBER** — *General Equilibrium Effects of Cash Transfers: Experimental Evidence from Kenya* (cash-transfer spillovers and welfare effects): https://www.nber.org/papers/w26600
+- `SRC-175` **GiveDirectly** — Basic income study landing (Kenya implementation design and early findings; organization-published): https://www.givedirectly.org/basic-income
+
+## Part XVII — Creators, Memes, Misinformation (creator livelihoods, satire politics, influence operations)
+
+- `SRC-176` **Reuters** — Cambridge Analytica “stage-managed” Kenyan presidential campaigns (Channel 4 undercover claims; **Mar 2018**): https://www.reuters.com/article/technology/cambridge-analytica-stage-managed-kenyan-presidents-campaigns-uk-tv-idUSKBN1GV300/
+- `SRC-177` **Reuters** — Kenya ruling party says it hired firm linked to Cambridge Analytica (scope dispute and political response; **Mar 2018**): https://www.reuters.com/article/us-facebook-cambridgeanalytica-kenya/kenyas-ruling-party-says-hired-firm-linked-to-data-breach-idUSKBN1GW272/
+- `SRC-178` **Reuters** — Kenyan content moderators sue Meta and contractors over alleged union-busting/redundancies (**Mar 2023**): https://www.reuters.com/technology/content-moderators-sue-meta-over-alleged-union-busting-kenya-2023-03-20/
+- `SRC-179` **Reuters** — Kenya Court of Appeal upholds that Meta can be sued over moderator layoffs (**Sep 2024**): https://www.reuters.com/world/africa/kenya-court-rules-meta-can-be-sued-over-layoffs-by-contractor-2024-09-20/
+- `SRC-180` **TIME** — OpenAI outsourced toxic-content labeling to Kenyan workers paid low hourly rates (**Jan 2023**): http://time.com/6247678/openai-chatgpt-kenya-workers
+
+## Part XVIII — Power vs Networks (influence ops, Gen Z protests, lawfare, shutdowns)
+
+- `SRC-181` **Reuters** — Protesters march across Kenya against proposed tax rises; bill contest intensifies (**20 Jun 2024**): https://www.reuters.com/world/africa/protesters-march-cities-across-kenya-against-planned-tax-rises-2024-06-20/
+- `SRC-182` **Reuters** — After tax-bill withdrawal, youth-led movement debates next strategy; leaderless social-media coordination noted (**28 Jun 2024**): https://www.reuters.com/world/africa/after-dramatic-tax-win-kenyan-protesters-plot-next-moves-2024-06-28/
+- `SRC-183` **Reuters** — Protests continue after climbdown; police response, military deployment, and governance pressure (**27 Jun 2024**): https://www.reuters.com/world/africa/kenya-braces-fresh-protests-despite-presidents-tax-climbdown-2024-06-27/
+- `SRC-184` **Access Now / #KeepItOn** — Internet disruption monitoring and rights analysis during June 2024 Kenya protests (Cloudflare/IODA/OONI references; civil-society position): https://www.accessnow.org/press-release/kenya-protests-internet-shutdown/
+- `SRC-185` **Kenya Law** — *Samasource EPZ Ltd t/a Sama v Meta Platforms & others* [2024] KECA 1152 (KLR) (appeal outcome and interlocutory-order reversal in moderator case): https://new.kenyalaw.org/akn/ke/judgment/keca/2024/1152/eng@2024-09-20
+
+## Part XIX — Cybersecurity Era (breaches, outages, trust architecture, maturity)
+
+- `SRC-186` **Reuters** — Kenya major power outage affected internet access (infrastructure fragility and digital service dependency context; **Dec 2024**): https://www.reuters.com/world/africa/major-power-outage-hits-kenya-affects-internet-access-2024-12-18/
+- `SRC-187` **Office of the Data Protection Commissioner (ODPC)** — 2024 determinations (enforcement visibility under the Data Protection Act; regulator primary): https://www.odpc.go.ke/2024-determinations/
+
+## Part XX — The Future Stack (2026-2045) (interoperability, compliance-by-design, cross-border, compute)
+
+- `SRC-188` **Ministry of Information, Communications and the Digital Economy (Kenya)** — National Artificial Intelligence Strategy 2025-2030 launch page (policy direction for compute, governance, and AI capacity): https://www.ict.go.ke/index.php/ict-ministry-set-launch-national-artificial-intelligence-strategy-2025-2030
+
+## Part XVIII+ — Power, Networks, and Rights (deeper views: civil society, rights, policy research)
+
+- `SRC-189` **Kenya National Commission on Human Rights (KNCHR)** — Statement on aftermath of 20 June 2024 Finance Bill protests (human-rights documentation in 19 counties): https://www.knchr.org/Articles/ArtMID/2432/ArticleID/1197/Statement-on-the-Aftermath-of-Protests-against-the-Finance-Bill-2024-carried-out-in-19-Counties-on-Thursday-20th-June-2024
+- `SRC-190` **Amnesty International Kenya** — Call on police restraint and lawful facilitation of 25 June 2024 protests (rights-based policing position): https://www.amnestykenya.org/amnesty-international-kenya-calls-on-the-national-police-service-to-uphold-the-law-exercise-restraint-and-facilitate-june-25-protests/
+- `SRC-191` **ARTICLE 19 Eastern Africa** — Kenya: guarantee internet access and stop surveillance of protesters (digital rights and connectivity integrity framing): https://www.article19.org/resources/kenya-guarantee-internet-access-and-stop-surveillance-of-protesters/
+- `SRC-192` **CIPESA / KICTANet** — *Disinformation in Kenya's Political Sphere: Actors, Pathways and Effects* (2022 policy-research report): https://cipesa.org/wp-content/files/Disinformation-in-Kenyas-Political-Sphere-Actors-Pathways-and-Effects.pdf
+- `SRC-193` **Privacy International** — Further questions on Cambridge Analytica's involvement in Kenya's 2017 elections (investigative rights perspective): https://privacyinternational.org/long-read/1708/further-questions-cambridge-analyticas-involvement-2017-kenyan-elections-and-privacy
+
 ---
 
 ### Navigate the manuscript
